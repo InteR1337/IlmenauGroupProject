@@ -41,7 +41,7 @@ customSchema = StructType([
     StructField("actor", StringType())])
 
 start_time = time.time()
-rdd = sc.textFile("C:/Users/Alexander/Desktop/spark-2.0.1-bin-hadoop2.7/bin/files/events_hd_export_flat.csv") \
+rdd = sc.textFile("/user/alzh4693/events_hd_export_flat.csv") \
     .map(lambda line: line.split(";")) \
     .filter(lambda line: line[0] != 'e_id') \
     .map(lambda line: [int(line[0]), line[1], [float(x) for x in line[2][3:-2].split(' ')] if len(line[2]) > 5 else [],
@@ -63,8 +63,8 @@ if len(end_date) == 10:
 
 df = df.orderBy("time_norm").repartition(1)
 df.select('e_id', 'actor', 'geo_name', 'time_norm').write.format('com.databricks.spark.csv') \
-    .option('sep', ';').option('header', True).save('TimeInterval')
+    .option('sep', ';').option('header', True).save('/user/alzh4693/TimeInterval')
 
-print("Time Interval execution time: ", (time.time() - start_time))
+print "Time Interval execution time: ", (time.time() - start_time)
 
 #df.select(df['e_id'].alias('Id'), (concat(df['actor'], lit(' - '), df['geo_name'], lit(' - '), df['time_norm'])).alias('Label')).write.format('com.databricks.spark.csv').option('sep', ';').option('header', True).save('TimeInterval_Nodes')

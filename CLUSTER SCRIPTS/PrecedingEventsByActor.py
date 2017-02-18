@@ -44,7 +44,7 @@ customSchema = StructType([
     StructField("actor", StringType())])
 
 start_time = time.time()
-rdd = sc.textFile("C:/Users/Alexander/Desktop/spark-2.0.1-bin-hadoop2.7/bin/files/events_hd_export_flat.csv") \
+rdd = sc.textFile("/user/alzh4693/events_hd_export_flat.csv") \
     .map(lambda line: line.split(";")) \
     .filter(lambda line: line[0] != 'e_id') \
     .map(lambda line: [int(line[0]), line[1], [float(x) for x in line[2][3:-2].split(' ')] if len(line[2]) > 5 else [],
@@ -175,9 +175,9 @@ while search_depth > 0:
     search_depth -= 1
 
 df2.repartition(1).select(output_column_list).write.format('com.databricks.spark.csv')\
-  .option('sep', ';').option('header', True).option("dateFormat", "yyyy-MM-dd").save('PrecedingEventsByActor')
+  .option('sep', ';').option('header', True).option("dateFormat", "yyyy-MM-dd").save('/user/alzh4693/PrecedingEventsByActor')
 
-print("Preceding Events By Actor execution time: ", (time.time() - start_time))
+print "Preceding Events By Actor execution time: ", (time.time() - start_time)
 
 #nodes_df.repartition(1).write.format('com.databricks.spark.csv') \
 #    .option('sep', ';').option('header', True).save('PrecedingEventsByActor_Nodes')

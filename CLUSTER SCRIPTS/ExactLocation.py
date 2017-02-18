@@ -41,7 +41,8 @@ customSchema = StructType([
     StructField("actor", StringType())])
 
 start_time = time.time()
-rdd = sc.textFile("C:/Users/Alexander/Desktop/spark-2.0.1-bin-hadoop2.7/bin/files/events_hd_export_flat.csv") \
+
+rdd = sc.textFile("/user/alzh4693/events_hd_export_flat.csv") \
     .map(lambda line: line.split(";")) \
     .filter(lambda line: line[0] != 'e_id') \
     .map(lambda line: [int(line[0]), line[1], [float(x) for x in line[2][3:-2].split(' ')] if len(line[2]) > 5 else [],
@@ -51,20 +52,24 @@ rdd = sc.textFile("C:/Users/Alexander/Desktop/spark-2.0.1-bin-hadoop2.7/bin/file
 df = sqlContext.createDataFrame(rdd, customSchema)
 
 # !!! CHANGE THESE VALUES TO VARY THE SEARCHING LOCATION 
-start_date = '1951-01-01'
-end_date = '1952-01-01'
+latitude = 51.496
+longitude = 10.1396
+threshold = 200
+time_start = '1900-01-01'
 # !!! ----
 
 df = df.filter(size(df.loc) > 0).cache()
-df = df.filter(df.time_norm >= start_date)
+df = df.withColumn('gps_init', array(lit(latitude), lit(longitude)))
+df = df.withColumn('gps_diff', gps_diff_udf(df.loc, df.gps_init))
+df = df.filter(df.gps_diff < threshold)
 
-if len(end_date) == 10:
-  df = df.filter(df.time_norm <= end_date)
+if len(time_start) == 10:
+  df = df.filter(df.time_norm >= time_start)
 
 df = df.orderBy("time_norm").repartition(1)
-df.select('e_id', 'actor', 'geo_name', 'time_norm').write.format('com.databricks.spark.csv') \
-    .option('sep', ';').option('header', True).save('TimeInterval')
+df.select('e_id', 'actor', 'time_norm', 'gps_diff').write.format('com.databricks.spark.csv') \
+    .option('sep', ';').option('header', True).save('/user/alzh4693/ExactLocation')
 
-print("Time Interval execution time: ", (time.time() - start_time))
+print "Exact Location execution time: ", (time.time() - start_time)
 
-#df.select(df['e_id'].alias('Id'), (concat(df['actor'], lit(' - '), df['geo_name'], lit(' - '), df['time_norm'])).alias('Label')).write.format('com.databricks.spark.csv').option('sep', ';').option('header', True).save('TimeInterval_Nodes')
+#df.select(df['e_id'].alias('Id'), (concat(df['actor'], lit(' - '), df['geo_name'], lit(' - '), df['time_norm'])).alias('Label')).write.format('com.databricks.spark.csv').option('sep', ';').option('header', True).save('ExactLocation_Nodes')
