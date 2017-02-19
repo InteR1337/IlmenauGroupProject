@@ -4,7 +4,7 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 3;Meknes;[u'33.883333333333 -5.55'];2542715;2013;2013-01-01;Cedrik-Marcel Stebe;Meknès;Morocco
 4;Meknes;[u'33.883333333333 -5.55'];2542715;2013;2013-01-01;Alessandro Giannessi;Meknès;Morocco
 5;Meknes;[u'33.883333333333 -5.55'];2542715;2013;2013-01-01;Jordi Samper Montaña;Meknès;Morocco
-6;Morocco;[u'32 -6'];2542007;2013;2013-01-01;Gianluca Naso; ;Morocco
+6;Morocco;[u'32 -6'];2542007;2013;2013-01-01;Gianluca Naso;;Morocco
 7;Scania;[u'55.8 13.61666667'];;4 June 1134;1134-06-04;Eric I of Denmark;Sebbarp;Sweden
 8;Scania;[u'55.8 13.61666667'];;4 June 1134;1134-06-04;Canute Lavard;Sebbarp;Sweden
 9;Scania;[u'55.8 13.61666667'];;4 June 1134;1134-06-04;Eric II of Denmark;Sebbarp;Sweden
@@ -22,22 +22,22 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 21;Republican Party;[u'38.88541667 -77.00558333'];;January 13, 1924;1924-01-13;Thomas Ravenel;Washington;United States
 22;Calhoun Falls, South Carolina;[u'34.092777777778 -82.589722222222'];4573077;January 13, 1924;1924-01-13;Thomas Ravenel;Calhoun Falls;United States
 23;South Carolina;[u'34 -81'];4597040;January 13, 1924;1924-01-13;Thomas Ravenel;Columbia;United States
-24;Egypt;[u'26 29'];357994;July 7, 1989;1989-07-07;Raúl; ;Egypt
+24;Egypt;[u'26 29'];357994;July 7, 1989;1989-07-07;Raúl;;Egypt
 25;1. FC Köln;[u'50.90718 6.905369'];;July 7, 1989;1989-07-07;Raúl;Köln;Germany
 26;1. FC Köln;[u'50.90718 6.905369'];;2010;2010-01-01;Hany Ramzy;Köln;Germany
 27;2012 Summer Olympics;[u'51.5049 -0.07857'];;July 2011;2011-07-01;Hany Ramzy;London;United Kingdom
-28;Cairo;[u'30.056111111111 31.239444444444'];360630;July 7, 1989;1989-07-07;Raúl; ;Egypt
+28;Cairo;[u'30.056111111111 31.239444444444'];360630;July 7, 1989;1989-07-07;Raúl;;Egypt
 29;Baltimore;[u'39.286388888889 -76.615'];4347778;1987;1987-01-01;Kevin Liles;Baltimore;United States
 30;Maryland;[u'39 -76.7'];4361885;1987;1987-01-01;Kevin Liles;Crofton;United States
 31;Annapolis;[u'38.973055555556 -76.501111111111'];4347242;1987;1987-01-01;Kevin Liles;Annapolis;United States
 32;Annapolis;[u'38.973055555556 -76.501111111111'];4347242;1987;1987-01-01;Frank Farian;Annapolis;United States
-33;Atlantic Ocean;[u'0 -30'];3373405;1987;1987-01-01;Frank Farian; ; 
-34;Atlantic Ocean;[u'0 -30'];3373405;1988;1988-01-01;Kenny Lattimore; ; 
-35;Atlantic Ocean;[u'0 -30'];3373405;1988;1988-01-01;Toni Braxton; ; 
+33;Atlantic Ocean;[u'0 -30'];3373405;1987;1987-01-01;Frank Farian;;
+34;Atlantic Ocean;[u'0 -30'];3373405;1988;1988-01-01;Kenny Lattimore;;
+35;Atlantic Ocean;[u'0 -30'];3373405;1988;1988-01-01;Toni Braxton;;
 36;Germany;[u'51 10'];2921044;1987;1987-01-01;Frank Farian;Sontra;Germany
 37;Connecticut;[u'41.6 -72.7'];4831725;1988;1988-01-01;Frank Farian;Middletown;United States
 38;United States of America;[u'40 -100'];6252001;February 2005;2005-02-01;Chuck Schumer;Norton;United States
-39;Princethorpe;[u'52.326638888889 -1.4144888888889'];2639886;1795;1795-01-01;George Richards Elkington; ;United Kingdom
+39;Princethorpe;[u'52.326638888889 -1.4144888888889'];2639886;1795;1795-01-01;George Richards Elkington;;United Kingdom
 40;Madeley, Staffordshire;[u'53.001 -2.341'];2643234;1795;1795-01-01;George Richards Elkington;Madeley;United Kingdom
 41;Stretton-on-Dunsmore;[u'52.349961111111 -1.4024388888889'];7301487;1797;1797-01-01;George Richards Elkington;Stretton-on-Dunsmore;United Kingdom
 42;Nocona;[u'33.7883 -97.7264'];4714865;January 7, 1920;1920-01-07;Dana X. Bible;Nocona;United States
@@ -54,21 +54,21 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 53;Medford;[u'42.418333333333 -71.106666666667'];4943629;July 1, 1855;1855-07-01;Harry Wright;Medford;United States
 54;Medford;[u'42.418333333333 -71.106666666667'];4943629;July 1, 1855;1855-07-01;Tommy Bond;Medford;United States
 55;National Baseball Hall of Fame and Museum;[u'42.700322 -74.92369'];7179303;June 12, 1880;1880-06-12;Lee Richmond;Cooperstown;United States
-56;Huntingdon Valley, Pennsylvania;[u'40.1167 -75.0497'];5194598;June 12, 1880;1880-06-12;Lee Richmond; ;United States
+56;Huntingdon Valley, Pennsylvania;[u'40.1167 -75.0497'];5194598;June 12, 1880;1880-06-12;Lee Richmond;;United States
 57;Cambridge University Press;[u'52.1882 0.132'];;1950;1950-01-01;Diarmaid MacCulloch;Cambridge;United Kingdom
 58;Cambridge University Press;[u'52.1882 0.132'];;1950;1950-01-01;James Carleton Paget;Cambridge;United Kingdom
 59;University of Oxford;[u'51.7611 -1.2534'];;1950;1950-01-01;Diarmaid MacCulloch;Oxford;United Kingdom
 60;University of Cambridge;[u'52.205277777778 0.11722222222222'];7288046;1950;1950-01-01;Diarmaid MacCulloch;Cambridge;United Kingdom
-61;South America;[u'-13 -59.4'];6255150;1914;1914-01-01;Lupe Vélez; ;Brazil
-62;South America;[u'-13 -59.4'];6255150;1914;1914-01-01;Ernest Torrence; ;Brazil
-63;South America;[u'-13 -59.4'];6255150;1914;1914-01-01;Jimmy Durante; ;Brazil
-64;South America;[u'-13 -59.4'];6255150;1914;1914-01-01;Moisés Simons; ;Brazil
-65;South America;[u'-13 -59.4'];6255150;1914;1914-01-01;Ernesto Lecuona; ;Brazil
-66;South America;[u'-13 -59.4'];6255150;1914;1914-01-01;Julio Cueva; ;Brazil
-67;South America;[u'-13 -59.4'];6255150;1914;1914-01-01;Cascarita; ;Brazil
-68;South America;[u'-13 -59.4'];6255150;1914;1914-01-01;W. S. Van Dyke; ;Brazil
-69;South America;[u'-13 -59.4'];6255150;1914;1914-01-01;Lawrence Tibbett; ;Brazil
-70;Cuba;[u'22 -79.5'];3562981;1914;1914-01-01;Lupe Vélez; ;Cuba
+61;South America;[u'-13 -59.4'];6255150;1914;1914-01-01;Lupe Vélez;;Brazil
+62;South America;[u'-13 -59.4'];6255150;1914;1914-01-01;Ernest Torrence;;Brazil
+63;South America;[u'-13 -59.4'];6255150;1914;1914-01-01;Jimmy Durante;;Brazil
+64;South America;[u'-13 -59.4'];6255150;1914;1914-01-01;Moisés Simons;;Brazil
+65;South America;[u'-13 -59.4'];6255150;1914;1914-01-01;Ernesto Lecuona;;Brazil
+66;South America;[u'-13 -59.4'];6255150;1914;1914-01-01;Julio Cueva;;Brazil
+67;South America;[u'-13 -59.4'];6255150;1914;1914-01-01;Cascarita;;Brazil
+68;South America;[u'-13 -59.4'];6255150;1914;1914-01-01;W. S. Van Dyke;;Brazil
+69;South America;[u'-13 -59.4'];6255150;1914;1914-01-01;Lawrence Tibbett;;Brazil
+70;Cuba;[u'22 -79.5'];3562981;1914;1914-01-01;Lupe Vélez;;Cuba
 71;United States Senate;[u'38.8906 -77.0089'];;April 2006;2006-04-01;Rick Santorum;Washington;United States
 72;United States Senate;[u'38.8906 -77.0089'];;April 2006;2006-04-01;George W. Bush;Washington;United States
 73;United States Senate;[u'38.8906 -77.0089'];;2006;2006-01-01;Chris Carney;Washington;United States
@@ -95,7 +95,7 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 94;Canada;[u'56 -109'];6251999;September 26, 1926;1926-09-26;Barnett Newman;Michel Village;Canada
 95;Canada;[u'56 -109'];6251999;September 26, 1926;1926-09-26;Clement Greenberg;Michel Village;Canada
 96;Nipawin;[u'53.357222222222 -104.01916666667'];6088469;September 26, 1926;1926-09-26;Barnett Newman;Nipawin;Canada
-97;Saskatchewan;[u'55 -106'];6141242;September 26, 1926;1926-09-26;Barnett Newman; ;Canada
+97;Saskatchewan;[u'55 -106'];6141242;September 26, 1926;1926-09-26;Barnett Newman;;Canada
 98;Calgary;[u'51.054444 -114.066944'];5913490;September 26, 1926;1926-09-26;Barnett Newman;Calgary;Canada
 99;Paris;[u'48.86 2.3444444444444'];2988507;September 26, 1926;1926-09-26;Barnett Newman;Paris;France
 100;New York;[u'43 -75'];5128638;September 26, 1926;1926-09-26;Barnett Newman;Mohawk;United States
@@ -126,14 +126,14 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 125;Kerrville;[u'30.046388888889 -99.140555555556'];4703078;February 9, 1960;1960-02-09;Debra Medina;Kerrville;United States
 126;San Antonio;[u'29.428611111111 -98.493333333333'];4726206;February 9, 1960;1960-02-09;Debra Medina;San Antonio;United States
 127;Texas Tech University;[u'33.58483 -101.87999'];;1999;1999-01-01;Bob Bullock;Lubbock;United States
-128;Brazil;[u'-11 -53'];3469034;February 2015;2015-02-01;Kaka; ;Brazil
-129;Brazil;[u'-11 -53'];3469034;2011;2011-01-01;Kelly Rowland; ;Brazil
-130;Brazil;[u'-11 -53'];3469034;2009;2009-01-01;Bethany Hamilton; ;Brazil
+128;Brazil;[u'-11 -53'];3469034;February 2015;2015-02-01;Kaka;;Brazil
+129;Brazil;[u'-11 -53'];3469034;2011;2011-01-01;Kelly Rowland;;Brazil
+130;Brazil;[u'-11 -53'];3469034;2009;2009-01-01;Bethany Hamilton;;Brazil
 131;Cancer Research UK;[u'51.531545 -0.106587'];;2009;2009-01-01;Kaka;London;United Kingdom
 132;2009 European Grand Prix;[u'39.4589 -0.33167'];;February 2015;2015-02-01;Kaka;València;Spain
 133;2009 European Grand Prix;[u'39.4589 -0.33167'];;2010;2010-01-01;Mark Selby;València;Spain
 134;England;[u'51.5 -0.11666666666667'];6269131;2010;2010-01-01;Mark Selby;London;United Kingdom
-135;Top Gear;[u'51.11972222 -0.53444444'];;February 2015;2015-02-01;Kaka; ;United Kingdom
+135;Top Gear;[u'51.11972222 -0.53444444'];;February 2015;2015-02-01;Kaka;;United Kingdom
 136;University of Washington;[u'47.65591667 -122.30313889'];5814448;1978;1978-01-01;Georges Cuvier;Seattle;United States
 137;University of Washington;[u'47.65591667 -122.30313889'];5814448;1978;1978-01-01;Charles Plumier;Seattle;United States
 138;University of Washington;[u'47.65591667 -122.30313889'];5814448;1978;1978-01-01;Isaac Johannes Lamotius;Seattle;United States
@@ -151,7 +151,7 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 150;Harvard Graduate School of Education;[u'42.37542 -71.12177'];;1972;1972-01-01;K. Leroy Irvis;Cambridge;United States
 151;Harvard Graduate School of Education;[u'42.37542 -71.12177'];;1976;1976-01-01;Richard Schweiker;Cambridge;United States
 152;Graz;[u'47.066666666667 15.433333333333'];2778058;1976;1976-01-01;K. Leroy Irvis;Graz;Austria
-153;Chester County;[u'39.97 -75.75'];5184079;January 1977;1977-01-01;K. Leroy Irvis; ;United States
+153;Chester County;[u'39.97 -75.75'];5184079;January 1977;1977-01-01;K. Leroy Irvis;;United States
 154;Lancaster;[u'40.039722222222 -76.304444444444'];5197079;1980;1980-01-01;Peter F. Flaherty;Lancaster;United States
 155;Pennsylvania House of Representatives;[u'40.2647 -76.8831'];;1967;1967-01-01;Milton Shapp;Harrisburg;United States
 156;Ceuta;[u'35.886667 -5.3'];2519582;1995;1995-01-01;César Manrique;Ceuta;Spain
@@ -159,7 +159,7 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 158;Puerto de la Cruz;[u'28.416667 -16.55'];2512196;1995;1995-01-01;César Manrique;Puerto de la Cruz;Spain
 159;Tenerife;[u'28.268611111111 -16.605555555556'];2510529;1995;1995-01-01;César Manrique;La Orotava;Spain
 160;Parque Marítimo César Manrique;[u'28.45416667 -16.255'];;1995;1995-01-01;César Manrique;Santa Cruz de Tenerife;Spain
-161;Cheshire;[u'53.166666666667 -2.5833333333333'];2653234;7 October 1903;1903-10-07;Alfred Cardew Dixon; ;United Kingdom
+161;Cheshire;[u'53.166666666667 -2.5833333333333'];2653234;7 October 1903;1903-10-07;Alfred Cardew Dixon;;United Kingdom
 162;Germany;[u'51 10'];2921044;1828;1828-01-01;Friedrich Harkort;Sontra;Germany
 163;Germany;[u'51 10'];2921044;1828;1828-01-01;Prince Wilhelm of Prussia;Sontra;Germany
 164;Germany;[u'51 10'];2921044;1828;1828-01-01;Frederick William III of Prussia;Sontra;Germany
@@ -199,18 +199,18 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 198;Wembley Stadium;[u'51.555556 -0.279444'];6543955;2013;2013-01-01;Avram Grant;Wembley;United Kingdom
 199;Wembley Stadium;[u'51.555556 -0.279444'];6543955;2013;2013-01-01;Lee Cattermole;Wembley;United Kingdom
 200;Wembley Stadium;[u'51.555556 -0.279444'];6543955;2013;2013-01-01;David Meyler;Wembley;United Kingdom
-201;Leicestershire and Rutland County Football Association;[u'52.560699 -1.176274'];;8 July 1971;1971-07-08;Lorik Cana; ;United Kingdom
-202;Jordan;[u'31.016667 36.616667'];248816;1 July 1966;1966-07-01;Marouf al-Bakhit; ;Jordan
-203;Jordan;[u'31.016667 36.616667'];248816;1 July 1966;1966-07-01;Abdullah II of Jordan; ;Jordan
-204;Jordan;[u'31.016667 36.616667'];248816;1 July 1966;1966-07-01;Zaid al-Rifai; ;Jordan
-205;Jordan;[u'31.016667 36.616667'];248816;1 July 1966;1966-07-01;Samir al-Rifai; ;Jordan
-206;Jordan;[u'31.016667 36.616667'];248816;1 July 1966;1966-07-01;Bahjat Talhouni; ;Jordan
+201;Leicestershire and Rutland County Football Association;[u'52.560699 -1.176274'];;8 July 1971;1971-07-08;Lorik Cana;;United Kingdom
+202;Jordan;[u'31.016667 36.616667'];248816;1 July 1966;1966-07-01;Marouf al-Bakhit;;Jordan
+203;Jordan;[u'31.016667 36.616667'];248816;1 July 1966;1966-07-01;Abdullah II of Jordan;;Jordan
+204;Jordan;[u'31.016667 36.616667'];248816;1 July 1966;1966-07-01;Zaid al-Rifai;;Jordan
+205;Jordan;[u'31.016667 36.616667'];248816;1 July 1966;1966-07-01;Samir al-Rifai;;Jordan
+206;Jordan;[u'31.016667 36.616667'];248816;1 July 1966;1966-07-01;Bahjat Talhouni;;Jordan
 207;Harvard University;[u'42.376111 -71.116389'];4938981;1 July 1966;1966-07-01;Marouf al-Bakhit;Cambridge;United States
-208;2011–2012 Jordanian protests;[u'26.0275 50.55'];;1 July 1966;1966-07-01;Marouf al-Bakhit; ;Bahrain
+208;2011–2012 Jordanian protests;[u'26.0275 50.55'];;1 July 1966;1966-07-01;Marouf al-Bakhit;;Bahrain
 209;University of Dublin;[u'53.3444 -6.2577'];;1837;1837-01-01;Edward Hallaran Bennett;Dublin;Ireland
-210;Ascot Racecourse;[u'51.4161 -0.676944'];8224080;1825;1825-01-01;John Scott; ;United Kingdom
-211;Ascot Racecourse;[u'51.4161 -0.676944'];8224080;1825;1825-01-01;Robert Petre, 9th Baron Petre; ;United Kingdom
-212;Ascot Racecourse;[u'51.4161 -0.676944'];8224080;1825;1825-01-01;George FitzRoy, 4th Duke of Grafton; ;United Kingdom
+210;Ascot Racecourse;[u'51.4161 -0.676944'];8224080;1825;1825-01-01;John Scott;;United Kingdom
+211;Ascot Racecourse;[u'51.4161 -0.676944'];8224080;1825;1825-01-01;Robert Petre, 9th Baron Petre;;United Kingdom
+212;Ascot Racecourse;[u'51.4161 -0.676944'];8224080;1825;1825-01-01;George FitzRoy, 4th Duke of Grafton;;United Kingdom
 213;Hampshire;[u'51.083333333333 -1.25'];2647554;Sunday;1829-05-24;William IV of the United Kingdom;Avington;United Kingdom
 214;Yorkshire;[u'54 -2'];2633349;1825;1825-01-01;John Scott;Embsay;United Kingdom
 215;Yorkshire;[u'54 -2'];2633349;1794;1794-01-01;William Scott;Embsay;United Kingdom
@@ -219,52 +219,52 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 218;Melbourne Cup;[u'-37.790827777778 144.91172777778'];;31 May;1830-05-31;Queen Victoria;Flemington;Australia
 219;Malton;[u'54.139 -0.792'];2643142;1794;1794-01-01;John Scott;Malton;United Kingdom
 220;Malton;[u'54.139 -0.792'];2643142;1794;1794-01-01;William Fitzwilliam, 4th Earl Fitzwilliam;Malton;United Kingdom
-221;North Yorkshire;[u'54.166666666667 -1.3333333333333'];2641209;1794;1794-01-01;John Scott; ;United Kingdom
-222;Newmarket Racecourse;[u'52.230861111111 0.38225'];8224083;1827;1827-01-01;William Scott; ;United Kingdom
-223;Goodwood Racecourse;[u'50.896944444444 -0.7425'];8378648;1830;1830-01-01;William IV of the United Kingdom; ;United Kingdom
-224;Pontefract Racecourse;[u'53.701 -1.338'];8378656;27 June;1827-06-27;James Robinson; ;United Kingdom
-225;Pontefract Racecourse;[u'53.701 -1.338'];8378656;27 June;1827-06-27;John Manners, 5th Duke of Rutland; ;United Kingdom
+221;North Yorkshire;[u'54.166666666667 -1.3333333333333'];2641209;1794;1794-01-01;John Scott;;United Kingdom
+222;Newmarket Racecourse;[u'52.230861111111 0.38225'];8224083;1827;1827-01-01;William Scott;;United Kingdom
+223;Goodwood Racecourse;[u'50.896944444444 -0.7425'];8378648;1830;1830-01-01;William IV of the United Kingdom;;United Kingdom
+224;Pontefract Racecourse;[u'53.701 -1.338'];8378656;27 June;1827-06-27;James Robinson;;United Kingdom
+225;Pontefract Racecourse;[u'53.701 -1.338'];8378656;27 June;1827-06-27;John Manners, 5th Duke of Rutland;;United Kingdom
 226;Epsom Downs Racecourse;[u'51.3097 -0.255556'];;27 June;1827-06-27;James Robinson;Epsom;United Kingdom
-227;Israel;[u'31 35'];294640;12 March 1913;1913-03-12;Pinchas Sapir; ;Israel
+227;Israel;[u'31 35'];294640;12 March 1913;1913-03-12;Pinchas Sapir;;Israel
 228;Knesset;[u'31.776666666667 35.205277777778'];;12 March 1913;1913-03-12;Pinchas Sapir;Jerusalem;Israel
-229;Jerusalem;[u'31.783333333333 35.233333333333'];281184;12 March 1913;1913-03-12;Pinchas Sapir; ; 
-230;Ottoman Empire;[u'41 29'];;12 March 1913;1913-03-12;Pinchas Sapir; ;Turkey
+229;Jerusalem;[u'31.783333333333 35.233333333333'];281184;12 March 1913;1913-03-12;Pinchas Sapir;;
+230;Ottoman Empire;[u'41 29'];;12 March 1913;1913-03-12;Pinchas Sapir;;Turkey
 231;Dayton;[u'39.766666666667 -84.2'];4509884;15 December 1943;1943-12-15;Kenneth Whiting;Dayton;United States
 232;San Diego;[u'32.715 -117.1625'];5391811;15 December 1943;1943-12-15;Kenneth Whiting;San Diego;United States
 233;Saipan;[u'15.183333333333 145.75'];4041552;15 December 1943;1943-12-15;Kenneth Whiting;Papago;Northern Mariana Islands
 234;Tanapag Harbor;[u'15.2267 145.737'];4041622;15 December 1943;1943-12-15;Kenneth Whiting;Puerto Rico;Northern Mariana Islands
 235;Kossol Roads;[u'7.8 134.6'];;15 December 1943;1943-12-15;Kenneth Whiting;Ollei;Palau
-236;Palau;[u'7.466667 134.55'];1559582;5 February 1945;1945-02-05;Roy Geiger; ;Palau
-237;Ulithi;[u'9.97 139.67'];1558635;5 February 1945;1945-02-05;Roy Geiger; ;Federated States of Micronesia
+236;Palau;[u'7.466667 134.55'];1559582;5 February 1945;1945-02-05;Roy Geiger;;Palau
+237;Ulithi;[u'9.97 139.67'];1558635;5 February 1945;1945-02-05;Roy Geiger;;Federated States of Micronesia
 238;Guam;[u'13.5 144.8'];4043988;5 February 1945;1945-02-05;Roy Geiger;Tamuning;Guam
 239;Okinawa Prefecture;[u'26.5 128'];1854345;5 February 1945;1945-02-05;Roy Geiger;Kunigami-gun;Japan
 240;Korea;[u'38.316666666667 127.23333333333'];;5 February 1945;1945-02-05;Roy Geiger;철원군;South Korea
 241;Kerama Islands;[u'26.2 127.35'];1859547;5 February 1945;1945-02-05;Roy Geiger;Shimajiri-gun;Japan
 242;People's Republic of China;[u'35 103'];1814991;11 March;1945-03-11;Roy Geiger;Gannan Zangzuzizhizhou;China
 243;Sasebo;[u'33.18 129.71555555556'];1852899;2 April;1945-04-02;Roy Geiger;Sasebo-shi;Japan
-244;Hong Kong;[u'22.278333333333 114.15888888889'];1819730;2 April;1945-04-02;Roy Geiger; ;Hong Kong
+244;Hong Kong;[u'22.278333333333 114.15888888889'];1819730;2 April;1945-04-02;Roy Geiger;;Hong Kong
 245;San Francisco;[u'37.766666666667 -122.43333333333'];5391959;1830;1830-01-01;Roy Geiger;San Francisco;United States
 246;nuclear weapons test;[u'35.82289 -106.30216'];;1830;1830-01-01;Roy Geiger;Los Alamos;United States
-247;Bikini Atoll;[u'11.616667 165.4'];2080855;1830;1830-01-01;Roy Geiger; ;Marshall Islands
+247;Bikini Atoll;[u'11.616667 165.4'];2080855;1830;1830-01-01;Roy Geiger;;Marshall Islands
 248;San Pedro Bay;[u'33.723056 -118.164929'];5392531;1830;1830-01-01;Roy Geiger;Long Beach;United States
-249;Taiwan;[u'24 121'];1668284;28 November;1830-11-28;Kenneth Whiting; ;Taiwan
-250;Penghu;[u'23.583333333333 119.58333333333'];1670651;28 November;1830-11-28;Kenneth Whiting; ;Taiwan
+249;Taiwan;[u'24 121'];1668284;28 November;1830-11-28;Kenneth Whiting;;Taiwan
+250;Penghu;[u'23.583333333333 119.58333333333'];1670651;28 November;1830-11-28;Kenneth Whiting;;Taiwan
 251;Subic Bay;[u'14.8 120.23333333333'];1685574;6 May 1946;1946-05-06;Kenneth Whiting;Subic;Philippines
 252;Philippines;[u'11.333333 123.016667'];1694008;6 May 1946;1946-05-06;Kenneth Whiting;Sara;Philippines
 253;Puget Sound;[u'47.8331 -122.435'];5807517;30 August;1946-08-30;Kenneth Whiting;Kingston;United States
 254;Seattle;[u'47.6 -122.31666666667'];5809844;15 December 1943;1943-12-15;Kenneth Whiting;Seattle;United States
 255;Bremerton;[u'47.57 -122.6525'];5788054;19 September;1830-09-19;Kenneth Whiting;Bremerton;United States
-256;Operation Tan No. 2;[u'10.0685 139.7296'];;5 February 1945;1945-02-05;Roy Geiger; ;Federated States of Micronesia
+256;Operation Tan No. 2;[u'10.0685 139.7296'];;5 February 1945;1945-02-05;Roy Geiger;;Federated States of Micronesia
 257;Lakeland;[u'28.041111111111 -81.958888888889'];4161438;2006;2006-01-01;Diane Ravitch;Lakeland;United States
 258;Florida;[u'28.133333333333 -81.631666666667'];4155751;2006;2006-01-01;Diane Ravitch;Haines City;United States
 259;National Inventors Hall of Fame;[u'38.80124 -77.064031'];7243616;2001;2001-01-01;Bill Clinton;Alexandria;United States
 260;Rutgers University;[u'40.501666666667 -74.448055555556'];;2001;2001-01-01;Bill Clinton;New Brunswick;United States
 261;Edinburgh;[u'55.95 -3.1988888888889'];2650225;1965;1965-01-01;Ewen Bremner;Edinburgh;United Kingdom
-262;Scotland;[u'57 -5'];2638360;1965;1965-01-01;Ewen Bremner; ;United Kingdom
+262;Scotland;[u'57 -5'];2638360;1965;1965-01-01;Ewen Bremner;;United Kingdom
 263;Coop Himmelb(l)au;[u'48.18675 16.355178'];;2017;2017-01-01;Akhmetzhan Yessimov;Wien;Austria
 264;Coop Himmelb(l)au;[u'48.18675 16.355178'];;2017;2017-01-01;Lenita Toivakka;Wien;Austria
 265;Coop Himmelb(l)au;[u'48.18675 16.355178'];;2017;2017-01-01;Nursultan Nazarbayev;Wien;Austria
-266;Kazakhstan;[u'48 68'];1522867;2017;2017-01-01;Akhmetzhan Yessimov; ;Kazakhstan
+266;Kazakhstan;[u'48 68'];1522867;2017;2017-01-01;Akhmetzhan Yessimov;;Kazakhstan
 267;Liège;[u'50.65 5.5666666666667'];2792413;2017;2017-01-01;Akhmetzhan Yessimov;Liège;Belgium
 268;Belgium;[u'51 5'];2802361;2017;2017-01-01;Akhmetzhan Yessimov;Diest;Belgium
 269;Liège;[u'50.65 5.5666666666667'];2792413;June 15, 2013;2013-06-15;Santiago Calatrava;Liège;Belgium
@@ -277,7 +277,7 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 276;Expo 2008;[u'41.66905 -0.90285278'];;late May;2009-05-01;Stephen Mandel;Zaragoza;Spain
 277;Zaragoza;[u'41.65 -0.88333333333333'];3104324;late May;2009-05-01;Stephen Mandel;Zaragoza;Spain
 278;Edmonton;[u'53.547222 -113.500556'];5946768;late May;2009-05-01;Stephen Mandel;Edmonton;Canada
-279;Saint Lawrence River;[u'49.5 -64.5'];;2017;2017-01-01;Santiago Calatrava; ;Canada
+279;Saint Lawrence River;[u'49.5 -64.5'];;2017;2017-01-01;Santiago Calatrava;;Canada
 280;Astana;[u'51.183333333333 71.4'];1526273;June;2017-06-01;Nursultan Nazarbayev;Astana;Kazakhstan
 281;Darwin;[u'-12.466666666667 130.83333333333'];2073124;2005;2005-01-01;Loraine Braham;Darwin City;Australia
 282;Palmerston;[u'-12.466666666667 130.83333333333'];7839407;2005;2005-01-01;Loraine Braham;Darwin City;Australia
@@ -300,69 +300,69 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 299;Albany;[u'42.65 -73.766666666667'];5106834;March 3, 1885;1885-03-03;William M. Evarts;Albany;United States
 300;Albany;[u'42.65 -73.766666666667'];5106834;November 1884;1884-11-01;Edward Cooper;Albany;United States
 301;New York;[u'43 -75'];5128638;January 20;1885-01-20;David B. Hill;Mohawk;United States
-302;Guernsey;[u'49.45 -2.5833333333333'];3042362;1920;1920-01-01;Jack Walker; ;Guernsey
-303;Northerners A.C.;[u'49.4837 -2.54698'];;1920;1920-01-01;Jack Walker; ;Guernsey
+302;Guernsey;[u'49.45 -2.5833333333333'];3042362;1920;1920-01-01;Jack Walker;;Guernsey
+303;Northerners A.C.;[u'49.4837 -2.54698'];;1920;1920-01-01;Jack Walker;;Guernsey
 304;Blackburn Rovers F.C.;[u'53.728569444444 -2.4892055555556'];;1920;1920-01-01;Jack Walker;Blackburn;United Kingdom
 305;Jersey;[u'49.19 -2.11'];3042142;1920;1920-01-01;Jack Walker;Saint Helier;Jersey
-306;Nigeria;[u'9 8'];2328926;2012;2012-01-01;Lauryn Hill; ;Nigeria
-307;Nigeria;[u'9 8'];2328926;2012;2012-01-01;Professor Green; ;Nigeria
-308;Nigeria;[u'9 8'];2328926;2012;2012-01-01;DJ Semtex; ;Nigeria
+306;Nigeria;[u'9 8'];2328926;2012;2012-01-01;Lauryn Hill;;Nigeria
+307;Nigeria;[u'9 8'];2328926;2012;2012-01-01;Professor Green;;Nigeria
+308;Nigeria;[u'9 8'];2328926;2012;2012-01-01;DJ Semtex;;Nigeria
 309;Empire of Japan;[u'35.683333333333 139.76666666667'];;February 1943;1943-02-01;Woodrow Wilson;千代田区;Japan
 310;Empire of Japan;[u'35.683333333333 139.76666666667'];;1916;1916-01-01;Charles Evans Hughes;千代田区;Japan
 311;Naval War College;[u'41.506667 -71.328889'];;May;1922-05-01;Franklin Delano Roosevelt;Newport;United States
 312;Pearl Harbor;[u'21.361944 -157.953611'];5852289;1942;1942-01-01;Willis Augustus Lee;Honolulu;United States
 313;Wilmington;[u'34.223333333333 -77.912222222222'];4499379;27 June 1947;1947-06-27;John W. Wilcox, Jr.;Wilmington;United States
-314;Butaritari;[u'3.1677777777778 172.82583333333'];2110226;1942;1942-01-01;Willis Augustus Lee; ;Kiribati
+314;Butaritari;[u'3.1677777777778 172.82583333333'];2110226;1942;1942-01-01;Willis Augustus Lee;;Kiribati
 315;Camden;[u'39.9368 -75.1066'];4501018;3 May;1937-05-03;Carl Vinson;Camden;United States
-316;Tarawa;[u'1.4333333333333 173'];2110075;1942;1942-01-01;Willis Augustus Lee; ;Kiribati
+316;Tarawa;[u'1.4333333333333 173'];2110075;1942;1942-01-01;Willis Augustus Lee;;Kiribati
 317;Newport News Shipbuilding;[u'36.99208 -76.44507'];;January 1937;1937-01-01;Carl Vinson;Newport News;United States
-318;Abemama;[u'0.39962222222222 173.87683888889'];7521582;1942;1942-01-01;Willis Augustus Lee; ;Kiribati
-319;Scapa Flow;[u'58.9 -3.05'];2638425;14 June 1938;1938-06-14;John W. Wilcox, Jr.; ;United Kingdom
-320;Scapa Flow;[u'58.9 -3.05'];2638425;4 April;1942-04-04;Harold Rainsford Stark; ;United Kingdom
-321;Scapa Flow;[u'58.9 -3.05'];2638425;4 April;1942-04-04;George VI; ;United Kingdom
-322;Nauru;[u'-0.53333333333333 166.93333333333'];2110425;1942;1942-01-01;Willis Augustus Lee; ;Nauru
-323;Brooklyn Navy Yard;[u'40.702763888889 -73.973436111111'];5128621;January 1937;1937-01-01;Carl Vinson; ;United States
-324;Hvalfjörður;[u'64.301153 -21.861428'];3415843;4 April;1942-04-04;Harold Rainsford Stark; ;Iceland
+318;Abemama;[u'0.39962222222222 173.87683888889'];7521582;1942;1942-01-01;Willis Augustus Lee;;Kiribati
+319;Scapa Flow;[u'58.9 -3.05'];2638425;14 June 1938;1938-06-14;John W. Wilcox, Jr.;;United Kingdom
+320;Scapa Flow;[u'58.9 -3.05'];2638425;4 April;1942-04-04;Harold Rainsford Stark;;United Kingdom
+321;Scapa Flow;[u'58.9 -3.05'];2638425;4 April;1942-04-04;George VI;;United Kingdom
+322;Nauru;[u'-0.53333333333333 166.93333333333'];2110425;1942;1942-01-01;Willis Augustus Lee;;Nauru
+323;Brooklyn Navy Yard;[u'40.702763888889 -73.973436111111'];5128621;January 1937;1937-01-01;Carl Vinson;;United States
+324;Hvalfjörður;[u'64.301153 -21.861428'];3415843;4 April;1942-04-04;Harold Rainsford Stark;;Iceland
 325;Kavieng;[u'-2.5666666666667 150.8'];2094342;1942;1942-01-01;Willis Augustus Lee;Kavieng;Papua New Guinea
 326;Philadelphia Naval Shipyard;[u'39.89 -75.18'];;January 1937;1937-01-01;Carl Vinson;Philadelphia;United States
-327;Tongatapu;[u'-21.211388888889 -175.15305555556'];4032277;15 May;1942-05-15;Harold Rainsford Stark; ;Tonga
-328;New Ireland;[u'-3.33 152'];2089694;1942;1942-01-01;Willis Augustus Lee; ;Papua New Guinea
+327;Tongatapu;[u'-21.211388888889 -175.15305555556'];4032277;15 May;1942-05-15;Harold Rainsford Stark;;Tonga
+328;New Ireland;[u'-3.33 152'];2089694;1942;1942-01-01;Willis Augustus Lee;;Papua New Guinea
 329;Federal Shipbuilding and Drydock Company;[u'40.72388889 -74.10611111'];;3 May;1937-05-03;Carl Vinson;Kearny;United States
-330;Battle of Jutland;[u'56.7 5.8666666666667'];;1 April 1937;1937-04-01;Claude A. Swanson; ; 
-331;Battle of Jutland;[u'56.7 5.8666666666667'];;1 April 1937;1937-04-01;Cordell Hull; ; 
-332;Battle of Jutland;[u'56.7 5.8666666666667'];;1 April 1937;1937-04-01;Joseph Grew; ; 
-333;Battle of Jutland;[u'56.7 5.8666666666667'];;1 April 1937;1937-04-01;William Harrison Standley; ; 
-334;Battle of the Philippine Sea;[u'20 130'];;1942;1942-01-01;Willis Augustus Lee; ; 
-335;Kwajalein;[u'8.7166666666667 167.73333333333'];7303502;1942;1942-01-01;Willis Augustus Lee; ;Marshall Islands
-336;Roi-Namur;[u'9.396111 167.475833'];2079985;1942;1942-01-01;Willis Augustus Lee; ;Marshall Islands
+330;Battle of Jutland;[u'56.7 5.8666666666667'];;1 April 1937;1937-04-01;Claude A. Swanson;;
+331;Battle of Jutland;[u'56.7 5.8666666666667'];;1 April 1937;1937-04-01;Cordell Hull;;
+332;Battle of Jutland;[u'56.7 5.8666666666667'];;1 April 1937;1937-04-01;Joseph Grew;;
+333;Battle of Jutland;[u'56.7 5.8666666666667'];;1 April 1937;1937-04-01;William Harrison Standley;;
+334;Battle of the Philippine Sea;[u'20 130'];;1942;1942-01-01;Willis Augustus Lee;;
+335;Kwajalein;[u'8.7166666666667 167.73333333333'];7303502;1942;1942-01-01;Willis Augustus Lee;;Marshall Islands
+336;Roi-Namur;[u'9.396111 167.475833'];2079985;1942;1942-01-01;Willis Augustus Lee;;Marshall Islands
 337;Puget Sound Naval Shipyard and Intermediate Maintenance Facility;[u'47.55833 -122.64417'];7267213;1942;1942-01-01;Willis Augustus Lee;Bremerton;United States
 338;Chuuk Lagoon;[u'7.43333333 151.85'];;1942;1942-01-01;Willis Augustus Lee;Neiwe;Federated States of Micronesia
-339;Tinian;[u'15 145.63333333333'];4041647;1942;1942-01-01;Willis Augustus Lee; ;Northern Mariana Islands
+339;Tinian;[u'15 145.63333333333'];4041647;1942;1942-01-01;Willis Augustus Lee;;Northern Mariana Islands
 340;North Carolina;[u'35.5 -80'];4482348;February 1943;1943-02-01;Woodrow Wilson;Troy;United States
-341;Woleai;[u'7.3666666666667 143.9'];2081187;1942;1942-01-01;Willis Augustus Lee; ;Federated States of Micronesia
-342;Jayapura City;[u'-2.5333333333333 140.71666666667'];2082600;1942;1942-01-01;Willis Augustus Lee; ;Indonesia
+341;Woleai;[u'7.3666666666667 143.9'];2081187;1942;1942-01-01;Willis Augustus Lee;;Federated States of Micronesia
+342;Jayapura City;[u'-2.5333333333333 140.71666666667'];2082600;1942;1942-01-01;Willis Augustus Lee;;Indonesia
 343;Bayonne, New Jersey;[u'40.6624 -74.1102'];5095445;27 June 1947;1947-06-27;John W. Wilcox, Jr.;Bayonne;United States
-344;Pohnpei;[u'6.85 158.21666666667'];2081551;1942;1942-01-01;Willis Augustus Lee; ;Federated States of Micronesia
-345;Mariana Islands;[u'16.13333333 145.75'];;1942;1942-01-01;Willis Augustus Lee; ;Northern Mariana Islands
+344;Pohnpei;[u'6.85 158.21666666667'];2081551;1942;1942-01-01;Willis Augustus Lee;;Federated States of Micronesia
+345;Mariana Islands;[u'16.13333333 145.75'];;1942;1942-01-01;Willis Augustus Lee;;Northern Mariana Islands
 346;Tanapag;[u'15.239 145.756'];;1942;1942-01-01;Willis Augustus Lee;Tanapag;Northern Mariana Islands
 347;Leyte;[u'10.833333333333 124.83333333333'];;March;1943-03-01;Willis Augustus Lee;Baybay City;Philippines
 348;Luzon;[u'16 121'];1704846;March;1943-03-01;Willis Augustus Lee;Carranglan;Philippines
 349;Visayas;[u'11 123.5'];1679788;March;1943-03-01;Willis Augustus Lee;Sagay City;Philippines
-350;geography of Taiwan;[u'23.766666666667 121'];;November;1943-11-01;Willis Augustus Lee; ;Taiwan
+350;geography of Taiwan;[u'23.766666666667 121'];;November;1943-11-01;Willis Augustus Lee;;Taiwan
 351;Indochina;[u'16 102'];;November;1943-11-01;Willis Augustus Lee;Tambon Tha Hin Ngom;Thailand
 352;Ryukyu Islands;[u'26.332807 127.749023'];1855629;November;1943-11-01;Willis Augustus Lee;Nakagami-gun;Japan
 353;Honshu;[u'36 138'];1862185;November;1943-11-01;Willis Augustus Lee;Kamiina-gun;Japan
 354;New York Shipbuilding Corporation;[u'39.910833333333 -75.122222222222'];;January 1937;1937-01-01;Carl Vinson;Camden;United States
 355;Naval War College;[u'41.506667 -71.328889'];;October;1935-10-01;William S. Pye;Newport;United States
-356;Panama Canal;[u'9.08 -79.68'];;15 May;1942-05-15;Harold Rainsford Stark; ;Panama
+356;Panama Canal;[u'9.08 -79.68'];;15 May;1942-05-15;Harold Rainsford Stark;;Panama
 357;USS North Carolina;[u'34.236447 -77.954242'];4496088;February 1943;1943-02-01;Woodrow Wilson;Wilmington;United States
 358;USS North Carolina;[u'34.236447 -77.954242'];4496088;1 April 1937;1937-04-01;Joseph M. Reeves;Wilmington;United States
 359;Mannheim;[u'49.483611111111 8.4630555555556'];2873891;28 September 1948;1948-09-28;Alain Connes;Mannheim;Germany
 360;Mannheim;[u'49.483611111111 8.4630555555556'];2873891;28 September 1948;1948-09-28;Daniel Quillen;Mannheim;Germany
 361;University of Münster;[u'51.964 7.613'];;28 September 1948;1948-09-28;Alain Connes;Münster;Germany
-362;Black Mountains, Wales;[u'51.95 -3.1'];2655461;23 September 1972;1972-09-23;Nicole Cooke; ;United Kingdom
+362;Black Mountains, Wales;[u'51.95 -3.1'];2655461;23 September 1972;1972-09-23;Nicole Cooke;;United Kingdom
 363;Abergavenny;[u'51.833055555556 -3.0172222222222'];2657815;23 September 1972;1972-09-23;Nicole Cooke;Abergavenny;United Kingdom
-364;Wales;[u'52.349602 -3.637848'];2634895;23 September 1972;1972-09-23;Nicole Cooke; ;United Kingdom
+364;Wales;[u'52.349602 -3.637848'];2634895;23 September 1972;1972-09-23;Nicole Cooke;;United Kingdom
 365;Kuala Lumpur;[u'3.1597222222222 101.7'];1733046;23 September 1972;1972-09-23;Nicole Cooke;Kuala Lumpur;Malaysia
 366;Manchester;[u'53.466666666667 -2.2333333333333'];2643123;23 September 1972;1972-09-23;Nicole Cooke;Manchester;United Kingdom
 367;Bruges;[u'51.209444444444 3.22'];2800931;March 17, 1971;1971-03-17;Casper Bouman;Brugge;Belgium
@@ -380,14 +380,14 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 379;University College London;[u'51.524788888889 -0.13357777777778'];;23 May 1949;1949-05-23;David Chilton Phillips;London;United Kingdom
 380;European Bioinformatics Institute;[u'52.07993333 0.18673611'];;23 May 1949;1949-05-23;David Chilton Phillips;Wellcome Trust Genome Campus;United Kingdom
 381;Wellcome Genome Campus;[u'52.083333333333 0.18333333333333'];;23 May 1949;1949-05-23;David Chilton Phillips;Hinxton;United Kingdom
-382;Medical Research Council;[];;1978;1978-01-01;David Chilton Phillips; ; 
+382;Medical Research Council;[];;1978;1978-01-01;David Chilton Phillips;;
 383;National Academy of Sciences;[u'38.893 -77.0477'];4139709;2001;2001-01-01;Christine Orengo;Washington;United States
 384;Royal Society;[u'51.505980555556 -0.13246111111111'];;23 May 1949;1949-05-23;David Chilton Phillips;London;United Kingdom
 385;Churchill College;[u'52.21259 0.1036'];;2008;2008-01-01;Christine Orengo;Cambridge;United Kingdom
 386;University of Nottingham;[u'52.939 -1.197'];;23 May 1949;1949-05-23;David Chilton Phillips;Nottingham;United Kingdom
 387;Hinxton;[u'52.083 0.183'];2646840;23 May 1949;1949-05-23;David Chilton Phillips;Hinxton;United Kingdom
 388;Cambridge;[u'52.208055555556 0.1225'];2653941;23 May 1949;1949-05-23;David Chilton Phillips;Cambridge;United Kingdom
-389;Biotechnology and Biological Sciences Research Council;[];;1978;1978-01-01;David Chilton Phillips; ; 
+389;Biotechnology and Biological Sciences Research Council;[];;1978;1978-01-01;David Chilton Phillips;;
 390;European Union;[u'50.116944444444 9.2477777777778'];;1978;1978-01-01;David Chilton Phillips;Westerngrund;Germany
 391;Senate;[u'48.848333333333 2.3372777777778'];;18 August 1952;1952-08-18;Martine Aubry;Paris;France
 392;Senate;[u'48.848333333333 2.3372777777778'];;18 August 1952;1952-08-18;François Hollande;Paris;France
@@ -402,15 +402,15 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 401;Kiev;[u'50.45 30.523611111111'];703447;1972;1972-01-01;Igor Belanov;Kyiv;Ukraine
 402;Ukrainian Soviet Socialist Republic;[u'50.45 30.5'];690791;1972;1972-01-01;Igor Belanov;Kyiv;Ukraine
 403;Moscow;[u'55.755833333333 37.617777777778'];524901;2012;2012-01-01;Irina Deriugina;Moskva;Russia
-404;Ukraine;[u'49 32'];690791;1972;1972-01-01;Igor Belanov; ;Ukraine
-405;Borodianka Raion;[u'50.65916667 29.88111111'];;2012;2012-01-01;Irina Deriugina; ;Ukraine
+404;Ukraine;[u'49 32'];690791;1972;1972-01-01;Igor Belanov;;Ukraine
+405;Borodianka Raion;[u'50.65916667 29.88111111'];;2012;2012-01-01;Irina Deriugina;;Ukraine
 406;2006 FIFA World Cup;[u'52.514722 13.239444'];;1972;1972-01-01;Igor Belanov;Berlin;Germany
 407;Siege of Leningrad;[u'59.930248 30.319061'];;2012;2012-01-01;Irina Deriugina;Sankt-Peterburg;Russia
 408;Canada;[u'56 -109'];6251999;1964;1964-01-01;Brad Wall;Michel Village;Canada
 409;Winnipeg;[u'49.883333 -97.15'];6183235;1964;1964-01-01;Brad Wall;Winnipeg;Canada
 410;Prince Albert;[u'53.2 -105.75'];6113335;1964;1964-01-01;Brad Wall;Prince Albert;Canada
 411;Saskatchewan Federal Penitentiary;[u'53.1975 -105.815'];;1964;1964-01-01;Brad Wall;Carlton;Canada
-412;Pakistan;[u'29 69'];1168579;1956;1956-01-01;Fazal Mahmood; ;Pakistan
+412;Pakistan;[u'29 69'];1168579;1956;1956-01-01;Fazal Mahmood;;Pakistan
 413;Schoonhoven;[u'51.933333333333 4.85'];2747505;3 March 1988;1988-03-03;Marco van Basten;Groot-Ammers;Netherlands
 414;Netherlands;[u'52.316666666667 5.55'];2750405;3 March 1988;1988-03-03;Marco van Basten;Zeewolde;Netherlands
 415;A.F.C. Ajax;[u'52.31416667 4.94194444'];;3 March 1988;1988-03-03;Marco van Basten;Amsterdam-Zuidoost;Netherlands
@@ -430,7 +430,7 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 429;Todmorden;[u'53.713 -2.096'];2635744;June 1980;1980-06-01;Zigmund Adamski;Todmorden;United Kingdom
 430;M62;[u'53.62982 -2.018561'];;June 1980;1980-06-01;Zigmund Adamski;Ripponden;United Kingdom
 431;Lofthouse, West Yorkshire;[u'53.7267 -1.49829'];2643776;June 1980;1980-06-01;David Batty;Lofthouse;United Kingdom
-432;West Ardsley;[u'53.714 -1.521'];;June 1980;1980-06-01;Zigmund Adamski; ;United Kingdom
+432;West Ardsley;[u'53.714 -1.521'];;June 1980;1980-06-01;Zigmund Adamski;;United Kingdom
 433;Dewsbury;[u'53.683333333333 -1.6333333333333'];2651286;June 1980;1980-06-01;Zigmund Adamski;Dewsbury;United Kingdom
 434;East Ardsley;[u'53.725 -1.53923'];2657117;June 1980;1980-06-01;Zigmund Adamski;East Ardsley;United Kingdom
 435;Leeds;[u'53.799722222222 -1.5491666666667'];2644688;June 1980;1980-06-01;Zigmund Adamski;Leeds;United Kingdom
@@ -438,7 +438,7 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 437;Queens County;[u'45.833333333333 -66'];;1835;1835-01-01;Ward Chipman;Cambridge-Narrows;Canada
 438;Brunswick Parish;[u'46.1032 -65.5465'];;1835;1835-01-01;Ward Chipman;Canaan Forks;Canada
 439;Canning Parish;[u'45.9666 -66.0917'];;1835;1835-01-01;Ward Chipman;Little River Hill;Canada
-440;Waterborough Parish, New Brunswick;[u'45.5542 -65.5919'];;1835;1835-01-01;Ward Chipman; ;Canada
+440;Waterborough Parish, New Brunswick;[u'45.5542 -65.5919'];;1835;1835-01-01;Ward Chipman;;Canada
 441;New Brunswick;[u'46 -66'];6087430;1835;1835-01-01;Ward Chipman;Cumberland Bay;Canada
 442;Miramonte High School;[u'37.840482 -122.146077'];5373558;March 25, 2002;2002-03-25;Kirsten Costas;Orinda;United States
 443;Miramonte High School;[u'37.840482 -122.146077'];5373558;1994;1994-01-01;William A. Graham;Orinda;United States
@@ -448,36 +448,36 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 447;Orinda;[u'37.882777777778 -122.17972222222'];5379678;March 25, 2002;2002-03-25;Kirsten Costas;Orinda;United States
 448;California;[u'37 -120'];5332921;March 25, 2002;2002-03-25;Kirsten Costas;Madera;United States
 449;Fenway Park;[u'42.346388888889 -71.0975'];6618682;1997;1997-01-01;Jerry Remy;Boston;United States
-450;Boston Red Sox;[u'42.34638889 71.0975'];;1997;1997-01-01;Jerry Remy; ;Kyrgyzstan
-451;Myanmar;[u'22 96'];1327865;August;2010-08-01;Alan Rabinowitz; ;Myanmar (Burma)
+450;Boston Red Sox;[u'42.34638889 71.0975'];;1997;1997-01-01;Jerry Remy;;Kyrgyzstan
+451;Myanmar;[u'22 96'];1327865;August;2010-08-01;Alan Rabinowitz;;Myanmar (Burma)
 452;Thailand;[u'15 101'];1605651;August;2010-08-01;Alan Rabinowitz;Tambon Khok Salung;Thailand
-453;Laos;[u'19.366667 102.566667'];1655842;August;2010-08-01;Alan Rabinowitz; ;Laos
-454;Cambodia;[u'12.733333 105.666667'];1831722;August;2010-08-01;Alan Rabinowitz; ;Cambodia
-455;Vietnam;[u'14.016666666667 107.9'];1562822;August;2010-08-01;Alan Rabinowitz; ;Vietnam
+453;Laos;[u'19.366667 102.566667'];1655842;August;2010-08-01;Alan Rabinowitz;;Laos
+454;Cambodia;[u'12.733333 105.666667'];1831722;August;2010-08-01;Alan Rabinowitz;;Cambodia
+455;Vietnam;[u'14.016666666667 107.9'];1562822;August;2010-08-01;Alan Rabinowitz;;Vietnam
 456;Mongolia;[u'47 104'];2029969;August;2010-08-01;Alan Rabinowitz;Burd;Mongolia
-457;Central Asia;[u'45.3 63.9'];7729893;August;2010-08-01;Alan Rabinowitz; ;Kazakhstan
+457;Central Asia;[u'45.3 63.9'];7729893;August;2010-08-01;Alan Rabinowitz;;Kazakhstan
 458;University of Oxford;[u'51.7611 -1.2534'];;2006;2006-01-01;Thomas Kaplan;Oxford;United Kingdom
 459;University of Oxford;[u'51.7611 -1.2534'];;1986;1986-01-01;Luke Hunter;Oxford;United Kingdom
 460;Icahn School of Medicine at Mount Sinai;[u'40.7895 -73.9538'];6329835;August;2010-08-01;Alan Rabinowitz;New York;United States
-461;Hukawng Valley Tiger Reserve;[u'26.43833333 96.55888889'];;August;2010-08-01;Alan Rabinowitz; ;Myanmar (Burma)
-462;Belize;[u'17.066666666667 -88.7'];3582678;1986;1986-01-01;Thomas Kaplan; ;Belize
-463;Belize;[u'17.066666666667 -88.7'];3582678;1986;1986-01-01;George Schaller; ;Belize
-464;Pantanal;[u'-18 -56.5'];;August;2010-08-01;Alan Rabinowitz; ;Brazil
-465;Bhutan;[u'27.45 90.5'];1252634;August;2010-08-01;Alan Rabinowitz; ;Bhutan
+461;Hukawng Valley Tiger Reserve;[u'26.43833333 96.55888889'];;August;2010-08-01;Alan Rabinowitz;;Myanmar (Burma)
+462;Belize;[u'17.066666666667 -88.7'];3582678;1986;1986-01-01;Thomas Kaplan;;Belize
+463;Belize;[u'17.066666666667 -88.7'];3582678;1986;1986-01-01;George Schaller;;Belize
+464;Pantanal;[u'-18 -56.5'];;August;2010-08-01;Alan Rabinowitz;;Brazil
+465;Bhutan;[u'27.45 90.5'];1252634;August;2010-08-01;Alan Rabinowitz;;Bhutan
 466;India;[u'21 78'];1269750;August;2010-08-01;Alan Rabinowitz;Dahigaon Dhan;India
-467;North Korea;[u'40 127'];1873107;April 1982;1982-04-01;Kim Il-sung; ;North Korea
+467;North Korea;[u'40 127'];1873107;April 1982;1982-04-01;Kim Il-sung;;North Korea
 468;Pyongyang;[u'39.03 125.73'];1871856;April 1982;1982-04-01;Kim Il-sung;Pyongyang;North Korea
 469;Kim Il-sung Square;[u'39.01953 125.75247'];;April 1982;1982-04-01;Kim Il-sung;Pyongyang;North Korea
-470;Taedong River;[u'38.865 125.52555555556'];;April 1982;1982-04-01;Kim Il-sung; ;North Korea
+470;Taedong River;[u'38.865 125.52555555556'];;April 1982;1982-04-01;Kim Il-sung;;North Korea
 471;Pyongyang;[u'39.03 125.73'];1871856;April 1982;1982-04-01;Kim Jong-il;Pyongyang;North Korea
 472;United States of America;[u'40 -100'];6252001;March 2009;2009-03-01;Heydar Aliyev;Norton;United States
 473;Russia;[u'55.75 37.616667'];2017370;March 2009;2009-03-01;Heydar Aliyev;Moskva;Russia
-474;Turkey;[u'39 36'];298795;March 2009;2009-03-01;Heydar Aliyev; ;Turkey
-475;Norway;[u'61 8'];3144096;March 2009;2009-03-01;Heydar Aliyev; ;Norway
+474;Turkey;[u'39 36'];298795;March 2009;2009-03-01;Heydar Aliyev;;Turkey
+475;Norway;[u'61 8'];3144096;March 2009;2009-03-01;Heydar Aliyev;;Norway
 476;Japan;[u'35 136'];1861060;March 2009;2009-03-01;Heydar Aliyev;Rittō-shi;Japan
 477;Baku;[u'40.366655555556 49.835183333333'];587081;March 2009;2009-03-01;Heydar Aliyev;Baku;Azerbaijan
-478;Azerbaijan;[u'40.3 47.7'];587116;March 2009;2009-03-01;Heydar Aliyev; ;Azerbaijan
-479;Caspian Sea;[u'42 51'];630671;March 2009;2009-03-01;Heydar Aliyev; ; 
+478;Azerbaijan;[u'40.3 47.7'];587116;March 2009;2009-03-01;Heydar Aliyev;;Azerbaijan
+479;Caspian Sea;[u'42 51'];630671;March 2009;2009-03-01;Heydar Aliyev;;
 480;International Finance Corporation;[u'38.9022 -77.0478'];;March 2009;2009-03-01;Heydar Aliyev;Washington;United States
 481;UCLA School of Theater, Film and Television;[u'34.076 -118.44'];;December 2011;2011-12-01;Alfred Molina;Los Angeles;United States
 482;UCLA School of Theater, Film and Television;[u'34.076 -118.44'];;December 2011;2011-12-01;Fabrice Du Welz;Los Angeles;United States
@@ -491,9 +491,9 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 490;Harare;[u'-17.863888888889 31.029722222222'];890298;17 October 1977;1977-10-17;Matt Banahan;Harare;Zimbabwe
 491;Harare;[u'-17.863888888889 31.029722222222'];890298;17 October 1977;1977-10-17;Vintcent van der Bijl;Harare;Zimbabwe
 492;Harare;[u'-17.863888888889 31.029722222222'];890298;17 October 1977;1977-10-17;David Barnes;Harare;Zimbabwe
-493;Zimbabwe;[u'-19.016667 30.016667'];878675;17 October 1977;1977-10-17;Matt Banahan; ;Zimbabwe
+493;Zimbabwe;[u'-19.016667 30.016667'];878675;17 October 1977;1977-10-17;Matt Banahan;;Zimbabwe
 494;Qajar dynasty;[u'35.7 51.41666666667'];;1852;1852-01-01;Báb;Tehran;Iran
-495;Iran;[u'32 53'];130758;1852;1852-01-01;Báb; ;Iran
+495;Iran;[u'32 53'];130758;1852;1852-01-01;Báb;;Iran
 496;Síyáh-Chál;[u'35.679722222222 51.420277777778'];;1852;1852-01-01;Báb;Tehran;Iran
 497;Tehran;[u'35.7 51.416666666667'];112931;1852;1852-01-01;Báb;Tehran;Iran
 498;Wellesley College;[u'42.29528 -71.30667'];4954740;January 8, 1867;1867-01-08;Jane Addams;Wellesley;United States
@@ -522,8 +522,8 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 521;Los Angeles;[u'34.05 -118.25'];5368361;September 25, 2007;2007-09-25;King Syze;Los Angeles;United States
 522;Los Angeles;[u'34.05 -118.25'];5368361;September 25, 2007;2007-09-25;Doap Nixon;Los Angeles;United States
 523;Los Angeles;[u'34.05 -118.25'];5368361;September 25, 2007;2007-09-25;Apathy;Los Angeles;United States
-524;Boston Red Sox;[u'42.34638889 71.0975'];;1993;1993-01-01;Frank Viola; ;Kyrgyzstan
-525;Boston Red Sox;[u'42.34638889 71.0975'];;1993;1993-01-01;Cory Bailey; ;Kyrgyzstan
+524;Boston Red Sox;[u'42.34638889 71.0975'];;1993;1993-01-01;Frank Viola;;Kyrgyzstan
+525;Boston Red Sox;[u'42.34638889 71.0975'];;1993;1993-01-01;Cory Bailey;;Kyrgyzstan
 526;Jack Russell Memorial Stadium;[u'27.974444 -82.789167'];;1993;1993-01-01;Frank Viola;Clearwater;United States
 527;Clearwater;[u'27.973611111111 -82.764166666667'];4151316;1993;1993-01-01;Frank Viola;Clearwater;United States
 528;Patmos;[u'37.310833333333 26.549166666667'];255687;1834;1834-01-01;Samuel Thomas Bloomfield;Patmos;Greece
@@ -535,21 +535,21 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 534;Institute for New Testament Textual Research;[u'51.96116667 7.62361111'];;1834;1834-01-01;Samuel Thomas Bloomfield;Münster;Germany
 535;Europe;[u'46 7'];6255148;1833;1833-01-01;Jean Baptiste François Pierre Bulliard;Chamonix-Mont-Blanc;France
 536;Europe;[u'46 7'];6255148;1833;1833-01-01;Lucien Quélet;Chamonix-Mont-Blanc;France
-537;Mediterranean Sea;[u'35 18'];363196;1833;1833-01-01;Jean Baptiste François Pierre Bulliard; ; 
-538;Boston Red Sox;[u'42.34638889 71.0975'];;1990;1990-01-01;Bucky Dent; ;Kyrgyzstan
-539;Boston Red Sox;[u'42.34638889 71.0975'];;1990;1990-01-01;Dan Shaughnessy; ;Kyrgyzstan
-540;Boston Red Sox;[u'42.34638889 71.0975'];;1990;1990-01-01;George Steinbrenner; ;Kyrgyzstan
-541;Tooele County;[u'40.45 -113.18'];5783699;1909;1909-01-01;Woodrow Wilson; ;United States
-542;Tooele County;[u'40.45 -113.18'];5783699;1909;1909-01-01;Joe Hill; ;United States
+537;Mediterranean Sea;[u'35 18'];363196;1833;1833-01-01;Jean Baptiste François Pierre Bulliard;;
+538;Boston Red Sox;[u'42.34638889 71.0975'];;1990;1990-01-01;Bucky Dent;;Kyrgyzstan
+539;Boston Red Sox;[u'42.34638889 71.0975'];;1990;1990-01-01;Dan Shaughnessy;;Kyrgyzstan
+540;Boston Red Sox;[u'42.34638889 71.0975'];;1990;1990-01-01;George Steinbrenner;;Kyrgyzstan
+541;Tooele County;[u'40.45 -113.18'];5783699;1909;1909-01-01;Woodrow Wilson;;United States
+542;Tooele County;[u'40.45 -113.18'];5783699;1909;1909-01-01;Joe Hill;;United States
 543;Salt Lake City Cemetery;[u'40.774497222222 -111.86348055556'];5780995;1921;1921-01-01;Woodrow Wilson;Salt Lake City;United States
 544;Utah;[u'39.5 -111.5'];5549030;1909;1909-01-01;Woodrow Wilson;Mount Pleasant;United States
 545;Salt Lake City;[u'40.75 -111.88333333333'];5780993;1909;1909-01-01;Woodrow Wilson;Salt Lake City;United States
-546;Boston Red Sox;[u'42.34638889 71.0975'];;1989;1989-01-01;Wade Boggs; ;Kyrgyzstan
+546;Boston Red Sox;[u'42.34638889 71.0975'];;1989;1989-01-01;Wade Boggs;;Kyrgyzstan
 547;California Gold Rush;[u'38.8025 -120.89472222222'];;1794;1794-01-01;Archibald Menzies;Placerville;United States
 548;United States of America;[u'40 -100'];6252001;1983;1983-01-01;David M. Schneider;Norton;United States
 549;United States of America;[u'40 -100'];6252001;1983;1983-01-01;Brackette Williams;Norton;United States
 550;United States of America;[u'40 -100'];6252001;1983;1983-01-01;Pauline Turner Strong;Norton;United States
-551;Tel Megiddo;[u'32.584622222222 35.183494444444'];293357;1992;1992-01-01;Ehud; ;Israel
+551;Tel Megiddo;[u'32.584622222222 35.183494444444'];293357;1992;1992-01-01;Ehud;;Israel
 552;Lima;[u'40.740833333333 -84.115'];5160783;March 14, 2013;2013-03-14;Lea Michele;Lima;United States
 553;Lima;[u'40.740833333333 -84.115'];5160783;March 14, 2013;2013-03-14;Naya Marie Rivera Dorsey;Lima;United States
 554;Lima;[u'40.740833333333 -84.115'];5160783;March 14, 2013;2013-03-14;Dean Geyer;Lima;United States
@@ -564,25 +564,25 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 563;Lima;[u'40.740833333333 -84.115'];5160783;March 14, 2013;2013-03-14;Chris Colfer;Lima;United States
 564;New York;[u'43 -75'];5128638;April 6, 1955;1955-04-06;David Wayne;Mohawk;United States
 565;New York;[u'43 -75'];5128638;April 6, 1955;1955-04-06;David Swift;Mohawk;United States
-566;Boston Red Sox;[u'42.34638889 71.0975'];;1988;1988-01-01;Jim Rice; ;Kyrgyzstan
-567;Boston Red Sox;[u'42.34638889 71.0975'];;1988;1988-01-01;Jeff Sellers; ;Kyrgyzstan
-568;Boston Red Sox;[u'42.34638889 71.0975'];;1988;1988-01-01;Wes Gardner; ;Kyrgyzstan
+566;Boston Red Sox;[u'42.34638889 71.0975'];;1988;1988-01-01;Jim Rice;;Kyrgyzstan
+567;Boston Red Sox;[u'42.34638889 71.0975'];;1988;1988-01-01;Jeff Sellers;;Kyrgyzstan
+568;Boston Red Sox;[u'42.34638889 71.0975'];;1988;1988-01-01;Wes Gardner;;Kyrgyzstan
 569;Toronto;[u'43.648056 -79.404167'];6167865;June;1987-06-01;Jeff Sellers;Toronto;Canada
 570;Toronto;[u'43.648056 -79.404167'];6167865;June;1987-06-01;Bret Saberhagen;Toronto;Canada
 571;Toronto;[u'43.648056 -79.404167'];6167865;June;1987-06-01;John McNamara;Toronto;Canada
-572;Yankee Stadium;[u'40.829569 -73.926392'];5145179;June;1987-06-01;Jeff Sellers; ;United States
+572;Yankee Stadium;[u'40.829569 -73.926392'];5145179;June;1987-06-01;Jeff Sellers;;United States
 573;Soviet Union;[u'55.75 37.616666666667'];;1943;1943-01-01;Raoul Wallenberg;Moskva;Russia
 574;Kungliga Svenska Segelsällskapet;[u'59.278374 18.315759'];;2001;2001-01-01;Raoul Wallenberg;Saltsjöbaden;Sweden
-575;Nordic countries;[u'64 10'];;5 October 2010;2010-10-05;Ewa Björling; ;Norway
+575;Nordic countries;[u'64 10'];;5 October 2010;2010-10-05;Ewa Björling;;Norway
 576;CBS;[u'40.7611 -73.9788'];;April 13, 1922;1922-04-13;Igor Stravinsky;New York;United States
 577;CBS;[u'40.7611 -73.9788'];;April 13, 1922;1922-04-13;Pablo Casals;New York;United States
 578;CBS;[u'40.7611 -73.9788'];;April 13, 1922;1922-04-13;Robert Saudek;New York;United States
 579;Detroit;[u'42.331666666667 -83.0475'];4990729;April 13, 1922;1922-04-13;Igor Stravinsky;Detroit;United States
 580;Detroit;[u'42.331666666667 -83.0475'];4990729;1922;1922-01-01;David Diamond;Detroit;United States
-581;New York City;[u'40.67 -73.94'];5128581;1962;1962-01-01;Igor Stravinsky; ;United States
-582;New York City;[u'40.67 -73.94'];5128581;1943;1943-01-01;Leonard Bernstein; ;United States
-583;New York City;[u'40.67 -73.94'];5128581;1943;1943-01-01;Aaron Copland; ;United States
-584;New York City;[u'40.67 -73.94'];5128581;1943;1943-01-01;Eugene Istomin; ;United States
+581;New York City;[u'40.67 -73.94'];5128581;1962;1962-01-01;Igor Stravinsky;;United States
+582;New York City;[u'40.67 -73.94'];5128581;1943;1943-01-01;Leonard Bernstein;;United States
+583;New York City;[u'40.67 -73.94'];5128581;1943;1943-01-01;Aaron Copland;;United States
+584;New York City;[u'40.67 -73.94'];5128581;1943;1943-01-01;Eugene Istomin;;United States
 585;Juilliard School;[u'40.773871 -73.983178'];5140743;1964;1964-01-01;Pablo Casals;New York;United States
 586;CBS;[u'40.7611 -73.9788'];;1955;1955-01-01;Laurence Tisch;New York;United States
 587;CBS;[u'40.7611 -73.9788'];;1955;1955-01-01;Preston Robert Tisch;New York;United States
@@ -594,15 +594,15 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 593;Eastman School of Music;[u'43.157675 -77.601438888889'];5116142;1964;1964-01-01;Pablo Casals;Rochester;United States
 594;Rankin Inlet Airport;[u'62.810555555556 -92.114722222222'];6296274;March 18, 1985;1985-03-18;Ronald Reagan;Rankin Inlet;Canada
 595;Rankin Inlet Airport;[u'62.810555555556 -92.114722222222'];6296274;March 18, 1985;1985-03-18;Brian Mulroney;Rankin Inlet;Canada
-596;Afghanistan;[u'34 66'];1149361;November 30;2004-11-30;Paul Martin; ;Afghanistan
-597;Afghanistan;[u'34 66'];1149361;November 30;2004-11-30;Wolf Blitzer; ;Afghanistan
-598;Afghanistan;[u'34 66'];1149361;August 2004;2004-08-01;Carolyn Parrish; ;Afghanistan
-599;Afghanistan;[u'34 66'];1149361;August 2004;2004-08-01;Joe Volpe; ;Afghanistan
-600;Afghanistan;[u'34 66'];1149361;August 2004;2004-08-01;Stéphane Dion; ;Afghanistan
-601;Afghanistan;[u'34 66'];1149361;August 2004;2004-08-01;Denis Coderre; ;Afghanistan
+596;Afghanistan;[u'34 66'];1149361;November 30;2004-11-30;Paul Martin;;Afghanistan
+597;Afghanistan;[u'34 66'];1149361;November 30;2004-11-30;Wolf Blitzer;;Afghanistan
+598;Afghanistan;[u'34 66'];1149361;August 2004;2004-08-01;Carolyn Parrish;;Afghanistan
+599;Afghanistan;[u'34 66'];1149361;August 2004;2004-08-01;Joe Volpe;;Afghanistan
+600;Afghanistan;[u'34 66'];1149361;August 2004;2004-08-01;Stéphane Dion;;Afghanistan
+601;Afghanistan;[u'34 66'];1149361;August 2004;2004-08-01;Denis Coderre;;Afghanistan
 602;Alberta;[u'55 -115'];5883102;July 2004;2004-07-01;John Kerry;Slave Lake;Canada
 603;Alberta;[u'55 -115'];5883102;winter of 2004;2004-01-01;Jean Chrétien;Slave Lake;Canada
-604;Atlantic Canada;[u'47 -62'];;July 2004;2004-07-01;John Kerry; ;Canada
+604;Atlantic Canada;[u'47 -62'];;July 2004;2004-07-01;John Kerry;;Canada
 605;Office of the Prime Minister;[u'45.4237 -75.6971'];;November 30;2004-11-30;Paul Martin;Ottawa;Canada
 606;Quebec;[u'46.809166666667 -71.213611111111'];6115047;July 2004;2004-07-01;John Kerry;Ville de Québec;Canada
 607;France;[u'47 2'];3017382;July 2004;2004-07-01;George W. Bush;Sainte-Lizaigne;France
@@ -633,7 +633,7 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 632;Lancaster County;[u'40.04 -76.25'];5197085;1982;1982-01-01;Fabian;Lancaster;United States
 633;20th Century Fox;[u'34.05111111 -118.41138889'];;April 29, 1931;1931-04-29;Fabian;Los Angeles;United States
 634;Chicago;[u'41.9 -87.65'];4887398;April 29, 1931;1931-04-29;Fabian;Chicago;United States
-635;Transvaal Colony;[u'-25 30'];;1827;1827-01-01;Andries Pretorius; ;South Africa
+635;Transvaal Colony;[u'-25 30'];;1827;1827-01-01;Andries Pretorius;;South Africa
 636;2007 Australian Grand Prix;[u'-37.8497 144.968'];;September 13, 2007;2007-09-13;Pedro de la Rosa;Albert Park;Australia
 637;2007 Australian Grand Prix;[u'-37.8497 144.968'];;September 13, 2007;2007-09-13;Max Mosley;Albert Park;Australia
 638;2007 Australian Grand Prix;[u'-37.8497 144.968'];;the end of April;2007-04-01;Nigel Stepney;Albert Park;Australia
@@ -648,42 +648,42 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 647;Fédération Internationale de l'Automobile;[u'48.8673 2.32128'];;2007;2007-01-01;Ross Brawn;Paris;France
 648;Fédération Internationale de l'Automobile;[u'48.8673 2.32128'];;2007;2007-01-01;Rory Byrne;Paris;France
 649;2007 United States Grand Prix;[u'39.795 -86.2347'];;26 July 2007;2007-07-26;Michael Schumacher;Indianapolis;United States
-650;La Gazzetta dello Sport;[];;November 2007;2007-11-01;Michael Schumacher; ; 
+650;La Gazzetta dello Sport;[];;November 2007;2007-11-01;Michael Schumacher;;
 651;2007 Monaco Grand Prix;[u'43.7347 7.42056'];;November 2007;2007-11-01;Michael Schumacher;Monaco;Monaco
 652;McLaren;[u'51.345833333333 -0.54777777777778'];;2007;2007-01-01;Nigel Stepney;Woking;United Kingdom
-653;Renault F1;[u'51.92 -1.3902777777778'];;2007;2007-01-01;Nigel Stepney; ;United Kingdom
+653;Renault F1;[u'51.92 -1.3902777777778'];;2007;2007-01-01;Nigel Stepney;;United Kingdom
 654;Maranello;[u'44.525555555556 10.866388888889'];3174032;February 2007;2007-02-01;Mike Coughlan;Maranello;Italy
 655;Woking;[u'51.316111111111 -0.56111111111111'];2633709;17 June 2007;2007-06-17;Mike Coughlan;Woking;United Kingdom
-656;Boston Red Sox;[u'42.34638889 71.0975'];;1982;1982-01-01;Ralph Houk; ;Kyrgyzstan
-657;Boston Red Sox;[u'42.34638889 71.0975'];;1982;1982-01-01;Mark Clear; ;Kyrgyzstan
-658;Boston Red Sox;[u'42.34638889 71.0975'];;1982;1982-01-01;Bob Stanley; ;Kyrgyzstan
-659;Boston Red Sox;[u'42.34638889 71.0975'];;1982;1982-01-01;John Tudor; ;Kyrgyzstan
-660;Boston Red Sox;[u'42.34638889 71.0975'];;1982;1982-01-01;Dennis Eckersley; ;Kyrgyzstan
-661;Boston Red Sox;[u'42.34638889 71.0975'];;1982;1982-01-01;Mike Torrez; ;Kyrgyzstan
-662;Boston Red Sox;[u'42.34638889 71.0975'];;1982;1982-01-01;Carney Lansford; ;Kyrgyzstan
+656;Boston Red Sox;[u'42.34638889 71.0975'];;1982;1982-01-01;Ralph Houk;;Kyrgyzstan
+657;Boston Red Sox;[u'42.34638889 71.0975'];;1982;1982-01-01;Mark Clear;;Kyrgyzstan
+658;Boston Red Sox;[u'42.34638889 71.0975'];;1982;1982-01-01;Bob Stanley;;Kyrgyzstan
+659;Boston Red Sox;[u'42.34638889 71.0975'];;1982;1982-01-01;John Tudor;;Kyrgyzstan
+660;Boston Red Sox;[u'42.34638889 71.0975'];;1982;1982-01-01;Dennis Eckersley;;Kyrgyzstan
+661;Boston Red Sox;[u'42.34638889 71.0975'];;1982;1982-01-01;Mike Torrez;;Kyrgyzstan
+662;Boston Red Sox;[u'42.34638889 71.0975'];;1982;1982-01-01;Carney Lansford;;Kyrgyzstan
 663;Worcester;[u'42.266666666667 -71.8'];4956184;1981;1981-01-01;Ralph Houk;Worcester;United States
 664;Worcester;[u'42.266666666667 -71.8'];4956184;1981;1981-01-01;Dwight Evans;Worcester;United States
 665;Worcester;[u'42.266666666667 -71.8'];4956184;1981;1981-01-01;Carl Yastrzemski;Worcester;United States
 666;Worcester;[u'42.266666666667 -71.8'];4956184;1981;1981-01-01;Rich Gedman;Worcester;United States
 667;Chatham Dockyard;[u'51.397222222222 0.52777777777778'];2653305;4 November 1896;1896-11-04;Queen Victoria;Chatham;United Kingdom
-668;Spithead;[u'50.7514 -1.13667'];2637219;4 November 1896;1896-11-04;Queen Victoria; ;United Kingdom
-669;Port Said;[u'31.25 32.283333333333'];358619;4 November 1896;1896-11-04;Queen Victoria; ;Egypt
-670;Port Said;[u'31.25 32.283333333333'];358619;February 1898;1898-02-01;Robert Falcon Scott; ;Egypt
-671;Port Said;[u'31.25 32.283333333333'];358619;February 1898;1898-02-01;George Egerton; ;Egypt
+668;Spithead;[u'50.7514 -1.13667'];2637219;4 November 1896;1896-11-04;Queen Victoria;;United Kingdom
+669;Port Said;[u'31.25 32.283333333333'];358619;4 November 1896;1896-11-04;Queen Victoria;;Egypt
+670;Port Said;[u'31.25 32.283333333333'];358619;February 1898;1898-02-01;Robert Falcon Scott;;Egypt
+671;Port Said;[u'31.25 32.283333333333'];358619;February 1898;1898-02-01;George Egerton;;Egypt
 672;Malta;[u'35.883333333333 14.5'];2562770;4 November 1896;1896-11-04;Queen Victoria;Il-Marsa;Malta
 673;Devonport;[u'50.3725 -4.1727777777778'];2651289;8 June 1897;1897-06-08;Queen Victoria;Plymouth;United Kingdom
 674;Hamoaze;[u'50.395555555556 -4.2077777777778'];2647559;26 June 1897;1897-06-26;Queen Victoria;Plymouth;United Kingdom
 675;Nore;[u'51.4958 0.8825'];2648050;18 February;1898-02-18;Robert Falcon Scott;Southend-on-Sea;United Kingdom
 676;Humber;[u'53.583333333333 0'];;1906;1906-01-01;Robert Falcon Scott;Cleethorpes;United Kingdom
 677;County Clare;[u'52.833333333333 -9'];2965479;1908;1908-01-01;Daniel O'Brien, 4th Viscount Clare;Ennis;Ireland
-678;Pallasgreen;[u'52.5508 -8.338536'];2962082;1908;1908-01-01;Daniel O'Brien, 4th Viscount Clare; ;Ireland
-679;County Limerick;[u'52.5 -8.75'];2962941;1908;1908-01-01;Daniel O'Brien, 4th Viscount Clare; ;Ireland
+678;Pallasgreen;[u'52.5508 -8.338536'];2962082;1908;1908-01-01;Daniel O'Brien, 4th Viscount Clare;;Ireland
+679;County Limerick;[u'52.5 -8.75'];2962941;1908;1908-01-01;Daniel O'Brien, 4th Viscount Clare;;Ireland
 680;Kilnasoolagh;[u'52.7606 -8.90825'];;1908;1908-01-01;Daniel O'Brien, 4th Viscount Clare;Newmarket on Fergus;Ireland
-681;Bunratty Lower;[u'52.740137 -8.840416'];;1908;1908-01-01;Daniel O'Brien, 4th Viscount Clare; ;Ireland
+681;Bunratty Lower;[u'52.740137 -8.840416'];;1908;1908-01-01;Daniel O'Brien, 4th Viscount Clare;;Ireland
 682;Slovenia;[u'46 15'];3190538;24 August 1880;1880-08-24;Julius Kugy;Gabrovka;Slovenia
 683;Julian Alps;[u'46.36666667 13.81666667'];3198561;24 August 1880;1880-08-24;Julius Kugy;Trenta;Slovenia
 684;Triglav;[u'46.383333333333 13.833333333333'];3188835;24 August 1880;1880-08-24;Julius Kugy;Stara Fužina;Slovenia
-685;Jôf di Montasio;[u'46.437777777778 13.433333333333'];3175489;24 August 1880;1880-08-24;Julius Kugy; ;Italy
+685;Jôf di Montasio;[u'46.437777777778 13.433333333333'];3175489;24 August 1880;1880-08-24;Julius Kugy;;Italy
 686;Stadio Nereo Rocco;[u'45.6225 13.792778'];;11 February 2009;2009-02-11;Daniele De Rossi;Trieste;Italy
 687;Stadio Nereo Rocco;[u'45.6225 13.792778'];;11 February 2009;2009-02-11;Steven Gerrard;Trieste;Italy
 688;Stadio Nereo Rocco;[u'45.6225 13.792778'];;8 July 2013;2013-07-08;Bartosz Salamon;Trieste;Italy
@@ -795,22 +795,22 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 794;Melbourne;[u'-37.820555555556 144.96138888889'];2158177;1877;1877-01-01;Simon Jones;Melbourne;Australia
 795;Tel Aviv;[u'32.083333333333 34.8'];293397;1939;1939-01-01;Qian Xuesen;Ramat Gan;Israel
 796;Tel Aviv;[u'32.083333333333 34.8'];293397;1951;1951-01-01;Menachem Begin;Ramat Gan;Israel
-797;Sabra and Shatila massacre;[u'33.8628 35.4984'];;1971;1971-01-01;Menachem Begin; ;Lebanon
-798;Sabra and Shatila massacre;[u'33.8628 35.4984'];;1971;1971-01-01;Benjamin Netanyahu; ;Lebanon
-799;Sabra and Shatila massacre;[u'33.8628 35.4984'];;1971;1971-01-01;Ariel Sharon; ;Lebanon
-800;Sabra and Shatila massacre;[u'33.8628 35.4984'];;1980;1980-01-01;Yitzhak Mordechai; ;Lebanon
-801;Ariel University;[u'32.10472 35.20944'];;1984;1984-01-01;Yitzhak Mordechai; ; 
+797;Sabra and Shatila massacre;[u'33.8628 35.4984'];;1971;1971-01-01;Menachem Begin;;Lebanon
+798;Sabra and Shatila massacre;[u'33.8628 35.4984'];;1971;1971-01-01;Benjamin Netanyahu;;Lebanon
+799;Sabra and Shatila massacre;[u'33.8628 35.4984'];;1971;1971-01-01;Ariel Sharon;;Lebanon
+800;Sabra and Shatila massacre;[u'33.8628 35.4984'];;1980;1980-01-01;Yitzhak Mordechai;;Lebanon
+801;Ariel University;[u'32.10472 35.20944'];;1984;1984-01-01;Yitzhak Mordechai;;
 802;Warsaw Ghetto Uprising;[u'52.246111111111 20.995833333333'];;1988;1988-01-01;Yitzhak Mordechai;Warszawa;Poland
 803;George Washington High School;[u'40.855819 -73.926952'];5118408;1939;1939-01-01;Qian Xuesen;New York;United States
 804;Massachusetts Institute of Technology;[u'42.35982 -71.09211'];4943351;1939;1939-01-01;Qian Xuesen;Cambridge;United States
 805;California Institute of Technology;[u'34.138577 -118.125494'];6331816;1939;1939-01-01;Qian Xuesen;Pasadena;United States
 806;Technion – Israel Institute of Technology;[u'32.7775 35.021666666667'];;1939;1939-01-01;Qian Xuesen;Haifa;Israel
-807;Israel Aerospace Industries;[u'31.00456667 34.90259444'];;1948;1948-01-01;Qian Xuesen; ;Israel
-808;Algeria;[u'28 2'];2589581;1939;1939-01-01;Qian Xuesen; ;Algeria
+807;Israel Aerospace Industries;[u'31.00456667 34.90259444'];;1948;1948-01-01;Qian Xuesen;;Israel
+808;Algeria;[u'28 2'];2589581;1939;1939-01-01;Qian Xuesen;;Algeria
 809;Ministry of Defense;[u'32.075269 34.790153'];;1951;1951-01-01;Qian Xuesen;Tel Aviv-Yafo;Israel
 810;Ministry of Foreign Affairs of Israel;[u'31.782596 35.201719'];;1977;1977-01-01;Menachem Begin;Jerusalem;Israel
-811;Brazil;[u'-11 -53'];3469034;2011;2011-01-01;Paulo Coelho; ;Brazil
-812;Jerusalem;[u'31.783333333333 35.233333333333'];281184;1949;1949-01-01;Ilich Ramírez Sánchez; ; 
+811;Brazil;[u'-11 -53'];3469034;2011;2011-01-01;Paulo Coelho;;Brazil
+812;Jerusalem;[u'31.783333333333 35.233333333333'];281184;1949;1949-01-01;Ilich Ramírez Sánchez;;
 813;Switzerland;[u'46.798562 8.231973'];2658434;1949;1949-01-01;Ilich Ramírez Sánchez;Sachseln;Switzerland
 814;Superphénix;[u'45.75833333 5.47222222'];;1949;1949-01-01;Ilich Ramírez Sánchez;Creys-Mépieu;France
 815;Geneva;[u'46.2 6.15'];2660646;1949;1949-01-01;Ilich Ramírez Sánchez;Genève;Switzerland
@@ -833,16 +833,16 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 832;Congo Free State;[u'-5.85 13.05'];;1970;1970-01-01;Leopold II;Boma;Democratic Republic of the Congo
 833;Congo Free State;[u'-5.85 13.05'];;1989;1989-01-01;E. D. Morel;Boma;Democratic Republic of the Congo
 834;Liverpool;[u'53.416666666667 -3'];2644210;1855;1855-01-01;John Elder;Liverpool;United Kingdom
-835;West Africa;[u'12 3'];7729885;1970;1970-01-01;Leopold II; ;Benin
+835;West Africa;[u'12 3'];7729885;1970;1970-01-01;Leopold II;;Benin
 836;India;[u'21 78'];1269750;3 November 1988;1988-11-03;Swapnil Joshi;Dahigaon Dhan;India
 837;India;[u'21 78'];1269750;3 November 1988;1988-11-03;Siddarth Jadhav;Dahigaon Dhan;India
 838;Raigad district;[u'18.65 72.88'];8133396;3 November 1988;1988-11-03;Swapnil Joshi;Alibag;India
 839;Raigad district;[u'18.65 72.88'];8133396;2013;2013-01-01;Aniket Vishwasrao;Alibag;India
 840;Maharashtra;[u'18.96 72.82'];1264418;3 November 1988;1988-11-03;Swapnil Joshi;Mumbai;India
 841;St. Joseph's Academy, Dehradun;[u'30.3297 78.0483'];;3 November 1988;1988-11-03;Swapnil Joshi;Dehradun;India
-842;New York City;[u'40.67 -73.94'];5128581;1962;1962-01-01;Leon Recanati; ;United States
-843;New York City;[u'40.67 -73.94'];5128581;1962;1962-01-01;Saddam Hussein; ;United States
-844;New York City;[u'40.67 -73.94'];5128581;1991;1991-01-01;Marc Faber; ;United States
+842;New York City;[u'40.67 -73.94'];5128581;1962;1962-01-01;Leon Recanati;;United States
+843;New York City;[u'40.67 -73.94'];5128581;1962;1962-01-01;Saddam Hussein;;United States
+844;New York City;[u'40.67 -73.94'];5128581;1991;1991-01-01;Marc Faber;;United States
 845;Harvard University;[u'42.376111 -71.116389'];4938981;June 1, 2014;2014-06-01;Jho Low;Cambridge;United States
 846;Harvard University;[u'42.376111 -71.116389'];4938981;2012;2012-01-01;François Delattre;Cambridge;United States
 847;Harvard University;[u'42.376111 -71.116389'];4938981;June 1, 2014;2014-06-01;Mohammed bin Zayed Al Nahyan;Cambridge;United States
@@ -882,21 +882,21 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 881;United States Grand Prix West;[u'33.7669 -118.189'];;1997;1997-01-01;Neil Crompton;Long Beach;United States
 882;Long Beach Convention and Entertainment Center;[u'33.7639 -118.188'];5367940;1983;1983-01-01;Niki Lauda;Long Beach;United States
 883;Aquarium of the Pacific;[u'33.76216 -118.19692'];6946539;1982;1982-01-01;Niki Lauda;Long Beach;United States
-884;Laos;[u'19.366667 102.566667'];1655842;1938;1938-01-01;Sauryavong Savang; ;Laos
-885;Laos;[u'19.366667 102.566667'];1655842;1938;1938-01-01;Soulivong Savang; ;Laos
-886;Laos;[u'19.366667 102.566667'];1655842;1938;1938-01-01;Thanyavong Savang; ;Laos
-887;Laos;[u'19.366667 102.566667'];1655842;1938;1938-01-01;Souvanna Phouma; ;Laos
+884;Laos;[u'19.366667 102.566667'];1655842;1938;1938-01-01;Sauryavong Savang;;Laos
+885;Laos;[u'19.366667 102.566667'];1655842;1938;1938-01-01;Soulivong Savang;;Laos
+886;Laos;[u'19.366667 102.566667'];1655842;1938;1938-01-01;Thanyavong Savang;;Laos
+887;Laos;[u'19.366667 102.566667'];1655842;1938;1938-01-01;Souvanna Phouma;;Laos
 888;Kingdom of Laos;[u'17.966666666667 102.6'];;1938;1938-01-01;Sauryavong Savang;Vientiane;Laos
 889;Geneva;[u'46.2 6.15'];2660646;29 September 2007;2007-09-29;Rita Fan;Genève;Switzerland
 890;Geneva;[u'46.2 6.15'];2660646;29 September 2007;2007-09-29;Jose Maria Sison;Genève;Switzerland
-891;Kai Yip Estate;[u'22.32868 114.208354'];;1986;1986-01-01;Che Guevara; ;Hong Kong
+891;Kai Yip Estate;[u'22.32868 114.208354'];;1986;1986-01-01;Che Guevara;;Hong Kong
 892;Sichuan;[u'30 103'];1794299;2005;2005-01-01;Rita Fan;Yaan Shi;China
 893;Tiananmen Square protests of 1989;[u'39.903333333333 116.39166666667'];;2004;2004-01-01;Che Guevara;Beijing;China
 894;2008 Sichuan earthquake;[u'31.021 103.367'];;2005;2005-01-01;Rita Fan;Aba Zangzuqiangzuzizhizhou;China
 895;Tiananmen Square;[u'39.904567 116.391392'];6268737;2014;2014-01-01;Che Guevara;Beijing;China
 896;British Forces Broadcasting Service;[u'51.588202777778 -0.55331666666667'];;1986;1986-01-01;Che Guevara;Gerrards Cross;United Kingdom
 897;Gdynia;[u'54.5 18.533333333333'];3099424;December 26, 1978;1978-12-26;Jarosław Bieniuk;Gdynia;Poland
-898;Poland;[u'52 19'];798544;December 26, 1978;1978-12-26;Jarosław Bieniuk; ;Poland
+898;Poland;[u'52 19'];798544;December 26, 1978;1978-12-26;Jarosław Bieniuk;;Poland
 899;Saint-Flour;[u'45.033611111111 3.0927777777778'];6615947;25 August 1948;1948-08-25;Lionel Jospin;Saint-Flour;France
 900;Cantal;[u'45.033333333333 3.1'];3028791;25 August 1948;1948-08-25;Lionel Jospin;Saint-Flour;France
 901;Kumbakonam;[u'10.966666666667 79.383333333333'];1265683;1902;1902-01-01;Pudhumaipithan;Kumbakonam;India
@@ -905,8 +905,8 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 904;Kumbakonam;[u'10.966666666667 79.383333333333'];1265683;1902;1902-01-01;C. S. Chellappa;Kumbakonam;India
 905;Madras Presidency;[u'13.08 80.27'];;1902;1902-01-01;Pudhumaipithan;Chennai;India
 906;Chennai;[u'13.09 80.27'];1264527;1902;1902-01-01;C. S. Chellappa;Chennai;India
-907;Syria;[u'35.216667 38.583333'];163843;2006;2006-01-01;Yevgeny Malinin; ;Syria
-908;Syria;[u'35.216667 38.583333'];163843;2006;2006-01-01;Murray Perahia; ;Syria
+907;Syria;[u'35.216667 38.583333'];163843;2006;2006-01-01;Yevgeny Malinin;;Syria
+908;Syria;[u'35.216667 38.583333'];163843;2006;2006-01-01;Murray Perahia;;Syria
 909;Damascus;[u'33.513 36.292'];170654;2006;2006-01-01;Yevgeny Malinin;Damascus;Syria
 910;Salle Pleyel;[u'48.876994444444 2.3010361111111'];;2006;2006-01-01;Yevgeny Malinin;Paris;France
 911;Seoul;[u'37.583333333333 127'];1835847;2006;2006-01-01;Yevgeny Malinin;Seoul;South Korea
@@ -916,7 +916,7 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 915;United Kingdom;[u'54 -2'];2635167;AD 679;0679-01-01;Æthelthryth;Embsay;United Kingdom
 916;Ely Cathedral;[u'52.398611 0.264167'];;Sunday;1987-05-17;Bede;Ely;United Kingdom
 917;St Dominic's Priory School;[u'-33.99694 25.54776'];;18 Nov 1539;1539-11-18;Æthelthryth;Port Elizabeth;South Africa
-918;Roman Catholic Diocese of East Anglia;[u'52.403 0.903'];;AD 679;0679-01-01;Æthelthryth; ;United Kingdom
+918;Roman Catholic Diocese of East Anglia;[u'52.403 0.903'];;AD 679;0679-01-01;Æthelthryth;;United Kingdom
 919;Roman Catholic Archdiocese of Westminster;[u'51.496 -0.1396'];;AD 679;0679-01-01;Æthelthryth;London;United Kingdom
 920;Ely;[u'52.400666666667 0.26585277777778'];2650023;AD 679;0679-01-01;Æthelthryth;Ely;United Kingdom
 921;Cambridgeshire;[u'52.333333333333 0'];2653940;AD 679;0679-01-01;Æthelthryth;Bluntisham;United Kingdom
@@ -933,7 +933,7 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 932;Czech Republic;[u'50 16'];3077311;15 March 1977;1977-03-15;Vítězslav Lavička;Moravany;Czechia
 933;SK Slavia Prague;[u'50.0804 14.383'];;early 2009;2009-01-01;Vítězslav Lavička;Prague;Czechia
 934;Socialist Party;[u'48.859819 2.3229'];;1981;1981-01-01;François Mitterrand;Paris;France
-935;Brisighella;[u'44.216666666667 11.766666666667'];6538483;1992;1992-01-01;Lorenzo Bandini; ;Italy
+935;Brisighella;[u'44.216666666667 11.766666666667'];6538483;1992;1992-01-01;Lorenzo Bandini;;Italy
 936;Pisa;[u'43.716666666667 10.4'];3170647;1211;1211-01-01;Saint Dominic;Pisa;Italy
 937;Pisa;[u'43.716666666667 10.4'];3170647;1211;1211-01-01;Lippo Memmi;Pisa;Italy
 938;Pisa;[u'43.716666666667 10.4'];3170647;1211;1211-01-01;Fra Bartolomeo;Pisa;Italy
@@ -944,8 +944,8 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 943;Pisa;[u'43.716666666667 10.4'];3170647;1211;1211-01-01;Andrea Pisano;Pisa;Italy
 944;Pisa;[u'43.716666666667 10.4'];3170647;1211;1211-01-01;Nino Pisano;Pisa;Italy
 945;Pisa;[u'43.716666666667 10.4'];3170647;1211;1211-01-01;Simone Martini;Pisa;Italy
-946;Tuscany;[u'43.35 11.016666666667'];3165361;1211;1211-01-01;Saint Dominic; ;Italy
-947;Italy;[u'43 12'];3175395;1211;1211-01-01;Saint Dominic; ;Italy
+946;Tuscany;[u'43.35 11.016666666667'];3165361;1211;1211-01-01;Saint Dominic;;Italy
+947;Italy;[u'43 12'];3175395;1211;1211-01-01;Saint Dominic;;Italy
 948;National Museum of San Matteo;[u'43.71453333 10.40761389'];;1211;1211-01-01;Saint Dominic;Pisa;Italy
 949;De Baandert;[u'51.006389 5.876944'];;1980;1980-01-01;Birgit Friedmann;Sittard;Netherlands
 950;De Baandert;[u'51.006389 5.876944'];;1980;1980-01-01;Bärbel Broschat;Sittard;Netherlands
@@ -955,7 +955,7 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 954;Adelaide;[u'-34.933333333333 138.58333333333'];2078025;1976;1976-01-01;John Kerr;Adelaide;Australia
 955;Adelaide;[u'-34.933333333333 138.58333333333'];2078025;1976;1976-01-01;Elizabeth II;Adelaide;Australia
 956;Adelaide;[u'-34.933333333333 138.58333333333'];2078025;1976;1976-01-01;Gough Whitlam;Adelaide;Australia
-957;Great Britain;[u'54.066666666667 -2.6166666666667'];;1976;1976-01-01;John Kerr; ;United Kingdom
+957;Great Britain;[u'54.066666666667 -2.6166666666667'];;1976;1976-01-01;John Kerr;;United Kingdom
 958;Bumbunga, South Australia;[u'-33.9 138.217'];2075442;1976;1976-01-01;John Kerr;Bumbunga;Australia
 959;Snowtown, South Australia;[u'-33.7833 138.2'];2061363;1976;1976-01-01;John Kerr;Snowtown;Australia
 960;Lochiel, South Australia;[u'-33.9333 138.15'];2067559;1976;1976-01-01;John Kerr;Lochiel;Australia
@@ -965,10 +965,10 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 964;Nazran;[u'43.216666666667 44.766666666667'];523064;October 30, 2008;2008-10-30;Dmitry Medvedev;Nazran';Russia
 965;United States Department of State;[u'38.894475 -77.04842'];;October 30, 2008;2008-10-30;Magomed Yevloyev;Washington;United States
 966;Federal Security Service;[u'55.76122222 37.62622222'];;September 10, 1957;1957-09-10;Vladimir Putin;Moskva;Russia
-967;Republic of Ingushetia;[u'43.2 44.966666666667'];556349;September 10, 1957;1957-09-10;Vladimir Putin; ;Russia
+967;Republic of Ingushetia;[u'43.2 44.966666666667'];556349;September 10, 1957;1957-09-10;Vladimir Putin;;Russia
 968;Kyrgyzstan;[u'41.266667 74.983333'];1527747;September 10, 1957;1957-09-10;Vladimir Putin;Baetov;Kyrgyzstan
 969;KGB;[u'55.758667 37.6256'];;September 10, 1957;1957-09-10;Vladimir Putin;Moskva;Russia
-970;Chechen Republic;[u'43.4 45.7167'];569665;September 10, 1957;1957-09-10;Vladimir Putin; ;Russia
+970;Chechen Republic;[u'43.4 45.7167'];569665;September 10, 1957;1957-09-10;Vladimir Putin;;Russia
 971;University of Bath;[u'51.3796 -2.328'];;15 February 1897;1897-02-15;George Alfred Wills;Bath;United Kingdom
 972;University of Bath;[u'51.3796 -2.328'];;15 February 1897;1897-02-15;Sir Frederick Wills, 1st Baronet;Bath;United Kingdom
 973;Newcastle upon Tyne;[u'54.977777777778 -1.6133333333333'];2641673;2003;2003-01-01;Graham Wylie;Newcastle upon Tyne;United Kingdom
@@ -995,16 +995,16 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 994;House of Commons;[u'51.499888888889 -0.12466666666667'];;1812;1812-01-01;Henry Bruen;London;United Kingdom
 995;House of Commons;[u'51.499888888889 -0.12466666666667'];;3 October 1789;1789-10-03;Henry Bruen;London;United Kingdom
 996;United Kingdom of Great Britain and Ireland;[u'51.50722222222 -0.1275'];;3 October 1789;1789-10-03;Nicholas Aylward Vigors;London;United Kingdom
-997;Boyle, County Roscommon;[u'53.9667 -8.03'];2966044;1837;1837-01-01;Henry Bruen; ;Ireland
-998;Boyle, County Roscommon;[u'53.9667 -8.03'];2966044;January 1835;1835-01-01;Arthur MacMorrough Kavanagh; ;Ireland
+997;Boyle, County Roscommon;[u'53.9667 -8.03'];2966044;1837;1837-01-01;Henry Bruen;;Ireland
+998;Boyle, County Roscommon;[u'53.9667 -8.03'];2966044;January 1835;1835-01-01;Arthur MacMorrough Kavanagh;;Ireland
 999;Palace of Westminster;[u'51.499444444444 -0.12416666666667'];6944334;1837;1837-01-01;Henry Bruen;London;United Kingdom
 1000;Carlow;[u'52.8306 -6.9317'];2965768;1837;1837-01-01;Henry Bruen;Carlow;Ireland
 1001;Magdalene College;[u'52.210277777778 0.11611111111111'];;1635;1635-01-01;John Bunyan;Cambridge;United Kingdom
 1002;Magdalene College;[u'52.210277777778 0.11611111111111'];;1647;1647-01-01;Thomas Fairfax, 3rd Lord Fairfax of Cameron;Cambridge;United Kingdom
 1003;Magdalene College;[u'52.210277777778 0.11611111111111'];;1635;1635-01-01;Samuel Rutherford;Cambridge;United Kingdom
 1004;Magdalene College;[u'52.210277777778 0.11611111111111'];;1635;1635-01-01;Peter Toon;Cambridge;United Kingdom
-1005;West Heslerton;[u'54.171 -0.60574'];2634391;1635;1635-01-01;John Bunyan; ;United Kingdom
-1006;West Heslerton;[u'54.171 -0.60574'];2634391;1635;1635-01-01;Thomas Fuller; ;United Kingdom
+1005;West Heslerton;[u'54.171 -0.60574'];2634391;1635;1635-01-01;John Bunyan;;United Kingdom
+1006;West Heslerton;[u'54.171 -0.60574'];2634391;1635;1635-01-01;Thomas Fuller;;United Kingdom
 1007;Brasted;[u'51.276611111111 0.11078888888889'];2654871;1635;1635-01-01;John Bunyan;Brasted;United Kingdom
 1008;Ilford;[u'51.558805555556 0.085458333333333'];2646277;1635;1635-01-01;John Bunyan;Ilford;United Kingdom
 1009;Windsor;[u'51.483333333333 -0.6'];2633842;1635;1635-01-01;John Bunyan;Windsor;United Kingdom
@@ -1014,10 +1014,10 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1013;Ostia;[u'41.73324444 12.27893889'];3174741;1761;1761-01-01;Domenico Vandelli;Lido di Ostia;Italy
 1014;Ostia;[u'41.73324444 12.27893889'];3174741;1761;1761-01-01;Henri Marie Ducrotay de Blainville;Lido di Ostia;Italy
 1015;University of Padua;[u'45.417 11.867'];;1761;1761-01-01;Clement XIII;Padova;Italy
-1016;Finland;[u'64 26'];660013;1932;1932-01-01;Maxim Litvinov; ;Finland
-1017;Estonia;[u'59 26'];453733;1932;1932-01-01;Maxim Litvinov; ;Estonia
-1018;Latvia;[u'57 25'];458258;1932;1932-01-01;Maxim Litvinov; ;Latvia
-1019;Shelling of Mainila;[u'60.252222222222 29.853333333333'];;1932;1932-01-01;Maxim Litvinov; ;Russia
+1016;Finland;[u'64 26'];660013;1932;1932-01-01;Maxim Litvinov;;Finland
+1017;Estonia;[u'59 26'];453733;1932;1932-01-01;Maxim Litvinov;;Estonia
+1018;Latvia;[u'57 25'];458258;1932;1932-01-01;Maxim Litvinov;;Latvia
+1019;Shelling of Mainila;[u'60.252222222222 29.853333333333'];;1932;1932-01-01;Maxim Litvinov;;Russia
 1020;Indianapolis;[u'39.767777777778 -86.158055555556'];4259418;June 15, 1862;1862-06-15;Ted Sullivan;Indianapolis;United States
 1021;Central District;[u'31.93333333 34.86666667'];294904;April 19, 1944;1944-04-19;Menachem Mazuz;Ramla;Israel
 1022;Central District;[u'31.93333333 34.86666667'];294904;April 19, 1944;1944-04-19;Ezer Weizman;Ramla;Israel
@@ -1031,8 +1031,8 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1030;Florentin, Tel Aviv;[u'32.05759167 34.77155833'];8598981;April 19, 1944;1944-04-19;Menachem Mazuz;Tel Aviv-Yafo;Israel
 1031;Tel Aviv University;[u'32.113888888889 34.804166666667'];6941120;April 19, 1944;1944-04-19;Menachem Mazuz;Tel Aviv-Yafo;Israel
 1032;Bar-Ilan University;[u'32.067777777778 34.8425'];;April 19, 1944;1944-04-19;Menachem Mazuz;Ramat Gan;Israel
-1033;County Carlow;[u'52.666666666667 -6.8333333333333'];2965767;1857;1857-01-01;Henry Bruen; ;Ireland
-1034;County Carlow;[u'52.666666666667 -6.8333333333333'];2965767;1857;1857-01-01;Francis Bruen; ;Ireland
+1033;County Carlow;[u'52.666666666667 -6.8333333333333'];2965767;1857;1857-01-01;Henry Bruen;;Ireland
+1034;County Carlow;[u'52.666666666667 -6.8333333333333'];2965767;1857;1857-01-01;Francis Bruen;;Ireland
 1035;Commonwealth War Graves Commission;[u'51.52372222 -0.72513889'];;1885;1885-01-01;Reginald Blomfield;Maidenhead;United Kingdom
 1036;Commonwealth War Graves Commission;[u'51.52372222 -0.72513889'];;1885;1885-01-01;Victor Rousseau;Maidenhead;United Kingdom
 1037;Commonwealth War Graves Commission;[u'51.52372222 -0.72513889'];;1885;1885-01-01;Charles Sargeant Jagger;Maidenhead;United Kingdom
@@ -1091,9 +1091,9 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1090;Illinois;[u'40 -89'];4896861;1904;1904-01-01;Frederick P. Dinkelberg;Maroa;United States
 1091;Flatiron Building;[u'40.741111 -73.989722'];;1904;1904-01-01;Frederick P. Dinkelberg;New York;United States
 1092;Grant Park;[u'41.876 -87.6189'];4894385;1904;1904-01-01;Frederick P. Dinkelberg;Chicago;United States
-1093;Lake Michigan;[u'44 -87'];5001835;1904;1904-01-01;Frederick P. Dinkelberg; ;United States
+1093;Lake Michigan;[u'44 -87'];5001835;1904;1904-01-01;Frederick P. Dinkelberg;;United States
 1094;Rookery Building;[u'41.879075 -87.632106'];4913505;1904;1904-01-01;Frederick P. Dinkelberg;Chicago;United States
-1095;Iceland;[u'64.830555555556 -17.986666666667'];2629691;24 September 2007;2007-09-24;Kristín Anna Valtýsdóttir; ;Iceland
+1095;Iceland;[u'64.830555555556 -17.986666666667'];2629691;24 September 2007;2007-09-24;Kristín Anna Valtýsdóttir;;Iceland
 1096;Pisa;[u'43.716666666667 10.4'];3170647;1115;1115-01-01;Ugolino di Tedice;Pisa;Italy
 1097;Pisa;[u'43.716666666667 10.4'];3170647;1115;1115-01-01;Domenico Passignano;Pisa;Italy
 1098;Pisa;[u'43.716666666667 10.4'];3170647;1115;1115-01-01;Catherine of Siena;Pisa;Italy
@@ -1169,8 +1169,8 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1168;Solent;[u'50.786666666667 -1.295'];;November 2008;2008-11-01;Lizzie Hopley;East Cowes;United Kingdom
 1169;Solent;[u'50.786666666667 -1.295'];;November 2008;2008-11-01;Julia Joyce;East Cowes;United Kingdom
 1170;Solent;[u'50.786666666667 -1.295'];;November 2008;2008-11-01;Nick Copus;East Cowes;United Kingdom
-1171;Cobstone Windmill;[u'51.617 -0.8896'];;November 2008;2008-11-01;Dougray Scott; ;United Kingdom
-1172;Ibstone;[u'51.6344 -0.9093'];2646310;November 2008;2008-11-01;Dougray Scott; ;United Kingdom
+1171;Cobstone Windmill;[u'51.617 -0.8896'];;November 2008;2008-11-01;Dougray Scott;;United Kingdom
+1172;Ibstone;[u'51.6344 -0.9093'];2646310;November 2008;2008-11-01;Dougray Scott;;United Kingdom
 1173;Buckinghamshire;[u'51.833333333333 -0.83333333333333'];2654408;November 2008;2008-11-01;Dougray Scott;Aylesbury;United Kingdom
 1174;Turville;[u'51.6137 -0.8932'];2635326;November 2008;2008-11-01;Dougray Scott;Turville;United Kingdom
 1175;Groombridge Place;[u'51.1183 0.190556'];;November 2008;2008-11-01;Dougray Scott;Groombridge;United Kingdom
@@ -1180,7 +1180,7 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1179;Hospital of St Cross;[u'51.048 -1.322'];;November 2008;2008-11-01;Dougray Scott;Winchester;United Kingdom
 1180;Zaire;[u'-4.4 15.4'];;1962;1962-01-01;John Wyndham;Kinshasa;Democratic Republic of the Congo
 1181;Zaire;[u'-4.4 15.4'];;1962;1962-01-01;Nora Jane Noone;Kinshasa;Democratic Republic of the Congo
-1182;Isle of Wight;[u'50.666666666667 -1.2666666666667'];2646007;November 2008;2008-11-01;Dougray Scott; ;United Kingdom
+1182;Isle of Wight;[u'50.666666666667 -1.2666666666667'];2646007;November 2008;2008-11-01;Dougray Scott;;United Kingdom
 1183;University of Ottawa;[u'45.4222 -75.6824'];7626283;1977;1977-01-01;John Robarts;Ottawa;Canada
 1184;University of Ottawa;[u'45.4222 -75.6824'];7626283;November 1, 1924;1924-11-01;Pierre Trudeau;Ottawa;Canada
 1185;University of Ottawa;[u'45.4222 -75.6824'];7626283;November 1, 1924;1924-11-01;Lester B. Pearson;Ottawa;Canada
@@ -1190,10 +1190,10 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1189;College Green;[u'53.344444444444 -6.26'];;1790;1790-01-01;James Coigly;Dublin;Ireland
 1190;College Green;[u'53.344444444444 -6.26'];;1790;1790-01-01;Lord Edward FitzGerald;Dublin;Ireland
 1191;Dublin;[u'53.3425 -6.2658333333333'];2964574;25 April 1852;1852-04-25;Napoleon;Dublin;Ireland
-1192;Fort George;[u'57.583844444444 -4.0701777777778'];2649180;1796;1796-01-01;Roger O'Connor; ;United Kingdom
-1193;Fort George;[u'57.583844444444 -4.0701777777778'];2649180;1802;1802-01-01;Louis-Alexandre Berthier; ;United Kingdom
-1194;Fort George;[u'57.583844444444 -4.0701777777778'];2649180;1802;1802-01-01;Jean-Antoine-Nicolas de Caritat de Condorcet; ;United Kingdom
-1195;Fort George;[u'57.583844444444 -4.0701777777778'];2649180;1802;1802-01-01;Sophie de Condorcet; ;United Kingdom
+1192;Fort George;[u'57.583844444444 -4.0701777777778'];2649180;1796;1796-01-01;Roger O'Connor;;United Kingdom
+1193;Fort George;[u'57.583844444444 -4.0701777777778'];2649180;1802;1802-01-01;Louis-Alexandre Berthier;;United Kingdom
+1194;Fort George;[u'57.583844444444 -4.0701777777778'];2649180;1802;1802-01-01;Jean-Antoine-Nicolas de Caritat de Condorcet;;United Kingdom
+1195;Fort George;[u'57.583844444444 -4.0701777777778'];2649180;1802;1802-01-01;Sophie de Condorcet;;United Kingdom
 1196;Brest;[u'48.39 -4.4869444444444'];3030300;1802;1802-01-01;James Coigly;Brest;France
 1197;Brest;[u'48.39 -4.4869444444444'];3030300;1802;1802-01-01;Gilbert du Motier;Brest;France
 1198;July Monarchy;[u'48.816667 2.483333'];;1802;1802-01-01;Napoleon;Champigny-sur-Marne;France
@@ -1204,36 +1204,36 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1203;Russian Museum;[u'59.938741 30.332383'];;1950;1950-01-01;Alexander Gerasimov;Sankt-Peterburg;Russia
 1204;Imperial Academy of Arts;[u'59.93751 30.29022'];;January 17, 1924;1924-01-17;Alexander Gerasimov;Sankt-Peterburg;Russia
 1205;Tretyakov Gallery;[u'55.741388888889 37.620277777778'];6956709;1950;1950-01-01;Alexander Gerasimov;Moskva;Russia
-1206;Nansen Island;[u'76.2 94.75'];1498016;October 1900;1900-10-01;Eduard Toll; ;Russia
-1207;Nansen Island;[u'76.2 94.75'];1498016;October 1900;1900-10-01;Colin Archer; ;Russia
-1208;Krasnoyarsk Krai;[u'59.883333333333 91.666666666667'];1502020;October 1900;1900-10-01;Eduard Toll; ;Russia
-1209;Maly Taymyr Island;[u'78.116666666667 107.21666666667'];2020327;October 1900;1900-10-01;Eduard Toll; ;Russia
-1210;Laptev Sea;[u'76.268611111111 125.63972222222'];2038683;October 1900;1900-10-01;Eduard Toll; ; 
-1211;Severnaya Zemlya;[u'79.75 98.25'];1492613;October 1900;1900-10-01;Eduard Toll; ;Russia
-1212;Nordenskiöld Archipelago;[u'76.75 96'];;October 1900;1900-10-01;Eduard Toll; ;Russia
-1213;Great Arctic State Nature Reserve;[u'75.5 92.6'];;October 1900;1900-10-01;Eduard Toll; ;Russia
+1206;Nansen Island;[u'76.2 94.75'];1498016;October 1900;1900-10-01;Eduard Toll;;Russia
+1207;Nansen Island;[u'76.2 94.75'];1498016;October 1900;1900-10-01;Colin Archer;;Russia
+1208;Krasnoyarsk Krai;[u'59.883333333333 91.666666666667'];1502020;October 1900;1900-10-01;Eduard Toll;;Russia
+1209;Maly Taymyr Island;[u'78.116666666667 107.21666666667'];2020327;October 1900;1900-10-01;Eduard Toll;;Russia
+1210;Laptev Sea;[u'76.268611111111 125.63972222222'];2038683;October 1900;1900-10-01;Eduard Toll;;
+1211;Severnaya Zemlya;[u'79.75 98.25'];1492613;October 1900;1900-10-01;Eduard Toll;;Russia
+1212;Nordenskiöld Archipelago;[u'76.75 96'];;October 1900;1900-10-01;Eduard Toll;;Russia
+1213;Great Arctic State Nature Reserve;[u'75.5 92.6'];;October 1900;1900-10-01;Eduard Toll;;Russia
 1214;East Germany;[u'52.052 12.389'];8354410;4 July 1955;1955-07-04;Petra Thümer;Wiesenburg/Mark;Germany
 1215;East Germany;[u'52.052 12.389'];8354410;4 July 1955;1955-07-04;Manfred Deckert;Wiesenburg/Mark;Germany
 1216;1980 Winter Olympics;[u'44.2795 -73.9799'];;4 July 1955;1955-07-04;Petra Thümer;Lake Placid;United States
-1217;Gulf of Finland;[u'59.833333333333 26'];453749;1892;1892-01-01;Antoine Treuille de Beaulieu; ; 
-1218;Russian Empire;[u'58.65 70.1167'];;1892;1892-01-01;Antoine Treuille de Beaulieu; ;Russia
+1217;Gulf of Finland;[u'59.833333333333 26'];453749;1892;1892-01-01;Antoine Treuille de Beaulieu;;
+1218;Russian Empire;[u'58.65 70.1167'];;1892;1892-01-01;Antoine Treuille de Beaulieu;;Russia
 1219;Tokyo Prefecture;[u'35.683889 139.774444'];1850144;April 10, 2010;2010-04-10;Gosho Aoyama;Chūō-ku;Japan
 1220;Yokohama;[u'35.433333333333 139.63333333333'];1848350;April 10, 2010;2010-04-10;Gosho Aoyama;Yokohama-shi;Japan
-1221;Arabian Peninsula;[u'23 46'];6957697;January 2013;2013-01-01;Umm ul-Banin; ;Saudi Arabia
-1222;Arabian Peninsula;[u'23 46'];6957697;January 2013;2013-01-01;Al-Abbas ibn Ali; ;Saudi Arabia
-1223;Arabian Peninsula;[u'23 46'];6957697;January 2013;2013-01-01;Muhammad; ;Saudi Arabia
-1224;Arabian Peninsula;[u'23 46'];6957697;January 2013;2013-01-01;Husayn ibn Ali; ;Saudi Arabia
-1225;Arabian Peninsula;[u'23 46'];6957697;January 2013;2013-01-01;Al-Mukhtar; ;Saudi Arabia
-1226;Arabian Peninsula;[u'23 46'];6957697;January 2013;2013-01-01;Barack Obama; ;Saudi Arabia
+1221;Arabian Peninsula;[u'23 46'];6957697;January 2013;2013-01-01;Umm ul-Banin;;Saudi Arabia
+1222;Arabian Peninsula;[u'23 46'];6957697;January 2013;2013-01-01;Al-Abbas ibn Ali;;Saudi Arabia
+1223;Arabian Peninsula;[u'23 46'];6957697;January 2013;2013-01-01;Muhammad;;Saudi Arabia
+1224;Arabian Peninsula;[u'23 46'];6957697;January 2013;2013-01-01;Husayn ibn Ali;;Saudi Arabia
+1225;Arabian Peninsula;[u'23 46'];6957697;January 2013;2013-01-01;Al-Mukhtar;;Saudi Arabia
+1226;Arabian Peninsula;[u'23 46'];6957697;January 2013;2013-01-01;Barack Obama;;Saudi Arabia
 1227;Battle of Karbala;[u'32.6167 44.0333'];;January 2013;2013-01-01;Umm ul-Banin;Karbala';Iraq
 1228;Bullock Texas State History Museum;[u'30.2802 -97.7388'];4675304;1993;1993-01-01;George W. Bush;Austin;United States
 1229;Southern Methodist University;[u'32.844114 -96.784874'];4733299;1990;1990-01-01;H. L. Hunt;Dallas;United States
 1230;Southern Methodist University;[u'32.844114 -96.784874'];4733299;1990;1990-01-01;Ray Lee Hunt;Dallas;United States
 1231;Lyle School of Engineering;[u'32.8464 -96.7861'];;1993;1993-01-01;George W. Bush;Dallas;United States
-1232;Nagorno-Karabakh Republic;[u'39.866666666667 46.716666666667'];;2005;2005-01-01;Arkadi Ghukasyan; ; 
-1233;Nagorno-Karabakh Republic;[u'39.866666666667 46.716666666667'];;2005;2005-01-01;Armen Sargsyan; ; 
-1234;Armenia;[u'40.383333 44.95'];174982;2005;2005-01-01;Arkadi Ghukasyan; ;Armenia
-1235;Stepanakert;[u'39.815277777778 46.751944444444'];146970;1991;1991-01-01;Arkadi Ghukasyan; ; 
+1232;Nagorno-Karabakh Republic;[u'39.866666666667 46.716666666667'];;2005;2005-01-01;Arkadi Ghukasyan;;
+1233;Nagorno-Karabakh Republic;[u'39.866666666667 46.716666666667'];;2005;2005-01-01;Armen Sargsyan;;
+1234;Armenia;[u'40.383333 44.95'];174982;2005;2005-01-01;Arkadi Ghukasyan;;Armenia
+1235;Stepanakert;[u'39.815277777778 46.751944444444'];146970;1991;1991-01-01;Arkadi Ghukasyan;;
 1236;Organization for Security and Co-operation in Europe;[u'48.2101 16.3667'];;2005;2005-01-01;Arkadi Ghukasyan;Wien;Austria
 1237;State Duma;[u'55.7575 37.615277777778'];;2005;2005-01-01;Armen Sargsyan;Moskva;Russia
 1238;Manchester;[u'53.466666666667 -2.2333333333333'];2643123;1932;1932-01-01;L. S. Lowry;Manchester;United Kingdom
@@ -1242,10 +1242,10 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1241;Hampshire;[u'51.083333333333 -1.25'];2647554;1965;1965-01-01;John Bulmer;Avington;United Kingdom
 1242;Hampshire;[u'51.083333333333 -1.25'];2647554;1965;1965-01-01;Martin Harrison;Avington;United Kingdom
 1243;The Photographers' Gallery;[u'51.5148 -0.1389'];;1965;1965-01-01;Bob Smithies;London;United Kingdom
-1244;Southeast Asia;[u'12 105.1'];7729896;1801;1801-01-01;John Latham; ;Cambodia
-1245;Africa;[u'1 17'];6255146;1801;1801-01-01;John Latham; ;Republic of the Congo
+1244;Southeast Asia;[u'12 105.1'];7729896;1801;1801-01-01;John Latham;;Cambodia
+1245;Africa;[u'1 17'];6255146;1801;1801-01-01;John Latham;;Republic of the Congo
 1246;Australia;[u'-25 135'];2077456;1801;1801-01-01;John Latham;Ghan;Australia
-1247;Gondwana;[];;1801;1801-01-01;John Latham; ; 
+1247;Gondwana;[];;1801;1801-01-01;John Latham;;
 1248;Staffordshire;[u'52.833333333333 -2'];2637141;1968;1968-01-01;Clem Clempson;Hixon;United Kingdom
 1249;Staffordshire;[u'52.833333333333 -2'];2637141;1968;1968-01-01;Graham Bond;Hixon;United Kingdom
 1250;Staffordshire;[u'52.833333333333 -2'];2637141;1968;1968-01-01;John Hinch;Hixon;United Kingdom
@@ -1253,16 +1253,16 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1252;Staffordshire;[u'52.833333333333 -2'];2637141;1968;1968-01-01;Johann Sebastian Bach;Hixon;United Kingdom
 1253;Canada;[u'56 -109'];6251999;July 9, 1853;1853-07-09;Robert Watson;Michel Village;Canada
 1254;Lachute;[u'45.65 -74.333333333333'];6024829;July 9, 1853;1853-07-09;Robert Watson;Lachute;Canada
-1255;Canada East;[];;July 9, 1853;1853-07-09;Robert Watson; ; 
-1256;Manitoba;[u'55 -97'];6065171;July 9, 1853;1853-07-09;Robert Watson; ;Canada
+1255;Canada East;[];;July 9, 1853;1853-07-09;Robert Watson;;
+1256;Manitoba;[u'55 -97'];6065171;July 9, 1853;1853-07-09;Robert Watson;;Canada
 1257;North Point Douglas;[u'49.9089 -97.1283'];6090438;July 9, 1853;1853-07-09;Robert Watson;Winnipeg;Canada
-1258;Atlantis;[u'35.2542 -24.2585'];;November 1939;1939-11-01;Robert Bernstein; ; 
-1259;Atlantis;[u'35.2542 -24.2585'];;November 1939;1939-11-01;Gardner Fox; ; 
-1260;Atlantis;[u'35.2542 -24.2585'];;November 1939;1939-11-01;Fred Guardineer; ; 
-1261;Atlantis;[u'35.2542 -24.2585'];;November 1939;1939-11-01;Ramona Fradon; ; 
-1262;Atlantis;[u'35.2542 -24.2585'];;November 1939;1939-11-01;Plato; ; 
-1263;Atlantis;[u'35.2542 -24.2585'];;May 1959;1959-05-01;Peter David; ; 
-1264;Atlantis;[u'35.2542 -24.2585'];;May 1959;1959-05-01;Esteban Maroto; ; 
+1258;Atlantis;[u'35.2542 -24.2585'];;November 1939;1939-11-01;Robert Bernstein;;
+1259;Atlantis;[u'35.2542 -24.2585'];;November 1939;1939-11-01;Gardner Fox;;
+1260;Atlantis;[u'35.2542 -24.2585'];;November 1939;1939-11-01;Fred Guardineer;;
+1261;Atlantis;[u'35.2542 -24.2585'];;November 1939;1939-11-01;Ramona Fradon;;
+1262;Atlantis;[u'35.2542 -24.2585'];;November 1939;1939-11-01;Plato;;
+1263;Atlantis;[u'35.2542 -24.2585'];;May 1959;1959-05-01;Peter David;;
+1264;Atlantis;[u'35.2542 -24.2585'];;May 1959;1959-05-01;Esteban Maroto;;
 1265;Oregon Country;[u'48 -122'];;May 3, 1970;1970-05-03;George Abernethy;Snohomish;United States
 1266;West Linn, Oregon;[u'45.365277777778 -122.64111111111'];5760009;May 3, 1970;1970-05-03;George Abernethy;West Linn;United States
 1267;Oregon Route 43;[u'45.4171 -122.6635'];;May 3, 1970;1970-05-03;George Abernethy;Lake Oswego;United States
@@ -1292,7 +1292,7 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1291;Hungary;[u'47 19'];719819;18 October;1848-10-18;Richard Guyon;Tass;Hungary
 1292;Hungary;[u'47 19'];719819;18 October;1848-10-18;Artúr Görgey;Tass;Hungary
 1293;Hungary;[u'47 19'];719819;18 October;1848-10-18;Prince Franz de Paula of Liechtenstein;Tass;Hungary
-1294;Nagorno-Karabakh Republic;[u'39.866666666667 46.716666666667'];;11 August 2002;2002-08-11;Arkadi Ghukasyan; ; 
+1294;Nagorno-Karabakh Republic;[u'39.866666666667 46.716666666667'];;11 August 2002;2002-08-11;Arkadi Ghukasyan;;
 1295;German Academic Exchange Service;[u'50.700182 7.148623'];;1972;1972-01-01;Dale Chihuly;Bonn;Germany
 1296;Rhode Island School of Design;[u'41.825833333333 -71.407777777778'];5224304;1972;1972-01-01;Dale Chihuly;Providence;United States
 1297;Pilchuck Glass School;[u'48.2811 -122.246'];;1972;1972-01-01;Dale Chihuly;Stanwood;United States
@@ -1305,27 +1305,27 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1304;Alabama;[u'32.7 -86.7'];4829764;1998;1998-01-01;Randall Terry;Billingsley;United States
 1305;Tennessee;[u'36 -86'];4662168;1998;1998-01-01;Randall Terry;Liberty;United States
 1306;Surrey;[u'51.25 -0.41666666666667'];2636512;1998;1998-01-01;Randall Terry;Effingham;United Kingdom
-1307;Khulna Division;[u'22.916666666667 89.25'];1337210;2005;2005-01-01;Shafiul Islam; ;Bangladesh
-1308;Khulna Division;[u'22.916666666667 89.25'];1337210;2005;2005-01-01;Hamilton Masakadza; ;Bangladesh
-1309;Khulna Division;[u'22.916666666667 89.25'];1337210;2005;2005-01-01;Imrul Kayes; ;Bangladesh
-1310;Dhaka Division;[u'24.166666666667 90.416666666667'];1337179;2005;2005-01-01;Shafiul Islam; ;Bangladesh
-1311;Bangladesh;[u'24.016667 89.866667'];1210997;2005;2005-01-01;Shafiul Islam; ;Bangladesh
-1312;Bangladesh;[u'24.016667 89.866667'];1210997;May 2010;2010-05-01;Stuart Law; ;Bangladesh
-1313;Bangladesh;[u'24.016667 89.866667'];1210997;May 2010;2010-05-01;Nazmul Hossain; ;Bangladesh
-1314;Bangladesh;[u'24.016667 89.866667'];1210997;May 2010;2010-05-01;Rubel Hossain; ;Bangladesh
-1315;Bangladesh;[u'24.016667 89.866667'];1210997;May 2010;2010-05-01;Shahadat Hossain; ;Bangladesh
-1316;Bangladesh;[u'24.016667 89.866667'];1210997;October;2011-10-01;Enamul Haque Jr; ;Bangladesh
-1317;Bangladesh;[u'24.016667 89.866667'];1210997;October;2011-10-01;Mohammad Rafique; ;Bangladesh
-1318;New Jersey;[u'40 -74.5'];5101760;1979;1979-01-01;Matthew Diamond; ;United States
+1307;Khulna Division;[u'22.916666666667 89.25'];1337210;2005;2005-01-01;Shafiul Islam;;Bangladesh
+1308;Khulna Division;[u'22.916666666667 89.25'];1337210;2005;2005-01-01;Hamilton Masakadza;;Bangladesh
+1309;Khulna Division;[u'22.916666666667 89.25'];1337210;2005;2005-01-01;Imrul Kayes;;Bangladesh
+1310;Dhaka Division;[u'24.166666666667 90.416666666667'];1337179;2005;2005-01-01;Shafiul Islam;;Bangladesh
+1311;Bangladesh;[u'24.016667 89.866667'];1210997;2005;2005-01-01;Shafiul Islam;;Bangladesh
+1312;Bangladesh;[u'24.016667 89.866667'];1210997;May 2010;2010-05-01;Stuart Law;;Bangladesh
+1313;Bangladesh;[u'24.016667 89.866667'];1210997;May 2010;2010-05-01;Nazmul Hossain;;Bangladesh
+1314;Bangladesh;[u'24.016667 89.866667'];1210997;May 2010;2010-05-01;Rubel Hossain;;Bangladesh
+1315;Bangladesh;[u'24.016667 89.866667'];1210997;May 2010;2010-05-01;Shahadat Hossain;;Bangladesh
+1316;Bangladesh;[u'24.016667 89.866667'];1210997;October;2011-10-01;Enamul Haque Jr;;Bangladesh
+1317;Bangladesh;[u'24.016667 89.866667'];1210997;October;2011-10-01;Mohammad Rafique;;Bangladesh
+1318;New Jersey;[u'40 -74.5'];5101760;1979;1979-01-01;Matthew Diamond;;United States
 1319;Stockholm;[u'59.333333333333 18.066666666667'];2673730;1756;1756-01-01;Adoniram;Stockholm;Sweden
 1320;Stockholm;[u'59.333333333333 18.066666666667'];2673730;1756;1756-01-01;Jacques de Molay;Stockholm;Sweden
 1321;Stockholm;[u'59.333333333333 18.066666666667'];2673730;1756;1756-01-01;Charles XIII of Sweden;Stockholm;Sweden
-1322;Sweden;[u'61 15'];2661886;1756;1756-01-01;Charles XIII of Sweden; ;Sweden
+1322;Sweden;[u'61 15'];2661886;1756;1756-01-01;Charles XIII of Sweden;;Sweden
 1323;Denmark;[u'56 10'];2623032;1756;1756-01-01;Charles XIII of Sweden;Skanderborg;Denmark
-1324;Brazil;[u'-11 -53'];3469034;October 8, 1981;1981-10-08;Gilson Kleina; ;Brazil
-1325;Brazil;[u'-11 -53'];3469034;October 8, 1981;1981-10-08;Luiz Felipe Scolari; ;Brazil
+1324;Brazil;[u'-11 -53'];3469034;October 8, 1981;1981-10-08;Gilson Kleina;;Brazil
+1325;Brazil;[u'-11 -53'];3469034;October 8, 1981;1981-10-08;Luiz Felipe Scolari;;Brazil
 1326;S.E. Palmeiras;[u'-23.527678 -46.678322'];;October 8, 1981;1981-10-08;Gilson Kleina;São Paulo;Brazil
-1327;Italy;[u'43 12'];3175395;18 November 1950;1950-11-18;Benedict XVI; ;Italy
+1327;Italy;[u'43 12'];3175395;18 November 1950;1950-11-18;Benedict XVI;;Italy
 1328;Coventry;[u'52.416666666667 -1.5166666666667'];2652221;1647;1647-01-01;George Fox;Coventry;United Kingdom
 1329;Coventry;[u'52.416666666667 -1.5166666666667'];2652221;1649;1649-01-01;Christopher Hill;Coventry;United Kingdom
 1330;Kent;[u'51.19 0.73'];3333158;1647;1647-01-01;George Fox;Egerton;United Kingdom
@@ -1336,8 +1336,8 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1335;Moshavim Movement;[u'32.075 34.7842'];;1928;1928-01-01;Ariel Sharon;Tel Aviv-Yafo;Israel
 1336;Jerusalem corridor;[u'31.7833333 35.1'];;1928;1928-01-01;Ariel Sharon;Giv'at Ye'arim;Israel
 1337;Histadrut;[u'32.0858 34.7844'];;1928;1928-01-01;Ariel Sharon;Tel Aviv-Yafo;Israel
-1338;Brooklyn;[u'40.692777777778 -73.990277777778'];5110302;1853;1853-01-01;Alfred Tredway White; ;United States
-1339;Brooklyn;[u'40.692777777778 -73.990277777778'];5110302;1853;1853-01-01;William Jay Gaynor; ;United States
+1338;Brooklyn;[u'40.692777777778 -73.990277777778'];5110302;1853;1853-01-01;Alfred Tredway White;;United States
+1339;Brooklyn;[u'40.692777777778 -73.990277777778'];5110302;1853;1853-01-01;William Jay Gaynor;;United States
 1340;Biella;[u'45.566388888889 8.0533333333333'];6539582;9 April 1856;1856-04-09;Antonio Fontanesi;Biella;Italy
 1341;Biella;[u'45.566388888889 8.0533333333333'];6539582;9 April 1856;1856-04-09;Michele Lessona;Biella;Italy
 1342;Biella;[u'45.566388888889 8.0533333333333'];6539582;9 April 1856;1856-04-09;Charles Darwin;Biella;Italy
@@ -1377,18 +1377,18 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1376;Prague;[u'50.088611111111 14.421388888889'];3067695;26 September;1920-09-26;Pius X;Prague;Czechia
 1377;Second Polish Republic;[u'52.216666666667 21'];;1922;1922-01-01;Jan Hus;Warszawa;Poland
 1378;Santa Cecilia;[u'42.051944444444 -3.8030555555556'];6356587;1922;1922-01-01;Jan Hus;Santa Cecilia;Spain
-1379;Romania;[u'46 25'];798549;31 August 1870;1870-08-31;Pius X; ;Romania
-1380;Romania;[u'46 25'];798549;31 August 1870;1870-08-31;Benedict XV; ;Romania
+1379;Romania;[u'46 25'];798549;31 August 1870;1870-08-31;Pius X;;Romania
+1380;Romania;[u'46 25'];798549;31 August 1870;1870-08-31;Benedict XV;;Romania
 1381;Spain;[u'40 -3'];2510769;1923;1923-01-01;Jan Hus;Tarancón;Spain
 1382;Francoist Spain;[u'41.3 -0.749'];;1923;1923-01-01;Jan Hus;Belchite;Spain
 1383;Roman Catholic Diocese of Rome;[u'41.88590556 12.50615556'];;31 August 1870;1870-08-31;Pius X;Roma;Italy
-1384;Greece;[u'39 22'];390903;Jan;1928-01-01;Jan Hus; ;Greece
-1385;Edirne;[u'41.678055555556 26.559444444444'];747712;1 September 1920;1920-09-01;Jan Hus; ;Turkey
+1384;Greece;[u'39 22'];390903;Jan;1928-01-01;Jan Hus;;Greece
+1385;Edirne;[u'41.678055555556 26.559444444444'];747712;1 September 1920;1920-09-01;Jan Hus;;Turkey
 1386;Kingdom of Romania;[u'44.416666666667 26.1'];;1 September 1920;1920-09-01;Jan Hus;București;Romania
 1387;Kingdom of Italy;[u'41.9 12.5'];;31 August 1870;1870-08-31;Pius X;Roma;Italy
 1388;Alba Iulia;[u'46.076388888889 23.572777777778'];8299636;1 September 1920;1920-09-01;Jan Hus;Alba Iulia;Romania
 1389;First Czechoslovak Republic;[u'50.0833 14.4667'];;31 August 1870;1870-08-31;Pius X;Prague;Czechia
-1390;Middle East;[u'29 41'];;1 September 1920;1920-09-01;Jan Hus; ;Saudi Arabia
+1390;Middle East;[u'29 41'];;1 September 1920;1920-09-01;Jan Hus;;Saudi Arabia
 1391;Central Intelligence Agency;[u'38.95208356 -77.14515925'];4751791;2014;2014-01-01;Aldrich Ames;McLean;United States
 1392;Central Intelligence Agency;[u'38.95208356 -77.14515925'];4751791;2014;2014-01-01;Sandra Grimes;McLean;United States
 1393;Central Intelligence Agency;[u'38.95208356 -77.14515925'];4751791;2014;2014-01-01;Jeanne Vertefeuille;McLean;United States
@@ -1397,7 +1397,7 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1396;Queensland;[u'-23 143'];2152274;22 May 1965;1965-05-22;Meg Lees;Opalton;Australia
 1397;Queensland;[u'-23 143'];2152274;22 May 1965;1965-05-22;John Howard;Opalton;Australia
 1398;Kilcoy, Queensland;[u'-26.9431 152.564'];2161470;22 May 1965;1965-05-22;Cheryl Kernot;Kilcoy;Australia
-1399;Great Barrier Reef;[u'-18.286111111111 147.7'];2164628;22 May 1965;1965-05-22;Cheryl Kernot; ;Australia
+1399;Great Barrier Reef;[u'-18.286111111111 147.7'];2164628;22 May 1965;1965-05-22;Cheryl Kernot;;Australia
 1400;University of Queensland;[u'-27.498602777778 153.01551944444'];;22 May 1965;1965-05-22;Cheryl Kernot;Saint Lucia;Australia
 1401;Townsville Bulletin;[u'-19.2627 146.816'];;22 May 1965;1965-05-22;Cheryl Kernot;Townsville City;Australia
 1402;Antwerp;[u'51.216666666667 4.4'];2803138;1593;1593-01-01;Cornelis van der Geest;Antwerpen;Belgium
@@ -1420,7 +1420,7 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1419;Paombong;[u'14.831111 120.789167'];1694861;16 November 2005;2005-11-16;Johnny Warren;Paombong;Philippines
 1420;Sea World;[u'-27.9559 153.4257'];;this day;1972-08-13;Eminem;Main Beach;Australia
 1421;Yeshivah College, Australia;[u'-37.8686 145'];;13 August 1972;1972-08-13;Rove McManus;Saint Kilda East;Australia
-1422;Uzbekistan;[u'41.666667 64.066667'];1512440;13 August 1972;1972-08-13;Rove McManus; ;Uzbekistan
+1422;Uzbekistan;[u'41.666667 64.066667'];1512440;13 August 1972;1972-08-13;Rove McManus;;Uzbekistan
 1423;3RRR;[u'-37.8385 145.346'];;1998;1998-01-01;Baz Luhrmann;Mount Dandenong;Australia
 1424;3RRR;[u'-37.8385 145.346'];;Sunday Night;1972-08-13;Frank Meeink;Mount Dandenong;Australia
 1425;3RRR;[u'-37.8385 145.346'];;Sunday Night;1972-08-13;Philip Nitschke;Mount Dandenong;Australia
@@ -1443,9 +1443,9 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1442;Australian Broadcasting Corporation;[u'-33.882 151.202'];;1997;1997-01-01;Walt Disney;Haymarket;Australia
 1443;Australian Broadcasting Corporation;[u'-33.882 151.202'];;1997;1997-01-01;Adolf Hitler;Haymarket;Australia
 1444;Australian Broadcasting Corporation;[u'-33.882 151.202'];;1997;1997-01-01;Shaun Micallef;Haymarket;Australia
-1445;Mozambique;[u'-17.6 35.183333'];1036973;2005;2005-01-01;Bob Maguire; ;Mozambique
-1446;Mozambique;[u'-17.6 35.183333'];1036973;2002;2002-01-01;Bob Larson; ;Mozambique
-1447;Mozambique;[u'-17.6 35.183333'];1036973;2002;2002-01-01;Andrew Denton; ;Mozambique
+1445;Mozambique;[u'-17.6 35.183333'];1036973;2005;2005-01-01;Bob Maguire;;Mozambique
+1446;Mozambique;[u'-17.6 35.183333'];1036973;2002;2002-01-01;Bob Larson;;Mozambique
+1447;Mozambique;[u'-17.6 35.183333'];1036973;2002;2002-01-01;Andrew Denton;;Mozambique
 1448;Ōsaka;[u'34.693611111111 135.50194444444'];1853909;1997;1997-01-01;Walt Disney;Ōsaka-shi;Japan
 1449;Côte d'Ivoire;[u'8 -6'];2287781;1997;1997-01-01;Ray Martin;Mankono;Côte d'Ivoire
 1450;Disneyland;[u'33.809 -117.919'];5343229;1997;1997-01-01;Ray Martin;Anaheim;United States
@@ -1463,7 +1463,7 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1462;North Stradbroke Island;[u'-27.583333333333 153.46666666667'];2154857;1825;1825-01-01;Alexander Macleay;North Stradbroke Island;Australia
 1463;Russell Island;[u'-27.66666667 153.38333333'];2150808;1825;1825-01-01;Alexander Macleay;Russell Island;Australia
 1464;Bushehr;[u'28.983333333333 50.816666666667'];139817;1822;1822-01-01;Báb;Bandar Bushehr;Iran
-1465;Jahrom;[u'28.95 53.95'];130531;1822;1822-01-01;Báb; ;Iran
+1465;Jahrom;[u'28.95 53.95'];130531;1822;1822-01-01;Báb;;Iran
 1466;Karbala;[u'32.616666666667 44.033333333333'];94824;1822;1822-01-01;Báb;Karbala;Iraq
 1467;Isfahan;[u'32.633333333333 51.483333333333'];418863;August 25, 1842;1842-08-25;Báb;Kahrizsang;Iran
 1468;Acre;[u'32.926111111111 35.083888888889'];295721;1882;1882-01-01;Mullá Husayn;Acre;Israel
@@ -1485,41 +1485,41 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1484;Berlin;[u'52.516666666667 13.383333333333'];2950157;18 July 1790;1790-07-18;Otto von Bismarck;Berlin;Germany
 1485;Province of Pomerania;[u'53.43333333 14.53333333'];;18 July 1790;1790-07-18;Otto von Bismarck;Szczecin;Poland
 1486;House of Commons;[u'51.499888888889 -0.12466666666667'];;15 February 1876;1876-02-15;Thomas McGovern;London;United Kingdom
-1487;West Java Province;[u'-6.75 107.5'];1642672;Jan;1629-01-01;Jan Pieterszoon Coen; ;Indonesia
-1488;West Java Province;[u'-6.75 107.5'];1642672;Jan;1629-01-01;Sultan Agung of Mataram; ;Indonesia
-1489;Java;[u'-7.4916666666667 110.00444444444'];;1628;1628-01-01;Sultan Agung of Mataram; ;Indonesia
-1490;Ambon Island;[u'-3.6380555555556 128.11722222222'];1651529;1628;1628-01-01;Sultan Agung of Mataram; ;Indonesia
-1491;Ambon Island;[u'-3.6380555555556 128.11722222222'];1651529;1628;1628-01-01;Willem Ysbrandtsz. Bontekoe; ;Indonesia
-1492;Jepara;[u'-6.5333333333333 110.66666666667'];1642548;1628;1628-01-01;Sultan Agung of Mataram; ;Indonesia
-1493;Surabaya;[u'-7.2333333333333 112.73333333333'];1625822;1628;1628-01-01;Sultan Agung of Mataram; ;Indonesia
-1494;Batavia;[u'-6.134836 106.813222'];;1628;1628-01-01;Sultan Agung of Mataram; ;Indonesia
-1495;Maluku Isgokulands;[u'-2 128'];1636629;1628;1628-01-01;Sultan Agung of Mataram; ;Indonesia
-1496;Bali;[u'-8.3691666666667 115.13833333333'];1650535;1628;1628-01-01;Sultan Agung of Mataram; ;Indonesia
-1497;Macau;[u'22.166666666667 113.55'];1821274;1628;1628-01-01;Willem Ysbrandtsz. Bontekoe; ;Macau
-1498;Banda Islands;[u'-4.5833333333333 129.91666666667'];1650397;Jan;1629-01-01;Willem Ysbrandtsz. Bontekoe; ;Indonesia
-1499;Banten Province;[u'-6.5 106.25'];1923045;1613;1613-01-01;Willem Ysbrandtsz. Bontekoe; ;Indonesia
-1500;Jakarta Bay;[u'-6 106.85944444'];;August 28 1628;1628-08-28;Sultan Agung of Mataram; ;Indonesia
-1501;Ciliwung River;[u'-6.117449 106.828433'];;August 28 1628;1628-08-28;Sultan Agung of Mataram; ;Indonesia
-1502;Cirebon;[u'-6.7166666666667 108.56666666667'];1646170;The next days;1628-12-03;Jan Pieterszoon Coen; ;Indonesia
-1503;Karawang;[u'-6.3125 107.295'];1641134;The next days;1628-12-03;Jan Pieterszoon Coen; ;Indonesia
-1504;Indramayu;[u'-6.3333333333333 108.31666666667'];6404422;The next days;1628-12-03;Jan Pieterszoon Coen; ;Indonesia
-1505;Bekasi;[u'-6.2333333333333 107'];1649378;The next days;1628-12-03;Jan Pieterszoon Coen; ;Indonesia
-1506;Blitar;[u'-8.1 112.15'];1648580;May 1629;1629-05-01;Jan Pieterszoon Coen; ;Indonesia
-1507;Gelgel, Indonesia;[u'-8.5641666666667 115.41194444444'];;May 1629;1629-05-01;Jan Pieterszoon Coen; ;Indonesia
-1508;Italy;[u'43 12'];3175395;1906;1906-01-01;Alfredo Binda; ;Italy
-1509;Italy;[u'43 12'];3175395;1906;1906-01-01;Learco Guerra; ;Italy
-1510;Italy;[u'43 12'];3175395;1906;1906-01-01;Fausto Coppi; ;Italy
-1511;Italy;[u'43 12'];3175395;1906;1906-01-01;Paolo Bettini; ;Italy
-1512;Italy;[u'43 12'];3175395;1906;1906-01-01;Salvatore Commesso; ;Italy
-1513;Italy;[u'43 12'];3175395;1906;1906-01-01;Massimo Podenzana; ;Italy
-1514;Italy;[u'43 12'];3175395;1906;1906-01-01;Gianni Bugno; ;Italy
-1515;Italy;[u'43 12'];3175395;1906;1906-01-01;Costante Girardengo; ;Italy
-1516;Italy;[u'43 12'];3175395;1906;1906-01-01;Giovanni Visconti; ;Italy
-1517;Italy;[u'43 12'];3175395;1906;1906-01-01;Giovanni Cuniolo; ;Italy
-1518;Italy;[u'43 12'];3175395;1906;1906-01-01;Vincenzo Nibali; ;Italy
-1519;Canaan;[u'32.766667 35.333333'];;1458;1458-01-01;Solomon; ;Israel
-1520;Phoenicia;[u'34.116667 35.65'];;1458;1458-01-01;Solomon; ;Lebanon
-1521;Phoenicia;[u'34.116667 35.65'];;1458;1458-01-01;Johann Weyer; ;Lebanon
+1487;West Java Province;[u'-6.75 107.5'];1642672;Jan;1629-01-01;Jan Pieterszoon Coen;;Indonesia
+1488;West Java Province;[u'-6.75 107.5'];1642672;Jan;1629-01-01;Sultan Agung of Mataram;;Indonesia
+1489;Java;[u'-7.4916666666667 110.00444444444'];;1628;1628-01-01;Sultan Agung of Mataram;;Indonesia
+1490;Ambon Island;[u'-3.6380555555556 128.11722222222'];1651529;1628;1628-01-01;Sultan Agung of Mataram;;Indonesia
+1491;Ambon Island;[u'-3.6380555555556 128.11722222222'];1651529;1628;1628-01-01;Willem Ysbrandtsz. Bontekoe;;Indonesia
+1492;Jepara;[u'-6.5333333333333 110.66666666667'];1642548;1628;1628-01-01;Sultan Agung of Mataram;;Indonesia
+1493;Surabaya;[u'-7.2333333333333 112.73333333333'];1625822;1628;1628-01-01;Sultan Agung of Mataram;;Indonesia
+1494;Batavia;[u'-6.134836 106.813222'];;1628;1628-01-01;Sultan Agung of Mataram;;Indonesia
+1495;Maluku Isgokulands;[u'-2 128'];1636629;1628;1628-01-01;Sultan Agung of Mataram;;Indonesia
+1496;Bali;[u'-8.3691666666667 115.13833333333'];1650535;1628;1628-01-01;Sultan Agung of Mataram;;Indonesia
+1497;Macau;[u'22.166666666667 113.55'];1821274;1628;1628-01-01;Willem Ysbrandtsz. Bontekoe;;Macau
+1498;Banda Islands;[u'-4.5833333333333 129.91666666667'];1650397;Jan;1629-01-01;Willem Ysbrandtsz. Bontekoe;;Indonesia
+1499;Banten Province;[u'-6.5 106.25'];1923045;1613;1613-01-01;Willem Ysbrandtsz. Bontekoe;;Indonesia
+1500;Jakarta Bay;[u'-6 106.85944444'];;August 28 1628;1628-08-28;Sultan Agung of Mataram;;Indonesia
+1501;Ciliwung River;[u'-6.117449 106.828433'];;August 28 1628;1628-08-28;Sultan Agung of Mataram;;Indonesia
+1502;Cirebon;[u'-6.7166666666667 108.56666666667'];1646170;The next days;1628-12-03;Jan Pieterszoon Coen;;Indonesia
+1503;Karawang;[u'-6.3125 107.295'];1641134;The next days;1628-12-03;Jan Pieterszoon Coen;;Indonesia
+1504;Indramayu;[u'-6.3333333333333 108.31666666667'];6404422;The next days;1628-12-03;Jan Pieterszoon Coen;;Indonesia
+1505;Bekasi;[u'-6.2333333333333 107'];1649378;The next days;1628-12-03;Jan Pieterszoon Coen;;Indonesia
+1506;Blitar;[u'-8.1 112.15'];1648580;May 1629;1629-05-01;Jan Pieterszoon Coen;;Indonesia
+1507;Gelgel, Indonesia;[u'-8.5641666666667 115.41194444444'];;May 1629;1629-05-01;Jan Pieterszoon Coen;;Indonesia
+1508;Italy;[u'43 12'];3175395;1906;1906-01-01;Alfredo Binda;;Italy
+1509;Italy;[u'43 12'];3175395;1906;1906-01-01;Learco Guerra;;Italy
+1510;Italy;[u'43 12'];3175395;1906;1906-01-01;Fausto Coppi;;Italy
+1511;Italy;[u'43 12'];3175395;1906;1906-01-01;Paolo Bettini;;Italy
+1512;Italy;[u'43 12'];3175395;1906;1906-01-01;Salvatore Commesso;;Italy
+1513;Italy;[u'43 12'];3175395;1906;1906-01-01;Massimo Podenzana;;Italy
+1514;Italy;[u'43 12'];3175395;1906;1906-01-01;Gianni Bugno;;Italy
+1515;Italy;[u'43 12'];3175395;1906;1906-01-01;Costante Girardengo;;Italy
+1516;Italy;[u'43 12'];3175395;1906;1906-01-01;Giovanni Visconti;;Italy
+1517;Italy;[u'43 12'];3175395;1906;1906-01-01;Giovanni Cuniolo;;Italy
+1518;Italy;[u'43 12'];3175395;1906;1906-01-01;Vincenzo Nibali;;Italy
+1519;Canaan;[u'32.766667 35.333333'];;1458;1458-01-01;Solomon;;Israel
+1520;Phoenicia;[u'34.116667 35.65'];;1458;1458-01-01;Solomon;;Lebanon
+1521;Phoenicia;[u'34.116667 35.65'];;1458;1458-01-01;Johann Weyer;;Lebanon
 1522;United Kingdom;[u'54 -2'];2635167;1941;1941-01-01;Derek Roy;Embsay;United Kingdom
 1523;United Kingdom;[u'54 -2'];2635167;1941;1941-01-01;Frankie Howerd;Embsay;United Kingdom
 1524;United Kingdom;[u'54 -2'];2635167;1941;1941-01-01;Tony Hancock;Embsay;United Kingdom
@@ -1541,7 +1541,7 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1540;University of Durham;[u'54.773 -1.574'];;29 August 1912;1912-08-29;Matthew Arnold;Durham;United Kingdom
 1541;Gateshead;[u'54.95 -1.6'];2648773;1934;1934-01-01;Geoffrey Grigson;Gateshead;United Kingdom
 1542;South Korea;[u'36 128'];1835841;21 January 1983;1983-01-21;Sumi Jo;Gimcheon;South Korea
-1543;Arizona;[u'34.286667 -111.656944'];5551752;21 January 1983;1983-01-21;Sumi Jo; ;United States
+1543;Arizona;[u'34.286667 -111.656944'];5551752;21 January 1983;1983-01-21;Sumi Jo;;United States
 1544;Cuban Missile Crisis;[u'23.1166 -82.3885'];;1971;1971-01-01;Richard Benjamin;La Habana;Cuba
 1545;Cuban Missile Crisis;[u'23.1166 -82.3885'];;1971;1971-01-01;Paul Sylbert;La Habana;Cuba
 1546;Nepal;[u'26.533333333333 86.733333333333'];1282988;11 July 1912;1912-07-11;E. A. Smythies;Boriya;Nepal
@@ -1551,7 +1551,7 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1550;Kathmandu;[u'27.716666666667 85.366666666667'];1283240;1873;1873-01-01;Frank Kingdon-Ward;Gokarneshwor;Nepal
 1551;Sarawak;[u'3.03805556 113.78111111'];1733038;1873;1873-01-01;Frank Kingdon-Ward;Bintulu;Malaysia
 1552;Alps;[u'46 10'];2661786;1912;1912-01-01;Frank Kingdon-Ward;Lizzola;Italy
-1553;Pyrenees;[u'42.666666666667 1'];3112616;1912;1912-01-01;Frank Kingdon-Ward; ;Spain
+1553;Pyrenees;[u'42.666666666667 1'];3112616;1912;1912-01-01;Frank Kingdon-Ward;;Spain
 1554;Balliol College;[u'51.75444444 -1.2575'];;1873;1873-01-01;Frank Kingdon-Ward;Oxford;United Kingdom
 1555;Uttar Pradesh;[u'26.85 80.91'];1253626;11 July 1912;1912-07-11;E. A. Smythies;इलाहाबाद;India
 1556;House of Commons;[u'51.499888888889 -0.12466666666667'];;16 November 1643;1643-11-16;Sir Alfred Hickman, 1st Baronet;London;United Kingdom
@@ -1563,7 +1563,7 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1562;Melbourne;[u'-37.820555555556 144.96138888889'];2158177;late 2009;2009-01-01;Paul Weller;Melbourne;Australia
 1563;Santander;[u'43.466666666667 -3.8'];6360720;11 November 1825;1825-11-11;Alexander Francis Lydon;Santander;Spain
 1564;Santander;[u'43.466666666667 -3.8'];6360720;11 November 1825;1825-11-11;Baden Powell;Santander;Spain
-1565;Nottinghamshire;[u'53.166666666667 -1'];2641169;11 November 1825;1825-11-11;Alexander Francis Lydon; ;United Kingdom
+1565;Nottinghamshire;[u'53.166666666667 -1'];2641169;11 November 1825;1825-11-11;Alexander Francis Lydon;;United Kingdom
 1566;The Great Exhibition;[u'51.5032 -0.1697'];;1856;1856-01-01;Alexander Francis Lydon;London;United Kingdom
 1567;Sri Guru Gobind Singh College of Commerce;[u'28.6983 77.1526'];;2010;2010-01-01;Digangana Suryavanshi;Delhi;India
 1568;Sri Guru Gobind Singh College of Commerce;[u'28.6983 77.1526'];;10 October 1988;1988-10-10;Apara Mehta;Delhi;India
@@ -1601,14 +1601,14 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1600;Göttingen;[u'51.533888888889 9.9355555555556'];2918632;1904;1904-01-01;Georg Wilhelm Friedrich Hegel;Göttingen;Germany
 1601;Göttingen;[u'51.533888888889 9.9355555555556'];2918632;1904;1904-01-01;Johann Heinrich Lambert;Göttingen;Germany
 1602;University of Zurich;[u'47.374722222222 8.5483333333333'];;June 10, 1885;1885-06-10;David Hilbert;Zürich;Switzerland
-1603;Peru;[u'-8 -78'];3932488;1881;1881-01-01;Ronald Harvey; ;Peru
+1603;Peru;[u'-8 -78'];3932488;1881;1881-01-01;Ronald Harvey;;Peru
 1604;National Library of Australia;[u'-35.2964 149.129'];;1881;1881-01-01;Ronald Harvey;Yarralumla;Australia
 1605;Australian Institute of Sport;[u'-35.247222222222 149.10416666667'];;1966;1966-01-01;Ronald Harvey;Bruce;Australia
 1606;Australian Institute of Sport;[u'-35.247222222222 149.10416666667'];;1990;1990-01-01;Peter Bartels;Bruce;Australia
 1607;Australian Institute of Sport;[u'-35.247222222222 149.10416666667'];;1990;1990-01-01;Mark Peters;Bruce;Australia
 1608;1992 Summer Olympics;[u'41.364166666667 2.1522222222222'];;1986;1986-01-01;Ronald Harvey;Barcelona;Spain
 1609;1992 Summer Olympics;[u'41.364166666667 2.1522222222222'];;1992;1992-01-01;Kevin Rudd;Barcelona;Spain
-1610;Great Barrier Reef Marine Park;[u'-18.56777778 148.55527778'];;1994;1994-01-01;Peter Bartels; ;Australia
+1610;Great Barrier Reef Marine Park;[u'-18.56777778 148.55527778'];;1994;1994-01-01;Peter Bartels;;Australia
 1611;Gray's Inn;[u'51.51975 -0.11288611111111'];;2009;2009-01-01;Binyam Mohamed;London;United Kingdom
 1612;Gray's Inn;[u'51.51975 -0.11288611111111'];;2009;2009-01-01;Anthony Lester, Baron Lester of Herne Hill;London;United Kingdom
 1613;Gray's Inn;[u'51.51975 -0.11288611111111'];;2009;2009-01-01;David Pannick, Baron Pannick;London;United Kingdom
@@ -1618,7 +1618,7 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1617;City of London School for Girls;[u'51.51916 -0.09449'];;2009;2009-01-01;Binyam Mohamed;London;United Kingdom
 1618;Magdalen College;[u'51.751944 -1.246389'];;2009;2009-01-01;Binyam Mohamed;Oxford;United Kingdom
 1619;Supreme Court of the United Kingdom;[u'51.50027778 -0.12805556'];;2009;2009-01-01;Binyam Mohamed;London;United Kingdom
-1620;Latvia;[u'57 25'];458258;16 November 1742;1742-11-16;Wilhelm Abraham Teller; ;Latvia
+1620;Latvia;[u'57 25'];458258;16 November 1742;1742-11-16;Wilhelm Abraham Teller;;Latvia
 1621;Mengeringhausen;[u'51.3667 8.99'];2871962;16 November 1742;1742-11-16;Wilhelm Abraham Teller;Bad Arolsen;Germany
 1622;Waldeck;[u'50.9125 11.782778'];;16 November 1742;1742-11-16;Wilhelm Abraham Teller;Waldeck;Germany
 1623;University of Halle-Wittenberg;[u'51.48638889 11.96888889'];;16 November 1742;1742-11-16;Wilhelm Abraham Teller;Halle (Saale);Germany
@@ -1657,13 +1657,13 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1656;Detroit;[u'42.331666666667 -83.0475'];4990729;2012;2012-01-01;Rick Ross;Detroit;United States
 1657;Dundrum;[u'53.289722222222 -6.2441666666667'];2964532;22 August 1904;1904-08-22;William Goulding;Dublin;Ireland
 1658;Dundrum;[u'53.289722222222 -6.2441666666667'];2964532;22 August 1904;1904-08-22;Valerie Goulding;Dublin;Ireland
-1659;Ireland;[u'53.333333333333 -8'];;22 August 1904;1904-08-22;William Goulding; ;Ireland
+1659;Ireland;[u'53.333333333333 -8'];;22 August 1904;1904-08-22;William Goulding;;Ireland
 1660;Mozilla Foundation;[u'37.3879 -122.083'];;24 November 2005;2005-11-24;Mark Shuttleworth;Mountain View;United States
 1661;Mozilla Foundation;[u'37.3879 -122.083'];;24 November 2005;2005-11-24;Richard Stallman;Mountain View;United States
-1662;Italy;[u'43 12'];3175395;1992;1992-01-01;Adriano Baffi; ;Italy
-1663;Italy;[u'43 12'];3175395;1992;1992-01-01;Marco Pantani; ;Italy
-1664;San Marino;[u'43.933333333333 12.466666666667'];3168068;1992;1992-01-01;Adriano Baffi; ;San Marino
-1665;San Marino;[u'43.933333333333 12.466666666667'];3168068;1992;1992-01-01;Felice Gimondi; ;San Marino
+1662;Italy;[u'43 12'];3175395;1992;1992-01-01;Adriano Baffi;;Italy
+1663;Italy;[u'43 12'];3175395;1992;1992-01-01;Marco Pantani;;Italy
+1664;San Marino;[u'43.933333333333 12.466666666667'];3168068;1992;1992-01-01;Adriano Baffi;;San Marino
+1665;San Marino;[u'43.933333333333 12.466666666667'];3168068;1992;1992-01-01;Felice Gimondi;;San Marino
 1666;Alpe d'Huez;[u'45.09 6.07'];3008406;1993;1993-01-01;Adriano Baffi;Huez;France
 1667;Alpe d'Huez;[u'45.09 6.07'];3008406;1997;1997-01-01;Stefano Garzelli;Huez;France
 1668;Barcelona;[u'41.3825 2.1769444444444'];3128760;1965;1965-01-01;Conchita Bautista;Barcelona;Spain
@@ -1692,17 +1692,17 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1691;Battle of Sekigahara;[u'35.366666666667 136.46666666667'];;1584;1584-01-01;Itō Ittōsai;Fuwa-gun;Japan
 1692;Naha;[u'26.212222222222 127.67888888889'];1856030;Jun;2005-06-01;Shigeru Nakahara;Naha-shi;Japan
 1693;Naha;[u'26.212222222222 127.67888888889'];1856030;Jun;2005-06-01;Nana Natsume;Naha-shi;Japan
-1694;Sicily;[u'37.5 14'];2523119;2012;2012-01-01;Andrea Camilleri; ;Italy
-1695;Sicily;[u'37.5 14'];2523119;2012;2012-01-01;Michele Riondino; ;Italy
+1694;Sicily;[u'37.5 14'];2523119;2012;2012-01-01;Andrea Camilleri;;Italy
+1695;Sicily;[u'37.5 14'];2523119;2012;2012-01-01;Michele Riondino;;Italy
 1696;Korea;[u'38.316666666667 127.23333333333'];;1941;1941-01-01;Choi Hong-hi;철원군;South Korea
 1697;Vancouver;[u'49.25 -123.1'];6173331;1941;1941-01-01;Choi Hong-hi;Vancouver;Canada
 1698;University of British Columbia;[u'49.261111111111 -123.25305555556'];7910029;1960;1960-01-01;Choi Hong-hi;Vancouver;Canada
 1699;Korea under Japanese rule;[u'37.58333333 127'];;1941;1941-01-01;Choi Hong-hi;Seoul;South Korea
 1700;United Kingdom;[u'54 -2'];2635167;4 March 1962;1962-03-04;Leonardo da Vinci;Embsay;United Kingdom
 1701;Texel;[u'53.066666666667 4.8'];2746383;4 March 1962;1962-03-04;Leonardo da Vinci;Den Burg;Netherlands
-1702;battle of Manzikert;[u'39.144722222222 42.539166666667'];;1077;1077-01-01;Suleiman ibn Qutulmish; ;Turkey
-1703;battle of Manzikert;[u'39.144722222222 42.539166666667'];;1077;1077-01-01;Malik-Shah I; ;Turkey
-1704;Anatolia;[u'39 32'];323835;1077;1077-01-01;Suleiman ibn Qutulmish; ;Turkey
+1702;battle of Manzikert;[u'39.144722222222 42.539166666667'];;1077;1077-01-01;Suleiman ibn Qutulmish;;Turkey
+1703;battle of Manzikert;[u'39.144722222222 42.539166666667'];;1077;1077-01-01;Malik-Shah I;;Turkey
+1704;Anatolia;[u'39 32'];323835;1077;1077-01-01;Suleiman ibn Qutulmish;;Turkey
 1705;Great Seljuq Empire;[u'36.2 58.8'];;1077;1077-01-01;Suleiman ibn Qutulmish;Neyshabur;Iran
 1706;Rogatec;[u'46.224289 15.705164'];3191578;1720;1720-01-01;Donatus of Zadar;Rogatec;Slovenia
 1707;Styria;[u'46.366666666667 15.483333333333'];;1720;1720-01-01;Donatus of Zadar;Raskovec;Slovenia
@@ -1765,7 +1765,7 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1764;Tarrytown;[u'41.069166666667 -73.859722222222'];5140538;1970;1970-01-01;John Forbes Nash;Tarrytown;United States
 1765;Bavaria;[u'48.7775 11.431111111111'];2951839;17 August 1947;1947-08-17;Ruzi Nazar;Ingolstadt;Germany
 1766;New York University;[u'40.73 -73.995'];5128634;1970;1970-01-01;John Forbes Nash;New York;United States
-1767;Ankara;[u'39.866666666667 32.866666666667'];323786;17 August 1947;1947-08-17;Ruzi Nazar; ;Turkey
+1767;Ankara;[u'39.866666666667 32.866666666667'];323786;17 August 1947;1947-08-17;Ruzi Nazar;;Turkey
 1768;Antioch College;[u'39.7999 -83.888'];;1970;1970-01-01;John Forbes Nash;Yellow Springs;United States
 1769;Old Dominion University;[u'36.88654 -76.30522'];4777136;2012;2012-01-01;Tim Vom Steeg;Norfolk;United States
 1770;Harder Stadium;[u'34.4204 -119.854'];5355378;2012;2012-01-01;Tim Vom Steeg;Isla Vista;United States
@@ -1776,7 +1776,7 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1775;Kiev;[u'50.45 30.523611111111'];703447;2006;2006-01-01;Shermine Shahrivar;Kyiv;Ukraine
 1776;Kiev;[u'50.45 30.523611111111'];703447;2006;2006-01-01;Alexandra Rosenfeld;Kyiv;Ukraine
 1777;Parliament of Norway;[u'59.912833333333 10.740144444444'];;14 October 1950;1950-10-14;Jørgen Kosmo;Oslo;Norway
-1778;Vestfold;[u'59.31 10.22'];3132015;14 October 1950;1950-10-14;Jørgen Kosmo; ;Norway
+1778;Vestfold;[u'59.31 10.22'];3132015;14 October 1950;1950-10-14;Jørgen Kosmo;;Norway
 1779;Rice–Gates House;[u'45.517222 -122.985833'];;1890;1890-01-01;John W. Shute;Hillsboro;United States
 1780;Central Oregon;[u'44.5 -121'];;1903;1903-01-01;John W. Shute;Madras;United States
 1781;Klamath Falls;[u'42.223333333333 -121.7775'];5735238;1891;1891-01-01;Abraham Lincoln;Klamath Falls;United States
@@ -1794,23 +1794,23 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1793;Crooked River;[u'44.5736 -121.272'];;1899;1899-01-01;John W. Shute;Culver;United States
 1794;Southern Oregon;[u'42.8 -122.9'];;1899;1899-01-01;John W. Shute;Tiller;United States
 1795;Oregon;[u'43.935833 -120.575'];5744337;1869;1869-01-01;Abraham Lincoln;Prineville;United States
-1796;Arabian Peninsula;[u'23 46'];6957697;11 November 1889;1889-11-11;Christen C. Raunkiær; ;Saudi Arabia
+1796;Arabian Peninsula;[u'23 46'];6957697;11 November 1889;1889-11-11;Christen C. Raunkiær;;Saudi Arabia
 1797;Copenhagen;[u'55.676111111111 12.568888888889'];2618425;11 November 1889;1889-11-11;Christen C. Raunkiær;København;Denmark
-1798;Tunisia;[u'34 9'];2464461;11 November 1889;1889-11-11;Christen C. Raunkiær; ;Tunisia
-1799;Kuwait;[u'29.166667 47.6'];285570;11 November 1889;1889-11-11;Christen C. Raunkiær; ;Kuwait
-1800;Istanbul;[u'41.01 28.960277777778'];745044;11 November 1889;1889-11-11;Christen C. Raunkiær; ;Turkey
+1798;Tunisia;[u'34 9'];2464461;11 November 1889;1889-11-11;Christen C. Raunkiær;;Tunisia
+1799;Kuwait;[u'29.166667 47.6'];285570;11 November 1889;1889-11-11;Christen C. Raunkiær;;Kuwait
+1800;Istanbul;[u'41.01 28.960277777778'];745044;11 November 1889;1889-11-11;Christen C. Raunkiær;;Turkey
 1801;Baghdad;[u'33.35 44.416666666667'];98182;11 November 1889;1889-11-11;Christen C. Raunkiær;Baghdad;Iraq
 1802;Riyadh;[u'24.65 46.71'];108410;11 November 1889;1889-11-11;Christen C. Raunkiær;Riyadh;Saudi Arabia
-1803;Persian Gulf;[u'26 52'];235616;11 November 1889;1889-11-11;Christen C. Raunkiær; ; 
+1803;Persian Gulf;[u'26 52'];235616;11 November 1889;1889-11-11;Christen C. Raunkiær;;
 1804;Hofuf;[u'25.383333333333 49.583333333333'];109571;11 November 1889;1889-11-11;Christen C. Raunkiær;Al Hufuf and Al Mubarraz;Saudi Arabia
-1805;Bahrain;[u'26.0675 50.551111'];290291;11 November 1889;1889-11-11;Christen C. Raunkiær; ;Bahrain
+1805;Bahrain;[u'26.0675 50.551111'];290291;11 November 1889;1889-11-11;Christen C. Raunkiær;;Bahrain
 1806;Mumbai;[u'18.966666666667 72.833333333333'];1275339;1912;1912-01-01;Christen C. Raunkiær;Mumbai;India
 1807;University of Copenhagen;[u'55.679722222222 12.5725'];;11 November 1889;1889-11-11;Christen C. Raunkiær;København;Denmark
-1808;Hong Kong Island;[u'22.255 114.195'];1819727;the next day;1840-07-08;Karl Gützlaff; ;Hong Kong
-1809;Hong Kong Island;[u'22.255 114.195'];1819727;the next day;1840-07-08;Charles Elliot; ;Hong Kong
-1810;Hong Kong Island;[u'22.255 114.195'];1819727;next morning;1840-07-09;Qishan; ;Hong Kong
-1811;Hong Kong Island;[u'22.255 114.195'];1819727;the next day;1840-07-08;George Elliot; ;Hong Kong
-1812;Hong Kong Island;[u'22.255 114.195'];1819727;the next day;1840-07-08;Robert Jocelyn, Viscount Jocelyn; ;Hong Kong
+1808;Hong Kong Island;[u'22.255 114.195'];1819727;the next day;1840-07-08;Karl Gützlaff;;Hong Kong
+1809;Hong Kong Island;[u'22.255 114.195'];1819727;the next day;1840-07-08;Charles Elliot;;Hong Kong
+1810;Hong Kong Island;[u'22.255 114.195'];1819727;next morning;1840-07-09;Qishan;;Hong Kong
+1811;Hong Kong Island;[u'22.255 114.195'];1819727;the next day;1840-07-08;George Elliot;;Hong Kong
+1812;Hong Kong Island;[u'22.255 114.195'];1819727;the next day;1840-07-08;Robert Jocelyn, Viscount Jocelyn;;Hong Kong
 1813;Zhoushan Island;[u'30.057777777778 122.13805555556'];1784108;6 July 1840;1840-07-06;Lin Zexu;Zhoushan Shi;China
 1814;Zhoushan Island;[u'30.057777777778 122.13805555556'];1784108;6 July 1840;1840-07-06;Deng Tingzhen;Zhoushan Shi;China
 1815;Zhoushan Island;[u'30.057777777778 122.13805555556'];1784108;6 July 1840;1840-07-06;James Bremer;Zhoushan Shi;China
@@ -1823,21 +1823,21 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1822;Goldie Boathouse;[u'52.2112 0.130811'];;1965;1965-01-01;Harry Mahon;Cambridge;United Kingdom
 1823;Goldie Boathouse;[u'52.2112 0.130811'];;1965;1965-01-01;Robin Williams;Cambridge;United Kingdom
 1824;Cambridge University Boat Club;[u'52.2112 0.130694'];;1965;1965-01-01;John Goldie;Cambridge;United Kingdom
-1825;Bitetto;[u'41.033333333333 16.75'];6537547;1087;1087-01-01;Saint Nicholas; ;Italy
-1826;Bitetto;[u'41.033333333333 16.75'];6537547;1087;1087-01-01;Frederick II, Holy Roman Emperor; ;Italy
-1827;Bitetto;[u'41.033333333333 16.75'];6537547;1242;1242-01-01;Charles I of Naples; ;Italy
+1825;Bitetto;[u'41.033333333333 16.75'];6537547;1087;1087-01-01;Saint Nicholas;;Italy
+1826;Bitetto;[u'41.033333333333 16.75'];6537547;1087;1087-01-01;Frederick II, Holy Roman Emperor;;Italy
+1827;Bitetto;[u'41.033333333333 16.75'];6537547;1242;1242-01-01;Charles I of Naples;;Italy
 1828;Naples;[u'40.833333333333 14.25'];3172394;1242;1242-01-01;Charles I of Naples;Napoli;Italy
 1829;Sannicandro di Bari;[u'41 16.8'];6537558;1836;1836-01-01;Robert Guiscard;Sannicandro di Bari;Italy
 1830;Basilica di San Nicola;[u'41.130261 16.870281'];;1304;1304-01-01;Charles I of Naples;Bari;Italy
-1831;Byzantine Empire;[u'41.01527778 28.98472222'];;1836;1836-01-01;Robert Guiscard; ;Turkey
-1832;Apulia;[u'41.008611111111 16.512777777778'];3169778;1836;1836-01-01;Robert Guiscard; ;Italy
+1831;Byzantine Empire;[u'41.01527778 28.98472222'];;1836;1836-01-01;Robert Guiscard;;Turkey
+1832;Apulia;[u'41.008611111111 16.512777777778'];3169778;1836;1836-01-01;Robert Guiscard;;Italy
 1833;Bari;[u'41.125277777778 16.866666666667'];6542001;1071;1071-01-01;Saint Nicholas;Bari;Italy
 1834;Montescaglioso;[u'40.55 16.666666666667'];6537649;1071;1071-01-01;Saint Nicholas;Montescaglioso;Italy
 1835;Great Yarmouth;[u'52.633333333333 1.75'];2647984;1877;1877-01-01;Tommy Crawshaw;Caister-on-Sea;United Kingdom
 1836;Great Yarmouth;[u'52.633333333333 1.75'];2647984;1877;1877-01-01;Billy Garraty;Caister-on-Sea;United Kingdom
 1837;Sunderland;[u'54.9 -1.3802777777778'];2636531;1877;1877-01-01;Tommy Crawshaw;Sunderland;United Kingdom
 1838;Universidad Nacional Autónoma de Honduras;[u'14.0853 -87.1631'];;2012;2012-01-01;Juan Orlando Hernández;Tegucigalpa;Honduras
-1839;Honduras;[u'14.633333 -86.816667'];3608932;2012;2012-01-01;Juan Orlando Hernández; ;Honduras
+1839;Honduras;[u'14.633333 -86.816667'];3608932;2012;2012-01-01;Juan Orlando Hernández;;Honduras
 1840;Texas;[u'31 -100'];4736286;March 16, 2004;2004-03-16;David Byrne;Menard;United States
 1841;Glasgow;[u'55.87 -4.27'];2648579;March 16, 2004;2004-03-16;David Byrne;Glasgow;United Kingdom
 1842;Boston;[u'42.357777777778 -71.061666666667'];4930956;1894;1894-01-01;Edward Everett;Boston;United States
@@ -1865,8 +1865,8 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1864;Riga;[u'56.9475 24.106944444444'];456172;1992;1992-01-01;Gianfranco Ferré;Rīga;Latvia
 1865;Milan;[u'45.464161111111 9.1903361111111'];3173435;1992;1992-01-01;Gianfranco Ferré;Milano;Italy
 1866;Miami;[u'25.783333333333 -80.216666666667'];4164138;1992;1992-01-01;Gianfranco Ferré;Miami;United States
-1867;Hamchang-eup;[];8604935;757;0757-01-01;Seonjong; ; 
-1868;Hamchang-eup;[];8604935;757;0757-01-01;Seongdeok of Silla; ; 
+1867;Hamchang-eup;[];8604935;757;0757-01-01;Seonjong;;
+1868;Hamchang-eup;[];8604935;757;0757-01-01;Seongdeok of Silla;;
 1869;Silla;[u'35.96 129.42'];;757;0757-01-01;Seonjong;Pohang;South Korea
 1870;Gaeun;[u'36.65 128.06666667'];8604930;January 1, 2004;2004-01-01;Ajagae;Mungyeong;South Korea
 1871;Gaeun;[u'36.65 128.06666667'];8604930;January 1, 2004;2004-01-01;Gyeon Hwon;Mungyeong;South Korea
@@ -1875,15 +1875,15 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1874;Mungyeong Saejae;[u'36.766944444444 128.07416666667'];;1548;1548-01-01;Ajagae;Mungyeong;South Korea
 1875;Sobaek Mountains;[u'35.337777777778 127.73055555556'];;January 18, 1953;1953-01-18;Rhee Syng-man;Sancheong;South Korea
 1876;Korea;[u'38.316666666667 127.23333333333'];;1995;1995-01-01;Park In-won;철원군;South Korea
-1877;Estonia;[u'59 26'];453733;13 April 1906;1906-04-13;Georg Ots; ;Estonia
+1877;Estonia;[u'59 26'];453733;13 April 1906;1906-04-13;Georg Ots;;Estonia
 1878;Yaroslavl;[u'57.616666666667 39.85'];468902;13 April 1906;1906-04-13;Georg Ots;Yaroslavl';Russia
-1879;Saaremaa;[u'58.416666666667 22.5'];588878;13 April 1906;1906-04-13;Georg Ots; ;Estonia
+1879;Saaremaa;[u'58.416666666667 22.5'];588878;13 April 1906;1906-04-13;Georg Ots;;Estonia
 1880;Pärnu;[u'58.384444444444 24.498888888889'];589580;13 April 1906;1906-04-13;Georg Ots;Pärnu;Estonia
 1881;Western Australia;[u'-26 121'];2058645;1935;1935-01-01;Frank Neale;Wiluna;Australia
 1882;Western Australia;[u'-26 121'];2058645;1935;1935-01-01;Donald George Mackay;Wiluna;Australia
 1883;Western Australia;[u'-26 121'];2058645;1935;1935-01-01;Len Beadell;Wiluna;Australia
 1884;Connie Sue Highway;[u'-26.2167 126.65'];;1935;1935-01-01;Frank Neale;Warburton;Australia
-1885;Great Victoria Desert;[u'-29.1521612833 129.259643555'];;1935;1935-01-01;Frank Neale; ;Australia
+1885;Great Victoria Desert;[u'-29.1521612833 129.259643555'];;1935;1935-01-01;Frank Neale;;Australia
 1886;Ilkulka Community, Western Australia;[u'-28.3764 127.5014'];;1935;1935-01-01;Frank Neale;Plumridge Lakes;Australia
 1887;University of Cape Town;[u'-33.9575 18.460555555556'];3369156;1998;1998-01-01;Greg LeMond;Cape Town;South Africa
 1888;University of Cape Town;[u'-33.9575 18.460555555556'];3369156;1984;1984-01-01;Matthew Pinsent;Cape Town;South Africa
@@ -1913,7 +1913,7 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1912;Sligo;[u'54.2667 -8.4833'];2961423;1253;1253-01-01;Maurice FitzGerald, 2nd Lord of Offaly;Sligo;Ireland
 1913;Sligo;[u'54.2667 -8.4833'];2961423;1253;1253-01-01;Henry Temple, 3rd Viscount Palmerston;Sligo;Ireland
 1914;Sligo;[u'54.2667 -8.4833'];2961423;1253;1253-01-01;William Butler Yeats;Sligo;Ireland
-1915;Ulster;[u'54.4 -7'];7521316;1253;1253-01-01;Maurice FitzGerald, 2nd Lord of Offaly; ;Ireland
+1915;Ulster;[u'54.4 -7'];7521316;1253;1253-01-01;Maurice FitzGerald, 2nd Lord of Offaly;;Ireland
 1916;Nazi Germany;[u'52.516666666667 13.4'];;1944;1944-01-01;Eamonn Andrews;Berlin;Germany
 1917;Cheltenham College;[u'51.891666666667 -2.075'];;1944;1944-01-01;Eamonn Andrews;Cheltenham;United Kingdom
 1918;Battle of Passchendaele;[u'50.900277777778 3.0211111111111'];;1914;1914-01-01;Sir Stuart Samuel, 1st Baronet;Zonnebeke;Belgium
@@ -1923,23 +1923,23 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1922;New South Wales;[u'-32 147'];2155400;5 October 1886;1886-10-05;David Lewis;Buddabadah;Australia
 1923;Austria;[u'48 14'];2782113;2013;2013-01-01;Natália Kelly;Pettenbach;Austria
 1924;Malmö;[u'55.605555555556 13'];2692969;2013;2013-01-01;Natália Kelly;Malmö;Sweden
-1925;Michoacán;[u'19.168611111111 -101.89972222222'];3995955;20 November 2006;2006-11-20;José Antonio García; ;Mexico
+1925;Michoacán;[u'19.168611111111 -101.89972222222'];3995955;20 November 2006;2006-11-20;José Antonio García;;Mexico
 1926;Zamora;[u'19.983333333333 -102.28333333333'];3979802;20 November 2006;2006-11-20;José Antonio García;Zamora;Mexico
 1927;Australia;[u'-25 135'];2077456;1983;1983-01-01;Michael Leunig;Ghan;Australia
 1928;Gold Coast;[u'-28.016666666667 153.4'];2165087;1983;1983-01-01;Michael Leunig;Bundall;Australia
 1929;Sydney Entertainment Centre;[u'-33.878333 151.202778'];;1983;1983-01-01;Michael Leunig;Haymarket;Australia
 1930;Essaouira;[u'31.513055555556 -9.7697222222222'];2549263;15 March 1933;1933-03-15;Golda Meir;Essaouira;Morocco
 1931;Casablanca;[u'33.599166666667 -7.62'];2553604;15 March 1933;1933-03-15;Golda Meir;Casablanca;Morocco
-1932;Ein Gev;[u'32.782763888889 35.639647222222'];295218;15 March 1933;1933-03-15;Golda Meir; ; 
+1932;Ein Gev;[u'32.782763888889 35.639647222222'];295218;15 March 1933;1933-03-15;Golda Meir;;
 1933;Ginosar;[u'32.8475 35.522777777778'];295002;15 March 1933;1933-03-15;Golda Meir;Ginosar;Israel
 1934;Dimona;[u'31.07 35.03'];295328;15 March 1933;1933-03-15;Golda Meir;Dimona;Israel
-1935;Dead Sea Works;[u'31.171108333333 35.441127777778'];;15 March 1933;1933-03-15;Golda Meir; ;Israel
+1935;Dead Sea Works;[u'31.171108333333 35.441127777778'];;15 March 1933;1933-03-15;Golda Meir;;Israel
 1936;British Columbia;[u'54 -125'];5909050;September 2, 1916;1916-09-02;Graham Richard Lea;Endako;Canada
 1937;British Columbia;[u'54 -125'];5909050;September 2, 1916;1916-09-02;Prince Rupert;Endako;Canada
 1938;Legislative Assembly of British Columbia;[u'48.4195 -123.37'];;September 2, 1916;1916-09-02;Graham Richard Lea;Victoria;Canada
-1939;Nordic countries;[u'64 10'];;March 2002;2002-03-01;Trond Bergh; ;Norway
-1940;Nordic countries;[u'64 10'];;March 2002;2002-03-01;Knut Einar Eriksen; ;Norway
-1941;Nordic countries;[u'64 10'];;March 2002;2002-03-01;Peder Furubotn; ;Norway
+1939;Nordic countries;[u'64 10'];;March 2002;2002-03-01;Trond Bergh;;Norway
+1940;Nordic countries;[u'64 10'];;March 2002;2002-03-01;Knut Einar Eriksen;;Norway
+1941;Nordic countries;[u'64 10'];;March 2002;2002-03-01;Peder Furubotn;;Norway
 1942;Supreme Court of Norway;[u'59.91434167 10.74449722'];;1948;1948-01-01;Trond Bergh;Oslo;Norway
 1943;Fermilab;[u'41.831944444444 -88.257222222222'];8116691;1987;1987-01-01;Randy Hultgren;Aurora;United States
 1944;Northern Illinois University;[u'41.933888888889 -88.777777777778'];4904089;1987;1987-01-01;Randy Hultgren;DeKalb;United States
@@ -1979,12 +1979,12 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1978;Amritsar;[u'31.616666666667 74.85'];1278710;2008;2008-01-01;Gauhar Raza;Amritsar;India
 1979;Ancient Rome;[u'41.89 12.48'];;1814;1814-01-01;Johann Wolfgang von Goethe;Roma;Italy
 1980;Wiesbaden;[u'50.082083333333 8.2413611111111'];2809346;1813;1813-01-01;Johann Wolfgang von Goethe;Wiesbaden;Germany
-1981;River Orwell;[u'51.966666666667 1.3'];2640882;1540;1540-01-01;James VI and I; ;United Kingdom
+1981;River Orwell;[u'51.966666666667 1.3'];2640882;1540;1540-01-01;James VI and I;;United Kingdom
 1982;Felixstowe;[u'51.961 1.3576'];2649579;1540;1540-01-01;James VI and I;Felixstowe;United Kingdom
-1983;Suffolk;[u'52.166666666667 1'];2636561;1540;1540-01-01;James VI and I; ;United Kingdom
+1983;Suffolk;[u'52.166666666667 1'];2636561;1540;1540-01-01;James VI and I;;United Kingdom
 1984;Harwich;[u'51.935277777778 1.2625'];2647383;1540;1540-01-01;James VI and I;Harwich;United Kingdom
 1985;Essex;[u'51.75 0.58333333333333'];2649889;1540;1540-01-01;James VI and I;Little Baddow;United Kingdom
-1986;Battle of Landguard Fort;[u'51.9389 1.32111'];;1540;1540-01-01;James VI and I; ;United Kingdom
+1986;Battle of Landguard Fort;[u'51.9389 1.32111'];;1540;1540-01-01;James VI and I;;United Kingdom
 1987;Gemünden, Westerwaldkreis;[u'50.558888888889 8.0177777777778'];6554207;879;0879-01-01;Gebhard, Count of the Lahngau;Gemünden;Germany
 1988;Westerwald;[u'50.6667 7.83333'];2810172;879;0879-01-01;Gebhard, Count of the Lahngau;Hachenburg;Germany
 1989;Aar (Lahn);[u'50.368611 8.005556'];2959917;879;0879-01-01;Gebhard, Count of the Lahngau;Diez;Germany
@@ -1993,7 +1993,7 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 1992;Beijing;[u'39.905 116.39138888889'];1816670;March 10, 1990;1990-03-10;Lucas Souza;Beijing;China
 1993;Guadalajara;[u'20.666111111111 -103.35194444444'];4005539;March 10, 1990;1990-03-10;Lucas Souza;Guadalajara;Mexico
 1994;International Sailing Federation;[u'50.8955 -1.40506'];;March 10, 1990;1990-03-10;Lucas Souza;Southampton;United Kingdom
-1995;Legislative Council;[u'22.281087 114.166127'];;1957;1957-01-01;Andrew Liao; ;Hong Kong
+1995;Legislative Council;[u'22.281087 114.166127'];;1957;1957-01-01;Andrew Liao;;Hong Kong
 1996;National People's Congress;[u'39.9033 116.387'];;1957;1957-01-01;Andrew Liao;Beijing;China
 1997;Rheingau-Taunus-Kreis;[u'50.148402777778 8.0732638888889'];3220989;1160;1160-01-01;Frederick, Archbishop of Mainz;Bad Schwalbach;Germany
 1998;Darmstadt Government Region;[u'50.08 8.75'];2938912;1160;1160-01-01;Frederick, Archbishop of Mainz;Offenbach am Main;Germany
@@ -2012,42 +2012,42 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 2011;Blackness, Falkirk;[u'56.003652777778 -3.5220111111111'];;1453;1453-01-01;Archibald Douglas, 6th Earl of Angus;Blackness;United Kingdom
 2012;Stirling Castle;[u'56.124722222222 -3.945'];;the next day;1573-01-28;James Douglas, 4th Earl of Morton;Stirling;United Kingdom
 2013;Dumbarton Castle;[u'55.936 -4.5628'];;the next day;1573-01-28;James Douglas, 4th Earl of Morton;Dumbarton;United Kingdom
-2014;River Forth;[u'56.183333333333 -4.4666666666667'];2649177;1453;1453-01-01;James Hamilton; ;United Kingdom
+2014;River Forth;[u'56.183333333333 -4.4666666666667'];2649177;1453;1453-01-01;James Hamilton;;United Kingdom
 2015;Edinburgh Castle;[u'55.9487 -3.20073'];2650224;the next day;1573-01-28;James Douglas, 4th Earl of Morton;Edinburgh;United Kingdom
 2016;Linlithgow;[u'55.975277777778 -3.6105555555556'];2644444;1453;1453-01-01;James Hamilton;Linlithgow;United Kingdom
 2017;Stirling Castle;[u'56.124722222222 -3.945'];;1693;1693-01-01;William Douglas, 8th Earl of Douglas;Stirling;United Kingdom
 2018;Stirling Castle;[u'56.124722222222 -3.945'];;1693;1693-01-01;William Crichton, 1st Lord Crichton;Stirling;United Kingdom
 2019;Barnton, Edinburgh;[u'55.9627 -3.30741'];;1912;1912-01-01;George Crichton, 1st Earl of Caithness;Edinburgh;United Kingdom
-2020;Craignethan Castle;[u'55.696561111111 -3.8853194444444'];;1453;1453-01-01;James Hamilton; ;United Kingdom
-2021;Craignethan Castle;[u'55.696561111111 -3.8853194444444'];;1453;1453-01-01;James Hamilton, 1st Earl of Arran; ;United Kingdom
-2022;Craignethan Castle;[u'55.696561111111 -3.8853194444444'];;1534;1534-01-01;James Hamilton, Duke of Châtellerault; ;United Kingdom
-2023;Craignethan Castle;[u'55.696561111111 -3.8853194444444'];;1540;1540-01-01;Mary, Queen of Scots; ;United Kingdom
-2024;Craignethan Castle;[u'55.696561111111 -3.8853194444444'];;1540;1540-01-01;James Stewart, 1st Earl of Moray; ;United Kingdom
-2025;Craignethan Castle;[u'55.696561111111 -3.8853194444444'];;1534;1534-01-01;James V of Scotland; ;United Kingdom
+2020;Craignethan Castle;[u'55.696561111111 -3.8853194444444'];;1453;1453-01-01;James Hamilton;;United Kingdom
+2021;Craignethan Castle;[u'55.696561111111 -3.8853194444444'];;1453;1453-01-01;James Hamilton, 1st Earl of Arran;;United Kingdom
+2022;Craignethan Castle;[u'55.696561111111 -3.8853194444444'];;1534;1534-01-01;James Hamilton, Duke of Châtellerault;;United Kingdom
+2023;Craignethan Castle;[u'55.696561111111 -3.8853194444444'];;1540;1540-01-01;Mary, Queen of Scots;;United Kingdom
+2024;Craignethan Castle;[u'55.696561111111 -3.8853194444444'];;1540;1540-01-01;James Stewart, 1st Earl of Moray;;United Kingdom
+2025;Craignethan Castle;[u'55.696561111111 -3.8853194444444'];;1534;1534-01-01;James V of Scotland;;United Kingdom
 2026;Stirling Castle;[u'56.124722222222 -3.945'];;1540;1540-01-01;Claud Hamilton, 1st Lord Paisley;Stirling;United Kingdom
 2027;Dysart;[u'56.13 -3.11'];2650585;1534;1534-01-01;James Hamilton;Dysart;United Kingdom
 2028;Dysart;[u'56.13 -3.11'];2650585;1540;1540-01-01;William Kirkcaldy of Grange;Dysart;United Kingdom
-2029;Romania;[u'46 25'];798549;Thursday;2009-08-13;Mark McGrath; ;Romania
-2030;Romania;[u'46 25'];798549;March;2009-03-01;Fred Durst; ;Romania
-2031;Romania;[u'46 25'];798549;Thursday;2009-08-13;Xzibit; ;Romania
-2032;Romania;[u'46 25'];798549;March;2009-03-01;Shepard Fairey; ;Romania
-2033;Romania;[u'46 25'];798549;Thursday;2009-08-13;Robert Trujillo; ;Romania
-2034;Romania;[u'46 25'];798549;March;2009-03-01;Reginald Arvizu; ;Romania
-2035;Romania;[u'46 25'];798549;Thursday;2009-08-13;Rocky George; ;Romania
-2036;Romania;[u'46 25'];798549;Thursday;2009-08-13;Mike Muir; ;Romania
-2037;Romania;[u'46 25'];798549;Thursday;2009-08-13;Dave Lombardo; ;Romania
-2038;Romania;[u'46 25'];798549;Thursday;2009-08-13;Alexi Laiho; ;Romania
-2039;Romania;[u'46 25'];798549;Thursday;2009-08-13;Daron Malakian; ;Romania
-2040;Romania;[u'46 25'];798549;Thursday;2009-08-13;Shavo Odadjian; ;Romania
-2041;Romania;[u'46 25'];798549;Thursday;2009-08-13;John Dolmayan; ;Romania
-2042;Romania;[u'46 25'];798549;Thursday;2009-08-13;Max Cavalera; ;Romania
-2043;Romania;[u'46 25'];798549;Thursday;2009-08-13;Ben Kenney; ;Romania
-2044;Romania;[u'46 25'];798549;Thursday;2009-08-13;Greg Puciato; ;Romania
-2045;Romania;[u'46 25'];798549;Thursday;2009-08-13;Tommy Lee; ;Romania
-2046;Romania;[u'46 25'];798549;Thursday;2009-08-13;Mike Shinoda; ;Romania
+2029;Romania;[u'46 25'];798549;Thursday;2009-08-13;Mark McGrath;;Romania
+2030;Romania;[u'46 25'];798549;March;2009-03-01;Fred Durst;;Romania
+2031;Romania;[u'46 25'];798549;Thursday;2009-08-13;Xzibit;;Romania
+2032;Romania;[u'46 25'];798549;March;2009-03-01;Shepard Fairey;;Romania
+2033;Romania;[u'46 25'];798549;Thursday;2009-08-13;Robert Trujillo;;Romania
+2034;Romania;[u'46 25'];798549;March;2009-03-01;Reginald Arvizu;;Romania
+2035;Romania;[u'46 25'];798549;Thursday;2009-08-13;Rocky George;;Romania
+2036;Romania;[u'46 25'];798549;Thursday;2009-08-13;Mike Muir;;Romania
+2037;Romania;[u'46 25'];798549;Thursday;2009-08-13;Dave Lombardo;;Romania
+2038;Romania;[u'46 25'];798549;Thursday;2009-08-13;Alexi Laiho;;Romania
+2039;Romania;[u'46 25'];798549;Thursday;2009-08-13;Daron Malakian;;Romania
+2040;Romania;[u'46 25'];798549;Thursday;2009-08-13;Shavo Odadjian;;Romania
+2041;Romania;[u'46 25'];798549;Thursday;2009-08-13;John Dolmayan;;Romania
+2042;Romania;[u'46 25'];798549;Thursday;2009-08-13;Max Cavalera;;Romania
+2043;Romania;[u'46 25'];798549;Thursday;2009-08-13;Ben Kenney;;Romania
+2044;Romania;[u'46 25'];798549;Thursday;2009-08-13;Greg Puciato;;Romania
+2045;Romania;[u'46 25'];798549;Thursday;2009-08-13;Tommy Lee;;Romania
+2046;Romania;[u'46 25'];798549;Thursday;2009-08-13;Mike Shinoda;;Romania
 2047;Serbia;[u'43.95 20.933333333333'];6290252;Thursday;2009-08-13;Mark McGrath;Donja Sabanta;Serbia
 2048;Avalon Hollywood;[u'34.1027 -118.327'];;Thursday;2009-08-13;Mark McGrath;Los Angeles;United States
-2049;Macedonia;[u'41.65 21.716667'];718075;Thursday;2009-08-13;Mark McGrath; ;Macedonia (FYROM)
+2049;Macedonia;[u'41.65 21.716667'];718075;Thursday;2009-08-13;Mark McGrath;;Macedonia (FYROM)
 2050;Santa Clara;[u'37.35 -121.96666666667'];5393015;November 4, 2008;2008-11-04;Sergio Vega;Santa Clara;United States
 2051;Paris;[u'48.86 2.3444444444444'];2988507;1479;1479-01-01;Lê Huyền Tông;Paris;France
 2052;Paris;[u'48.86 2.3444444444444'];2988507;1511;1511-01-01;Sima Guang;Paris;France
@@ -2079,12 +2079,12 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 2078;Manchester;[u'53.466666666667 -2.2333333333333'];2643123;2002;2002-01-01;Victoria Beckham;Manchester;United Kingdom
 2079;Manchester;[u'53.466666666667 -2.2333333333333'];2643123;2002;2002-01-01;Tony Blair;Manchester;United Kingdom
 2080;Manchester;[u'53.466666666667 -2.2333333333333'];2643123;2002;2002-01-01;Ronan Keating;Manchester;United Kingdom
-2081;Great Britain;[u'54.066666666667 -2.6166666666667'];;13 January 1746;1746-01-13;George III of Great Britain; ;United Kingdom
-2082;Great Britain;[u'54.066666666667 -2.6166666666667'];;13 January 1746;1746-01-13;Thomas Howard, 2nd Earl of Effingham; ;United Kingdom
+2081;Great Britain;[u'54.066666666667 -2.6166666666667'];;13 January 1746;1746-01-13;George III of Great Britain;;United Kingdom
+2082;Great Britain;[u'54.066666666667 -2.6166666666667'];;13 January 1746;1746-01-13;Thomas Howard, 2nd Earl of Effingham;;United Kingdom
 2083;Effingham;[u'43.761111111111 -70.996388888889'];5085825;13 January 1746;1746-01-13;George III of Great Britain;Effingham;United States
 2084;Effingham County;[u'32.37 -81.34'];4193042;13 January 1746;1746-01-13;George III of Great Britain;Springfield;United States
 2085;Effingham County;[u'39.06 -88.59'];4237730;13 January 1746;1746-01-13;George III of Great Britain;Watson;United States
-2086;Great Britain;[u'54.066666666667 -2.6166666666667'];;1927;1927-01-01;W. R. Dean; ;United Kingdom
+2086;Great Britain;[u'54.066666666667 -2.6166666666667'];;1927;1927-01-01;W. R. Dean;;United Kingdom
 2087;Sydney Cricket Ground;[u'-33.891666666667 151.22472222222'];6255144;1960;1960-01-01;Bob Simpson;Moore Park;Australia
 2088;Sydney Cricket Ground;[u'-33.891666666667 151.22472222222'];6255144;1960;1960-01-01;Colin McDonald;Moore Park;Australia
 2089;The Gabba;[u'-27.485833333333 153.03805555556'];6615563;1962;1962-01-01;Richie Benaud;Woolloongabba;Australia
@@ -2094,8 +2094,8 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 2093;Guwahati;[u'26.166666666667 91.766666666667'];1271476;last day;1937-02-11;Ashley Mallett;Guwahati;India
 2094;Guwahati;[u'26.166666666667 91.766666666667'];1271476;last day;1937-02-11;Ashok Mankad;Guwahati;India
 2095;Eden Gardens;[u'22.564444444444 88.343333333333'];;last day;1937-02-11;Doug Walters;Kolkata;India
-2096;South Africa;[u'-29 24'];953987;1966;1966-01-01;Bob Cowper; ;South Africa
-2097;South Africa;[u'-29 24'];953987;1966;1966-01-01;Brian Booth; ;South Africa
+2096;South Africa;[u'-29 24'];953987;1966;1966-01-01;Bob Cowper;;South Africa
+2097;South Africa;[u'-29 24'];953987;1966;1966-01-01;Brian Booth;;South Africa
 2098;The Oval;[u'51.483719444444 -0.11498055555556'];6545167;summer;1961-01-01;Bob Simpson;London;United Kingdom
 2099;The Oval;[u'51.483719444444 -0.11498055555556'];6545167;1956;1956-01-01;Denis Compton;London;United Kingdom
 2100;The Oval;[u'51.483719444444 -0.11498055555556'];6545167;1956;1956-01-01;Don Bradman;London;United Kingdom
@@ -2116,10 +2116,10 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 2115;Melbourne Cricket Ground;[u'-37.82 144.98333333333'];6615561;1963;1963-01-01;Ian Meckiff;East Melbourne;Australia
 2116;West Indies;[u'21.98333333 -79.03333333'];3571219;1964;1964-01-01;Wes Hall;Cristales;Cuba
 2117;West Indies;[u'21.98333333 -79.03333333'];3571219;1965;1965-01-01;Arthur Morris;Cristales;Cuba
-2118;Sri Lanka;[u'7 81'];1227603;1969;1969-01-01;Srinivasaraghavan Venkataraghavan; ;Sri Lanka
+2118;Sri Lanka;[u'7 81'];1227603;1969;1969-01-01;Srinivasaraghavan Venkataraghavan;;Sri Lanka
 2119;Old Trafford Cricket Ground;[u'53.456347222222 -2.2867611111111'];6691425;1964;1964-01-01;Peter Pollock;Stretford;United Kingdom
-2120;South Africa;[u'-29 24'];953987;1969;1969-01-01;Ian Chappell; ;South Africa
-2121;South Africa;[u'-29 24'];953987;1969;1969-01-01;Alan McGilvray; ;South Africa
+2120;South Africa;[u'-29 24'];953987;1969;1969-01-01;Ian Chappell;;South Africa
+2121;South Africa;[u'-29 24'];953987;1969;1969-01-01;Alan McGilvray;;South Africa
 2122;Indian subcontinent;[u'20 78'];6269134;1964;1964-01-01;B. S. Chandrasekhar;Sukali;India
 2123;The Oval;[u'51.483719444444 -0.11498055555556'];6545167;1962;1962-01-01;Neil Harvey;London;United Kingdom
 2124;Bridgetown;[u'13.096111111111 -59.608333333333'];3374036;1964;1964-01-01;Wes Hall;Bridgetown;Barbados
@@ -2127,9 +2127,9 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 2126;Melbourne;[u'-37.820555555556 144.96138888889'];2158177;Two days earlier;1937-02-09;Sam Loxton;Melbourne;Australia
 2127;Melbourne;[u'-37.820555555556 144.96138888889'];2158177;Two days earlier;1937-02-09;Paul Sheahan;Melbourne;Australia
 2128;Perth;[u'-31.952222222222 115.85888888889'];2063523;summer;1937-01-01;M. J. K. Smith;Perth;Australia
-2129;South Africa;[u'-29 24'];953987;1970;1970-01-01;Brian Taber; ;South Africa
-2130;South Africa;[u'-29 24'];953987;winter;1947-01-01;John Snow; ;South Africa
-2131;South Africa;[u'-29 24'];953987;winter;1947-01-01;Tony Greig; ;South Africa
+2129;South Africa;[u'-29 24'];953987;1970;1970-01-01;Brian Taber;;South Africa
+2130;South Africa;[u'-29 24'];953987;winter;1947-01-01;John Snow;;South Africa
+2131;South Africa;[u'-29 24'];953987;winter;1947-01-01;Tony Greig;;South Africa
 2132;Chieti;[u'42.351113888889 14.167427777778'];6542118;January 31, 1853;1853-01-31;Stanislao Lista;Chieti;Italy
 2133;Chieti;[u'42.351113888889 14.167427777778'];6542118;January 31, 1853;1853-01-31;Leo XIII;Chieti;Italy
 2134;Chieti;[u'42.351113888889 14.167427777778'];6542118;January 31, 1853;1853-01-31;Lola Mora;Chieti;Italy
@@ -2141,9 +2141,9 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 2140;Meaux;[u'48.959444444444 2.8877777777778'];2994798;11 August;0670-08-11;Cardinal Richelieu;Meaux;France
 2141;Meaux;[u'48.959444444444 2.8877777777778'];2994798;18 August 670;0670-08-01;Saint Faro;Meaux;France
 2142;Saint-Fiacre;[u'48.9225 2.9538888888889'];6613810;18 August 670;0670-08-01;Saint Faro;Saint-Fiacre;France
-2143;Irish National Stud;[u'53.14455 -6.901495'];;11 August;0670-08-11;Anne of Austria; ;Ireland
+2143;Irish National Stud;[u'53.14455 -6.901495'];;11 August;0670-08-11;Anne of Austria;;Ireland
 2144;Breuil;[u'49.310555555556 3.7666666666667'];6616931;18 August 670;0670-08-01;Saint Faro;Breuil;France
-2145;County Kilkenny;[u'52.583333333333 -7.25'];2963397;18 August 670;0670-08-01;Saint Faro; ;Ireland
+2145;County Kilkenny;[u'52.583333333333 -7.25'];2963397;18 August 670;0670-08-01;Saint Faro;;Ireland
 2146;Roman Catholic Diocese of Meaux;[u'48.9602 2.87975'];;18 August 670;0670-08-01;Saint Faro;Meaux;France
 2147;Brie;[u'48.666666666667 3'];8521427;18 August 670;0670-08-01;Saint Faro;Voinsles;France
 2148;Europe;[u'46 7'];6255148;1945;1945-01-01;Adolph Alexander Weinman;Chamonix-Mont-Blanc;France
@@ -2170,53 +2170,53 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 2169;Kingdom of Powys;[u'53.23333333 -4.01666667'];;1160;1160-01-01;Owain Brogyntyn;Abergwyngregyn;United Kingdom
 2170;Kingdom of Powys;[u'53.23333333 -4.01666667'];;1160;1160-01-01;Owain Cyfeiliog;Abergwyngregyn;United Kingdom
 2171;Mawddwy;[u'52.7191 -3.68991'];;1160;1160-01-01;Owain Gwynedd;Dinas Mawddwy;United Kingdom
-2172;Caereinion;[u'52.69 -3.29'];;1160;1160-01-01;Owain Gwynedd; ;United Kingdom
-2173;Meirionnydd;[u'52.758 -3.835'];;1160;1160-01-01;Owain Gwynedd; ;United Kingdom
+2172;Caereinion;[u'52.69 -3.29'];;1160;1160-01-01;Owain Gwynedd;;United Kingdom
+2173;Meirionnydd;[u'52.758 -3.835'];;1160;1160-01-01;Owain Gwynedd;;United Kingdom
 2174;Canada;[u'56 -109'];6251999;November 30, 2009;2009-11-30;Bev Oda;Michel Village;Canada
 2175;Canada;[u'56 -109'];6251999;November 30, 2009;2009-11-30;Stephen Harper;Michel Village;Canada
 2176;Szombathely;[u'47.233333333333 16.633333333333'];3044310;1916;1916-01-01;Miklós Horthy;Szombathely;Hungary
 2177;Szombathely;[u'47.233333333333 16.633333333333'];3044310;1916;1916-01-01;Charles I of Austria;Szombathely;Hungary
-2178;Jebel Uweinat;[u'21.919444444444 24.922222222222'];80884;1932;1932-01-01;Leo Frobenius; ;Libya
-2179;Jebel Uweinat;[u'21.919444444444 24.922222222222'];80884;1932;1932-01-01;Hubert Jones; ;Libya
-2180;Jebel Uweinat;[u'21.919444444444 24.922222222222'];80884;1932;1932-01-01;Ludovico di Caporiacco; ;Libya
-2181;Jebel Uweinat;[u'21.919444444444 24.922222222222'];80884;the previous year;1932-01-01;Hansjoachim von der Esch; ;Libya
-2182;Jebel Uweinat;[u'21.919444444444 24.922222222222'];80884;1939;1939-01-01;Heinrich Barth; ;Libya
-2183;Egyptian Sand Sea;[u'26.9 26.033333333333'];356473;spring of 1934;1934-01-01;Pat Clayton; ;Egypt
-2184;Siwa Oasis;[u'29.190556 25.549167'];347863;spring of 1934;1934-01-01;Pat Clayton; ;Egypt
-2185;Asyut;[u'27.186944444444 31.171388888889'];359783;late 1943;1943-01-01;Johannes Eppler; ;Egypt
+2178;Jebel Uweinat;[u'21.919444444444 24.922222222222'];80884;1932;1932-01-01;Leo Frobenius;;Libya
+2179;Jebel Uweinat;[u'21.919444444444 24.922222222222'];80884;1932;1932-01-01;Hubert Jones;;Libya
+2180;Jebel Uweinat;[u'21.919444444444 24.922222222222'];80884;1932;1932-01-01;Ludovico di Caporiacco;;Libya
+2181;Jebel Uweinat;[u'21.919444444444 24.922222222222'];80884;the previous year;1932-01-01;Hansjoachim von der Esch;;Libya
+2182;Jebel Uweinat;[u'21.919444444444 24.922222222222'];80884;1939;1939-01-01;Heinrich Barth;;Libya
+2183;Egyptian Sand Sea;[u'26.9 26.033333333333'];356473;spring of 1934;1934-01-01;Pat Clayton;;Egypt
+2184;Siwa Oasis;[u'29.190556 25.549167'];347863;spring of 1934;1934-01-01;Pat Clayton;;Egypt
+2185;Asyut;[u'27.186944444444 31.171388888889'];359783;late 1943;1943-01-01;Johannes Eppler;;Egypt
 2186;Gödöllő;[u'47.6 19.366666666667'];3052236;December 1950;1950-12-01;Pál Teleki;Gödöllő;Hungary
 2187;Gödöllő;[u'47.6 19.366666666667'];3052236;December 1950;1950-12-01;Robert Baden-Powell;Gödöllő;Hungary
 2188;Gödöllő;[u'47.6 19.366666666667'];3052236;December 1950;1950-12-01;Farouk of Egypt;Gödöllő;Hungary
 2189;Gödöllő;[u'47.6 19.366666666667'];3052236;1921;1921-01-01;Michael Ondaatje;Gödöllő;Hungary
-2190;Cave of Swimmers;[u'23.594719444444 25.2335'];;1932;1932-01-01;Leo Frobenius; ;Egypt
-2191;Libyan Desert;[u'24 25'];353306;the previous year;1933-01-01;Pat Clayton; ;Egypt
-2192;Gilf Kebir;[u'23.441388888889 25.839722222222'];355051;late 1943;1943-01-01;Johannes Eppler; ;Egypt
-2193;Sudan;[u'15 32'];366755;November 1921;1921-11-01;Miklós Horthy; ;Sudan
-2194;Kharga Oasis;[u'25.25 30.55'];360478;late 1943;1943-01-01;Johannes Eppler; ;Egypt
-2195;Nile;[u'30.166667 31.1'];351036;November 1921;1921-11-01;Miklós Horthy; ;Egypt
+2190;Cave of Swimmers;[u'23.594719444444 25.2335'];;1932;1932-01-01;Leo Frobenius;;Egypt
+2191;Libyan Desert;[u'24 25'];353306;the previous year;1933-01-01;Pat Clayton;;Egypt
+2192;Gilf Kebir;[u'23.441388888889 25.839722222222'];355051;late 1943;1943-01-01;Johannes Eppler;;Egypt
+2193;Sudan;[u'15 32'];366755;November 1921;1921-11-01;Miklós Horthy;;Sudan
+2194;Kharga Oasis;[u'25.25 30.55'];360478;late 1943;1943-01-01;Johannes Eppler;;Egypt
+2195;Nile;[u'30.166667 31.1'];351036;November 1921;1921-11-01;Miklós Horthy;;Egypt
 2196;Bletchley Park;[u'51.996944 -0.741944'];;late 1943;1943-01-01;Johannes Eppler;Bletchley;United Kingdom
-2197;Almaza Air Base;[u'30.0944 31.3597'];;April 1935;1935-04-01;Pat Clayton; ;Egypt
-2198;Sahara;[u'23.079722222222 12.612222222222'];2212709;1921;1921-01-01;Miklós Horthy; ;Niger
+2197;Almaza Air Base;[u'30.0944 31.3597'];;April 1935;1935-04-01;Pat Clayton;;Egypt
+2198;Sahara;[u'23.079722222222 12.612222222222'];2212709;1921;1921-01-01;Miklós Horthy;;Niger
 2199;Jalu;[u'29.0284 21.5366'];86050;late 1943;1943-01-01;Johannes Eppler;Jalu;Libya
 2200;Austria-Hungary;[u'48.2 16.35'];;3 November 1895;1895-11-03;Michael Ondaatje;Wien;Austria
 2201;Austria-Hungary;[u'48.2 16.35'];;3 November 1895;1895-11-03;György Almásy;Wien;Austria
-2202;The English Patient;[u'23.59485278 25.23360556'];;3 November 1895;1895-11-03;Michael Ondaatje; ;Egypt
+2202;The English Patient;[u'23.59485278 25.23360556'];;3 November 1895;1895-11-03;Michael Ondaatje;;Egypt
 2203;Bernstein im Burgenland;[u'47.405 16.255555555556'];7871616;3 November 1895;1895-11-03;Michael Ondaatje;Bernstein;Austria
 2204;Wadi Halfa;[u'21.792777777778 31.3775'];364132;the previous year;1932-01-01;Leo Frobenius;Wadi Halfa;Sudan
 2205;NKVD;[u'55.7606 37.6281'];;1997;1997-01-01;Farouk of Egypt;Moskva;Russia
 2206;Kufra;[u'24.183333333333 23.283333333333'];88931;1932;1932-01-01;Leo Frobenius;Al Jawf;Libya
-2207;Nubia;[u'18.9508 32.2558'];;the previous year;1932-01-01;Leo Frobenius; ;Sudan
+2207;Nubia;[u'18.9508 32.2558'];;the previous year;1932-01-01;Leo Frobenius;;Sudan
 2208;Eastbourne;[u'50.766389 0.286111'];2650497;3 November 1895;1895-11-03;Michael Ondaatje;Eastbourne;United Kingdom
 2209;Secret Intelligence Service;[u'51.487194444444 -0.12405555555556'];;1997;1997-01-01;Farouk of Egypt;London;United Kingdom
-2210;Wadi Howar;[u'18.05722222 30.94869444'];;autumn of 1933;1933-01-01;Leo Frobenius; ;Sudan
+2210;Wadi Howar;[u'18.05722222 30.94869444'];;autumn of 1933;1933-01-01;Leo Frobenius;;Sudan
 2211;Salzburg;[u'47.8 13.033333333333'];2766818;December 1950;1950-12-01;Pál Teleki;Salzburg;Austria
-2212;Cyprus;[u'35 33'];146669;1953;1953-01-01;Lawrence Durrell; ;Cyprus
+2212;Cyprus;[u'35 33'];146669;1953;1953-01-01;Lawrence Durrell;;Cyprus
 2213;Yugoslavia;[u'44.820555555556 20.462222222222'];8505035;1953;1953-01-01;Lawrence Durrell;Beograd;Serbia
 2214;Yugoslavia;[u'44.820555555556 20.462222222222'];8505035;1953;1953-01-01;Gerald Durrell;Beograd;Serbia
-2215;Corfu;[u'39.623888888889 19.82'];2463678;1953;1953-01-01;Lawrence Durrell; ;Greece
-2216;Rhodes;[u'36.166666666667 28'];8133781;1953;1953-01-01;Lawrence Durrell; ;Greece
-2217;Bellapais;[u'35.3 33.35'];146680;1953;1953-01-01;Gerald Durrell; ; 
-2218;Turkish Republic of Northern Cyprus;[u'35.25 33.75'];;1953;1953-01-01;Gerald Durrell; ; 
+2215;Corfu;[u'39.623888888889 19.82'];2463678;1953;1953-01-01;Lawrence Durrell;;Greece
+2216;Rhodes;[u'36.166666666667 28'];8133781;1953;1953-01-01;Lawrence Durrell;;Greece
+2217;Bellapais;[u'35.3 33.35'];146680;1953;1953-01-01;Gerald Durrell;;
+2218;Turkish Republic of Northern Cyprus;[u'35.25 33.75'];;1953;1953-01-01;Gerald Durrell;;
 2219;Pancyprian Gymnasium;[u'35.1733 33.3692'];;1951;1951-01-01;Gerald Durrell;Nicosia;Cyprus
 2220;Ottawa;[u'45.416666666667 -75.7'];6094817;April 3, 1947;1947-04-03;Harvey Glatt;Ottawa;Canada
 2221;Ottawa;[u'45.416666666667 -75.7'];6094817;April 3, 1947;1947-04-03;Adam Mitchell;Ottawa;Canada
@@ -2245,7 +2245,7 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 2244;Gaochang;[u'42.852777777778 89.529166666667'];;2012;2012-01-01;Marco Polo;Tulufan Shi;China
 2245;Kashgar;[u'39.45 75.983333'];1280849;1996;1996-01-01;Marco Polo;Kashi Diqu;China
 2246;Gansu;[u'38 102'];1810676;1995;1995-01-01;Zhang Qian;Jinchang Shi;China
-2247;Silk Road;[u'30.593888888889 61.327777777778'];;220 AD;0220-01-01;Zhang Qian; ;Iran
+2247;Silk Road;[u'30.593888888889 61.327777777778'];;220 AD;0220-01-01;Zhang Qian;;Iran
 2248;Xinjiang;[u'43.8253 87.61379'];1529047;220 AD;0220-01-01;Zhang Qian;Wulumuqi Shi;China
 2249;Liangzhou District;[u'37.92859 102.63977'];;220 AD;0220-01-01;Zhang Qian;Wuwei Shi;China
 2250;Shandong University;[u'36.671844444444 117.05398333333'];;1995;1995-01-01;Zhang Qian;Jinan Shi;China
@@ -2255,11 +2255,11 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 2254;Hebei;[u'38.042222222222 114.50861111111'];1808773;2012;2012-01-01;Marco Polo;Shijiazhuang Shi;China
 2255;Yibin;[u'28.75961 104.63997'];1786770;2012;2012-01-01;Marco Polo;Yibin Shi;China
 2256;Tonghua;[u'41.73015 125.94705'];2034414;2012;2012-01-01;Marco Polo;Tonghua Shi;China
-2257;Ottoman Empire;[u'41 29'];;1918;1918-01-01;T. E. Lawrence; ;Turkey
-2258;Ottoman Empire;[u'41 29'];;1918;1918-01-01;Faisal I of Iraq; ;Turkey
-2259;Ottoman Empire;[u'41 29'];;1918;1918-01-01;Mariano Goybet; ;Turkey
-2260;Ottoman Empire;[u'41 29'];;1918;1918-01-01;Henri Gouraud; ;Turkey
-2261;Battle of Maysalun;[u'33.59555556 36.06472222'];;1918;1918-01-01;T. E. Lawrence; ;Syria
+2257;Ottoman Empire;[u'41 29'];;1918;1918-01-01;T. E. Lawrence;;Turkey
+2258;Ottoman Empire;[u'41 29'];;1918;1918-01-01;Faisal I of Iraq;;Turkey
+2259;Ottoman Empire;[u'41 29'];;1918;1918-01-01;Mariano Goybet;;Turkey
+2260;Ottoman Empire;[u'41 29'];;1918;1918-01-01;Henri Gouraud;;Turkey
+2261;Battle of Maysalun;[u'33.59555556 36.06472222'];;1918;1918-01-01;T. E. Lawrence;;Syria
 2262;Royal Opera House;[u'51.512891666667 -0.12276666666667'];6619896;2006;2006-01-01;Roberto Alagna;London;United Kingdom
 2263;Royal Opera House;[u'51.512891666667 -0.12276666666667'];6619896;2006;2006-01-01;Luc Bondy;London;United Kingdom
 2264;Royal Opera House;[u'51.512891666667 -0.12276666666667'];6619896;2006;2006-01-01;Calixto Bieito;London;United Kingdom
@@ -2335,13 +2335,13 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 2334;Gävle;[u'60.683333333333 17.166666666667'];2712414;1993;1993-01-01;Roberto Luongo;Gävle;Sweden
 2335;Gävle;[u'60.683333333333 17.166666666667'];2712414;1993;1993-01-01;Zdeněk Šmíd;Gävle;Sweden
 2336;Gävle;[u'60.683333333333 17.166666666667'];2712414;1993;1993-01-01;Ilya Bryzgalov;Gävle;Sweden
-2337;Kazakhstan;[u'48 68'];1522867;1994;1994-01-01;Evgeny Muratov; ;Kazakhstan
-2338;Kazakhstan;[u'48 68'];1522867;1994;1994-01-01;Milan Kraft; ;Kazakhstan
-2339;Kazakhstan;[u'48 68'];1522867;1994;1994-01-01;Libor Pivko; ;Kazakhstan
-2340;Kazakhstan;[u'48 68'];1522867;1995;1995-01-01;Zbyněk Irgl; ;Kazakhstan
-2341;Kazakhstan;[u'48 68'];1522867;1995;1995-01-01;Aleksei Volkov; ;Kazakhstan
+2337;Kazakhstan;[u'48 68'];1522867;1994;1994-01-01;Evgeny Muratov;;Kazakhstan
+2338;Kazakhstan;[u'48 68'];1522867;1994;1994-01-01;Milan Kraft;;Kazakhstan
+2339;Kazakhstan;[u'48 68'];1522867;1994;1994-01-01;Libor Pivko;;Kazakhstan
+2340;Kazakhstan;[u'48 68'];1522867;1995;1995-01-01;Zbyněk Irgl;;Kazakhstan
+2341;Kazakhstan;[u'48 68'];1522867;1995;1995-01-01;Aleksei Volkov;;Kazakhstan
 2342;Umeå;[u'63.833333333333 20.25'];602150;1993;1993-01-01;Artem Chubarov;Umeå;Sweden
-2343;Belarus;[u'53.528333333333 28.046666666667'];630336;1993;1993-01-01;Artem Chubarov; ;Belarus
+2343;Belarus;[u'53.528333333333 28.046666666667'];630336;1993;1993-01-01;Artem Chubarov;;Belarus
 2344;Czech Republic;[u'50 16'];3077311;1997;1997-01-01;Ilya Kovalchuk;Moravany;Czechia
 2345;North Dakota;[u'47.5 -100.5'];5690763;2002;2002-01-01;Anton Volchenkov;McClusky;United States
 2346;North Dakota;[u'47.5 -100.5'];5690763;2002;2002-01-01;Pascal Leclaire;McClusky;United States
@@ -2360,8 +2360,8 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 2359;Perth Oval;[u'-31.945833 115.87'];;2010;2010-01-01;Mal Meninga;Perth;Australia
 2360;Perth Oval;[u'-31.945833 115.87'];;2010;2010-01-01;Laurie Daley;Perth;Australia
 2361;Manuka Oval;[u'-35.318056 149.134722'];2158826;1997;1997-01-01;Kate Carnell;Griffith;Australia
-2362;2022 FIFA World Cup;[u'25.5 51.533333'];;2004;2004-01-01;George Gregan; ;Qatar
-2363;Forsyth Barr Stadium;[u'-45.869167 170.524444'];;2015;2015-01-01;Andrew Barr; ;New Zealand
+2362;2022 FIFA World Cup;[u'25.5 51.533333'];;2004;2004-01-01;George Gregan;;Qatar
+2363;Forsyth Barr Stadium;[u'-45.869167 170.524444'];;2015;2015-01-01;Andrew Barr;;New Zealand
 2364;Queanbeyan;[u'-35.353333333333 149.23416666667'];2152286;1990;1990-01-01;Kate Carnell;Queanbeyan;Australia
 2365;Canberra;[u'-35.302777777778 149.14166666667'];2172517;1977;1977-01-01;Marita Koch;Parkes;Australia
 2366;Australian Capital Territory;[u'-35.308055555556 149.12444444444'];2177478;2009;2009-01-01;George Gregan;Capital Hill;Australia
@@ -2370,7 +2370,7 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 2369;London;[u'51.507222222222 -0.1275'];2643743;1968;1968-01-01;A. R. Gurney;London;United Kingdom
 2370;Northeastern United States;[u'42 -73'];;1968;1968-01-01;A. R. Gurney;West Hartland;United States
 2371;Glennville, California;[u'35.728888888889 -118.70361111111'];5352477;1856;1856-01-01;Jack Gordon;Glennville;United States
-2372;Chad;[u'15.466667 19.4'];2434508;2002;2002-01-01;Mahamat Saleh Haroun; ;Chad
+2372;Chad;[u'15.466667 19.4'];2434508;2002;2002-01-01;Mahamat Saleh Haroun;;Chad
 2373;Gaoui;[u'12.1807 15.1476'];2432279;2002;2002-01-01;Mahamat Saleh Haroun;Gaoui;Chad
 2374;N'Djamena;[u'12.116388888889 15.072222222222'];2427123;2002;2002-01-01;Mahamat Saleh Haroun;N'Djamena;Chad
 2375;Vijećnica;[u'43.85916667 18.43333333'];;2000;2000-01-01;Adil Zulfikarpašić;Sarajevo;Bosnia and Herzegovina
@@ -2434,25 +2434,25 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 2433;Warsaw;[u'52.216666666667 21.033333333333'];756135;1990;1990-01-01;Sylvia Serfaty;Warszawa;Poland
 2434;Warsaw;[u'52.216666666667 21.033333333333'];756135;1990;1990-01-01;Stanislav Smirnov;Warszawa;Poland
 2435;Warsaw;[u'52.216666666667 21.033333333333'];756135;1990;1990-01-01;Warwick Tucker;Warszawa;Poland
-2436;Poland;[u'52 19'];798544;1992;1992-01-01;Mathieu Lewin; ;Poland
-2437;Poland;[u'52 19'];798544;1992;1992-01-01;Ciprian Manolescu; ;Poland
-2438;Poland;[u'52 19'];798544;1992;1992-01-01;Grégory Miermont; ;Poland
-2439;Poland;[u'52 19'];798544;1992;1992-01-01;Sophie Morel; ;Poland
-2440;Poland;[u'52 19'];798544;1992;1992-01-01;Corinna Ulcigrai; ;Poland
-2441;Poland;[u'52 19'];798544;1992;1992-01-01;Laure Saint-Raymond; ;Poland
-2442;Poland;[u'52 19'];798544;1992;1992-01-01;Emmanuel Breuillard; ;Poland
-2443;Poland;[u'52 19'];798544;1992;1992-01-01;Tom Sanders; ;Poland
-2444;Poland;[u'52 19'];798544;1992;1992-01-01;Artur Avila; ;Poland
-2445;Poland;[u'52 19'];798544;1992;1992-01-01;Alexei Borodin; ;Poland
-2446;Poland;[u'52 19'];798544;1992;1992-01-01;Ben Joseph Green; ;Poland
-2447;Poland;[u'52 19'];798544;1992;1992-01-01;Olga Holtz; ;Poland
-2448;Poland;[u'52 19'];798544;1992;1992-01-01;Boáz Klartag; ;Poland
-2449;Poland;[u'52 19'];798544;1992;1992-01-01;Assaf Naor; ;Poland
-2450;Poland;[u'52 19'];798544;1992;1992-01-01;Agata Smoktunowicz; ;Poland
-2451;Poland;[u'52 19'];798544;1992;1992-01-01;Cédric Villani; ;Poland
-2452;Poland;[u'52 19'];798544;1992;1992-01-01;Simon Brendle; ;Poland
-2453;Poland;[u'52 19'];798544;1992;1992-01-01;Alessio Figalli; ;Poland
-2454;Poland;[u'52 19'];798544;1992;1992-01-01;Adrian Ioana; ;Poland
+2436;Poland;[u'52 19'];798544;1992;1992-01-01;Mathieu Lewin;;Poland
+2437;Poland;[u'52 19'];798544;1992;1992-01-01;Ciprian Manolescu;;Poland
+2438;Poland;[u'52 19'];798544;1992;1992-01-01;Grégory Miermont;;Poland
+2439;Poland;[u'52 19'];798544;1992;1992-01-01;Sophie Morel;;Poland
+2440;Poland;[u'52 19'];798544;1992;1992-01-01;Corinna Ulcigrai;;Poland
+2441;Poland;[u'52 19'];798544;1992;1992-01-01;Laure Saint-Raymond;;Poland
+2442;Poland;[u'52 19'];798544;1992;1992-01-01;Emmanuel Breuillard;;Poland
+2443;Poland;[u'52 19'];798544;1992;1992-01-01;Tom Sanders;;Poland
+2444;Poland;[u'52 19'];798544;1992;1992-01-01;Artur Avila;;Poland
+2445;Poland;[u'52 19'];798544;1992;1992-01-01;Alexei Borodin;;Poland
+2446;Poland;[u'52 19'];798544;1992;1992-01-01;Ben Joseph Green;;Poland
+2447;Poland;[u'52 19'];798544;1992;1992-01-01;Olga Holtz;;Poland
+2448;Poland;[u'52 19'];798544;1992;1992-01-01;Boáz Klartag;;Poland
+2449;Poland;[u'52 19'];798544;1992;1992-01-01;Assaf Naor;;Poland
+2450;Poland;[u'52 19'];798544;1992;1992-01-01;Agata Smoktunowicz;;Poland
+2451;Poland;[u'52 19'];798544;1992;1992-01-01;Cédric Villani;;Poland
+2452;Poland;[u'52 19'];798544;1992;1992-01-01;Simon Brendle;;Poland
+2453;Poland;[u'52 19'];798544;1992;1992-01-01;Alessio Figalli;;Poland
+2454;Poland;[u'52 19'];798544;1992;1992-01-01;Adrian Ioana;;Poland
 2455;England;[u'51.5 -0.11666666666667'];6269131;1987;1987-01-01;Nick Drake;London;United Kingdom
 2456;Bilaspur, Chhattisgarh;[u'22.15 82.016666666667'];1275637;1939;1939-01-01;Jairam Valji Chauhan;Khajuri;India
 2457;Bilaspur district;[u'22.383333333333 82.133333333333'];1275639;1939;1939-01-01;Jairam Valji Chauhan;Khaira;India
@@ -2462,25 +2462,25 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 2461;Chojnice;[u'53.7 17.55'];3101672;12 June 1815;1815-06-12;Christoph Wilhelm Hufeland;Chojnice;Poland
 2462;Pennsylvania;[u'41 -77.5'];6254927;1855;1855-01-01;Richard Vaux;Mill Hall;United States
 2463;Pennsylvania;[u'41 -77.5'];6254927;1855;1855-01-01;Stephen A. Douglas;Mill Hall;United States
-2464;Egypt;[u'26 29'];357994;1954;1954-01-01;Muhammad Ali Pasha; ;Egypt
-2465;Egypt;[u'26 29'];357994;1954;1954-01-01;Talaat Harb; ;Egypt
-2466;Egypt;[u'26 29'];357994;1954;1954-01-01;Gamal Abdel Nasser; ;Egypt
-2467;Egypt;[u'26 29'];357994;1954;1954-01-01;Soliman Pasha; ;Egypt
-2468;Cairo Fire;[u'30.0581 31.2289'];;Black Saturday;1954-04-17;Umm Kulthum; ;Egypt
-2469;Tahrir Square;[u'30.044422 31.235696'];6955473;1921;1921-01-01;Umm Kulthum; ;Egypt
-2470;Tahrir Square;[u'30.044422 31.235696'];6955473;1921;1921-01-01;Youssef Wahba; ;Egypt
+2464;Egypt;[u'26 29'];357994;1954;1954-01-01;Muhammad Ali Pasha;;Egypt
+2465;Egypt;[u'26 29'];357994;1954;1954-01-01;Talaat Harb;;Egypt
+2466;Egypt;[u'26 29'];357994;1954;1954-01-01;Gamal Abdel Nasser;;Egypt
+2467;Egypt;[u'26 29'];357994;1954;1954-01-01;Soliman Pasha;;Egypt
+2468;Cairo Fire;[u'30.0581 31.2289'];;Black Saturday;1954-04-17;Umm Kulthum;;Egypt
+2469;Tahrir Square;[u'30.044422 31.235696'];6955473;1921;1921-01-01;Umm Kulthum;;Egypt
+2470;Tahrir Square;[u'30.044422 31.235696'];6955473;1921;1921-01-01;Youssef Wahba;;Egypt
 2471;Dole;[u'47.092222222222 5.4897222222222'];3021263;1428;1428-01-01;Philip the Good;Dole;France
 2472;Dole;[u'47.092222222222 5.4897222222222'];3021263;1428;1428-01-01;Charles the Bold;Dole;France
 2473;Dole;[u'47.092222222222 5.4897222222222'];3021263;1428;1428-01-01;Jan II Carondelet;Dole;France
 2474;Mechelen;[u'51.016666666667 4.4666666666667'];2791537;1428;1428-01-01;Philip the Good;Mechelen;Belgium
 2475;Mechelen;[u'51.016666666667 4.4666666666667'];2791537;1470;1470-01-01;Ferry Carondelet;Mechelen;Belgium
 2476;Illinois;[u'40 -89'];4896861;October 18, 1988;1988-10-18;Roseanne Barr;Maroa;United States
-2477;Ghana;[u'8 -1'];2300660;26 December 1915;1915-12-26;Kwame Nkrumah; ;Ghana
-2478;Ghana;[u'8 -1'];2300660;26 December 1915;1915-12-26;Hilla Limann; ;Ghana
-2479;Lefkada;[u'38.717778 20.643889'];258437;July 1805;1805-07-01;George Eyre; ;Greece
+2477;Ghana;[u'8 -1'];2300660;26 December 1915;1915-12-26;Kwame Nkrumah;;Ghana
+2478;Ghana;[u'8 -1'];2300660;26 December 1915;1915-12-26;Hilla Limann;;Ghana
+2479;Lefkada;[u'38.717778 20.643889'];258437;July 1805;1805-07-01;George Eyre;;Greece
 2480;Pace University;[u'40.7114 -74.005'];;29 April 1953;1953-04-29;Aliko Dangote;New York;United States
 2481;Pace University;[u'40.7114 -74.005'];;1990;1990-01-01;Umaru Musa Yar'Adua;New York;United States
-2482;Ondo State;[u'7.1666666666667 5.0833333333333'];2326168;September 2015;2015-09-01;Aliko Dangote; ;Nigeria
+2482;Ondo State;[u'7.1666666666667 5.0833333333333'];2326168;September 2015;2015-09-01;Aliko Dangote;;Nigeria
 2483;Ibadan Grammar School;[u'7.35 3.894'];;29 April 1953;1953-04-29;Aliko Dangote;Ibadan;Nigeria
 2484;Northwestern Oklahoma State University;[u'36.796 -98.6683'];7243509;29 April 1953;1953-04-29;Aliko Dangote;Alva;United States
 2485;Mahabalipuram;[u'12.616454 80.19937'];1263997;2004;2004-01-01;Mayasura;Mahabalipuram;India
@@ -2509,9 +2509,9 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 2508;Danelaw;[u'54 -1'];;789;0789-01-01;Offa of Mercia;Stockton on the Forest;United Kingdom
 2509;Danelaw;[u'54 -1'];;789;0789-01-01;Alfred the Great;Stockton on the Forest;United Kingdom
 2510;Danelaw;[u'54 -1'];;875;0875-01-01;Edward the Confessor;Stockton on the Forest;United Kingdom
-2511;Kingdom of France;[];;1381;1381-01-01;Henry VII of England; ; 
-2512;Kingdom of France;[];;1381;1381-01-01;Henry VI of England; ; 
-2513;Kingdom of France;[];;1381;1381-01-01;Henry V of England; ; 
+2511;Kingdom of France;[];;1381;1381-01-01;Henry VII of England;;
+2512;Kingdom of France;[];;1381;1381-01-01;Henry VI of England;;
+2513;Kingdom of France;[];;1381;1381-01-01;Henry V of England;;
 2514;Westminster;[u'51.4995 -0.1333'];2634341;1258;1258-01-01;John of England;London;United Kingdom
 2515;Westminster;[u'51.4995 -0.1333'];2634341;1258;1258-01-01;Henry III of England;London;United Kingdom
 2516;Westminster;[u'51.4995 -0.1333'];2634341;1258;1258-01-01;Henry I of England;London;United Kingdom
@@ -2522,17 +2522,17 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 2521;House of Lords;[u'51.498805555556 -0.12486111111111'];;1377;1377-01-01;Richard I of England;London;United Kingdom
 2522;House of Lords;[u'51.498805555556 -0.12486111111111'];;1377;1377-01-01;Richard II of England;London;United Kingdom
 2523;Roman Empire;[u'41.883333333333 12.466666666667'];8354456;1485;1485-01-01;William I of England;Roma;Italy
-2524;Gloucestershire;[u'51.833333333333 -2.1666666666667'];2648402;1290;1290-01-01;Gregory I; ;United Kingdom
-2525;Gloucestershire;[u'51.833333333333 -2.1666666666667'];2648402;1290;1290-01-01;Augustine of Canterbury; ;United Kingdom
-2526;Gloucestershire;[u'51.833333333333 -2.1666666666667'];2648402;the second half;1290-01-01;Oswald of Northumbria; ;United Kingdom
-2527;Gloucestershire;[u'51.833333333333 -2.1666666666667'];2648402;the second half;1290-01-01;Oswiu of Northumbria; ;United Kingdom
-2528;Gloucestershire;[u'51.833333333333 -2.1666666666667'];2648402;1290;1290-01-01;Æthelberht; ;United Kingdom
-2529;Somerset;[u'51.3 -3'];2637532;1290;1290-01-01;Gregory I; ;United Kingdom
-2530;Roman Britain;[u'52.22 -0.57'];8378485;1381;1381-01-01;Henry VII of England; ;United Kingdom
-2531;Kingdom of Wessex;[u'51.2 -2'];;1485;1485-01-01;William I of England; ;United Kingdom
+2524;Gloucestershire;[u'51.833333333333 -2.1666666666667'];2648402;1290;1290-01-01;Gregory I;;United Kingdom
+2525;Gloucestershire;[u'51.833333333333 -2.1666666666667'];2648402;1290;1290-01-01;Augustine of Canterbury;;United Kingdom
+2526;Gloucestershire;[u'51.833333333333 -2.1666666666667'];2648402;the second half;1290-01-01;Oswald of Northumbria;;United Kingdom
+2527;Gloucestershire;[u'51.833333333333 -2.1666666666667'];2648402;the second half;1290-01-01;Oswiu of Northumbria;;United Kingdom
+2528;Gloucestershire;[u'51.833333333333 -2.1666666666667'];2648402;1290;1290-01-01;Æthelberht;;United Kingdom
+2529;Somerset;[u'51.3 -3'];2637532;1290;1290-01-01;Gregory I;;United Kingdom
+2530;Roman Britain;[u'52.22 -0.57'];8378485;1381;1381-01-01;Henry VII of England;;United Kingdom
+2531;Kingdom of Wessex;[u'51.2 -2'];;1485;1485-01-01;William I of England;;United Kingdom
 2532;Winchester Cathedral;[u'51.060722 -1.313333'];8015420;1384;1384-01-01;Henry I of England;Winchester;United Kingdom
-2533;Knights Hospitaller;[u'38.725 -8.143333'];;664;0664-01-01;Gregory VII; ;Portugal
-2534;Knights Hospitaller;[u'38.725 -8.143333'];;1215;1215-01-01;William Adelin; ;Portugal
+2533;Knights Hospitaller;[u'38.725 -8.143333'];;664;0664-01-01;Gregory VII;;Portugal
+2534;Knights Hospitaller;[u'38.725 -8.143333'];;1215;1215-01-01;William Adelin;;Portugal
 2535;Battle of Sluys;[u'51.308611111111 3.3880555555556'];;851;0851-01-01;Edward I of England;Sluis;Netherlands
 2536;Worcester;[u'52.191111111111 -2.2222222222222'];2633563;664;0664-01-01;Gregory VII;Worcester;United Kingdom
 2537;Worcester;[u'52.191111111111 -2.2222222222222'];2633563;664;0664-01-01;Anselm of Canterbury;Worcester;United Kingdom
@@ -2554,10 +2554,10 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 2553;Flemish Region;[u'51 4.5'];;1199;1199-01-01;Simon de Montfort, 6th Earl of Leicester;Zemst;Belgium
 2554;Flemish Region;[u'51 4.5'];;1264;1264-01-01;Isabella of France;Zemst;Belgium
 2555;Flemish Region;[u'51 4.5'];;1264;1264-01-01;Roger Mortimer, 1st Earl of March;Zemst;Belgium
-2556;abandoned village;[];;1348;1348-01-01;Jack Cade; ; 
+2556;abandoned village;[];;1348;1348-01-01;Jack Cade;;
 2557;Offa's Dyke;[u'52.344 -3.049'];;789;0789-01-01;Edred of England;Knighton;United Kingdom
-2558;Irish Sea;[u'53.721667 -5.177222'];6640368;1346;1346-01-01;Edward II of England; ; 
-2559;English Channel;[u'50 -2'];2649991;1346;1346-01-01;Edward II of England; ; 
+2558;Irish Sea;[u'53.721667 -5.177222'];6640368;1346;1346-01-01;Edward II of England;;
+2559;English Channel;[u'50 -2'];2649991;1346;1346-01-01;Edward II of England;;
 2560;York;[u'53.95 -1.0833333333333'];2633351;789;0789-01-01;Edred of England;York;United Kingdom
 2561;House of Commons of England;[u'51.4999 -0.124667'];;1377;1377-01-01;Jack Cade;London;United Kingdom
 2562;South Wales;[u'51.6833 -3.38333'];7302127;1087;1087-01-01;William Adelin;Mountain Ash;United Kingdom
@@ -2569,14 +2569,14 @@ e_id;geo_name;loc;geonamesid;time;time_norm;actor;city;country
 2568;South Wales;[u'51.6833 -3.38333'];7302127;1066;1066-01-01;Robert Curthose;Mountain Ash;United Kingdom
 2569;South Wales;[u'51.6833 -3.38333'];7302127;1066;1066-01-01;Stephen of Aumale;Mountain Ash;United Kingdom
 2570;South Wales;[u'51.6833 -3.38333'];7302127;1087;1087-01-01;William Clito;Mountain Ash;United Kingdom
-2571;Kingdom of Northumbria;[u'55 -2.5'];2641234;789;0789-01-01;Edred of England; ;United Kingdom
-2572;North Wales;[u'52.937 -3.659'];7302125;1087;1087-01-01;William Adelin; ;United Kingdom
-2573;Battle of Winchelsea;[u'50.874 0.817'];;851;0851-01-01;Edward I of England; ;United Kingdom
+2571;Kingdom of Northumbria;[u'55 -2.5'];2641234;789;0789-01-01;Edred of England;;United Kingdom
+2572;North Wales;[u'52.937 -3.659'];7302125;1087;1087-01-01;William Adelin;;United Kingdom
+2573;Battle of Winchelsea;[u'50.874 0.817'];;851;0851-01-01;Edward I of England;;United Kingdom
 2574;Glastonbury Abbey;[u'51.145555555556 -2.7144444444444'];7627243;1384;1384-01-01;Henry I of England;Glastonbury;United Kingdom
 2575;Battle of Tinchebray;[u'48.76525 -0.72783333333333'];;1087;1087-01-01;William Adelin;Tinchebray-Bocage;France
 2576;University of Paris;[u'48.848611111111 2.3433333333333'];;the second half;1450-01-01;William Caxton;Paris;France
-2577;Kingdom of France;[];;1321;1321-01-01;Henry IV of England; ; 
-2578;Kingdom of France;[];;1321;1321-01-01;Edward, the Black Prince; ; 
+2577;Kingdom of France;[];;1321;1321-01-01;Henry IV of England;;
+2578;Kingdom of France;[];;1321;1321-01-01;Edward, the Black Prince;;
 2579;York;[u'53.95 -1.0833333333333'];2633351;1381;1381-01-01;Edward IV of England;York;United Kingdom
 2580;York;[u'53.95 -1.0833333333333'];2633351;1381;1381-01-01;Edward V of England;York;United Kingdom
 2581;York;[u'53.95 -1.0833333333333'];2633351;1381;1381-01-01;George Plantagenet, 1st Duke of Clarence;York;United Kingdom
