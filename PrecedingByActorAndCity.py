@@ -11,7 +11,6 @@ conf = SparkConf().set("spark.sql.crossJoin.enabled", True)
 sc = SparkContext("local", "Simple App", conf=conf)
 sqlContext = SQLContext(sc)
 
-
 def gps_diff(gps1, gps2):
     lat1 = gps1[0] if len(gps1) > 0 else 0
     lat2 = gps2[0] if len(gps2) > 0 else 0
@@ -30,10 +29,8 @@ def gps_diff(gps1, gps2):
 
     return d
 
-
 def get_counter_str(counter):
     return str(counter) if counter > 1 else ''
-
 
 gps_diff_udf = udf(gps_diff, FloatType())
 
@@ -48,42 +45,26 @@ customSchema = StructType([
     StructField("city", StringType()),
     StructField("country", StringType())])
 
-# df = sqlContext.read.format("com.databricks.spark.csv").option("header", "true").option("sep", ";")\
-# .option('inferSchema', "false")\
-# .schema(customSchema)\
-# .load("/FileStore/tables/sxepgnzm1484053693268/events_hd_export_flat2.csv")
-
-# /FileStore/tables/eyknrq101484056159506/events_hd_export_flat.csv
-# /FileStore/tables/zdkspjxk1484056295645/events_hd_export_flat2.csv
-
+start_time = time.time()
 # rdd = sc.textFile("C:/Users/Alexander/Desktop/spark-2.0.1-bin-hadoop2.7/bin/files/events_hd_export_flat.csv") \
-# rdd = sc.textFile("/user/vako7385/events_hd_export_flat.csv") \
-rdd = sc.textFile("/Users/olegeg/Desktop/Ilmenau/group_project/IlmenauGroupProject/events_temp.csv") \
+rdd = sc.textFile("/Users/olegeg/Desktop/Ilmenau/group_project/IlmenauGroupProject/events_with_city_and_country.csv") \
     .map(lambda line: line.split(";")) \
     .filter(lambda line: line[0] != 'e_id') \
     .map(lambda line: [int(line[0]), line[1], [float(x) for x in line[2][3:-2].split(' ')] if len(line[2]) > 5 else [],
                        int(line[3]) if len(line[3]) > 0 else None, line[4], datetime.strptime(line[5], '%Y-%m-%d'),
                        line[6], line[7] if len(line[7]) > 0 else None, line[8] if len(line[8]) > 0 else None])
 
-# rdd.collect()
 df = sqlContext.createDataFrame(rdd, customSchema)
-# df.registerTempTable("events")
-# sqlContext.sql("select e_id as Id, concat(actor, '-', geo_name, '-', tidf.select(df.e_id.alias('e_id2'), df.geo_name.alias('geo_name2'), df.loc.alias('loc2'), df.geonamesid.alias('geonamesid2'), df.time.alias('time2'), df.time_norm.alias('time_norm2'), df.actor.alias('actor2')me_norm) as Label,  from events") \
-#    .write.format('com.databricks.spark.csv').option('sep', ';').option('header', True).save('nodeCSV2')
-
-df2 = df.filter("length(city) > 0").cache()
-print df2.count()
-
-# print(df2.take(10))
-
-#df3 = df2
-df3 = df2.filter(df.e_id == 80).cache()
-
-actorJoin = True
-counter = 1
-
-global_counter = 2
 output_column_list = []
+
+# !!! CHANGE THESE VALUES TO VARY THE SEARCHING LOCATION
+search_depth = 2
+root_event_id = 999
+date_threshold = 365 * 200
+# !!! ----
+
+df = df.where(length(col("city")) > 0).cache()
+df2 = df.filter(df.e_id == root_event_id)
 
 nodes_df_schema = StructType([
     StructField("Id", StringType(), True),
@@ -99,102 +80,102 @@ edges_df_schema = StructType([
 
 nodes_df = sqlContext.createDataFrame([], nodes_df_schema)
 edges_df = sqlContext.createDataFrame([], edges_df_schema)
-time_start = time.time()
 
-while global_counter > 0:
+actorJoin = True
+step_counter = 1
+while search_depth > 0:
 
-    current_counter_str = get_counter_str(counter)
-    next_counter_str = get_counter_str(counter + 1)
+    current_counter_str = get_counter_str(step_counter)
+    next_counter_str = get_counter_str(step_counter + 1)
 
-    df2 = df2.withColumnRenamed('e_id' + current_counter_str, 'e_id' + next_counter_str)
-    df2 = df2.withColumnRenamed('geo_name' + current_counter_str, 'geo_name' + next_counter_str)
-    df2 = df2.withColumnRenamed('loc' + current_counter_str, 'loc' + next_counter_str)
-    df2 = df2.withColumnRenamed('geonamesid' + current_counter_str, 'geonamesid' + next_counter_str)
-    df2 = df2.withColumnRenamed('time' + current_counter_str, 'time' + next_counter_str)
-    df2 = df2.withColumnRenamed('time_norm' + current_counter_str, 'time_norm' + next_counter_str)
-    df2 = df2.withColumnRenamed('actor' + current_counter_str, 'actor' + next_counter_str)
-    df2 = df2.withColumnRenamed('city' + current_counter_str, 'city' + next_counter_str)
-    df2 = df2.withColumnRenamed('country' + current_counter_str, 'country' + next_counter_str)
+    df = df.withColumnRenamed('e_id' + current_counter_str, 'e_id' + next_counter_str)
+    df = df.withColumnRenamed('geo_name' + current_counter_str, 'geo_name' + next_counter_str)
+    df = df.withColumnRenamed('loc' + current_counter_str, 'loc' + next_counter_str)
+    df = df.withColumnRenamed('geonamesid' + current_counter_str, 'geonamesid' + next_counter_str)
+    df = df.withColumnRenamed('time' + current_counter_str, 'time' + next_counter_str)
+    df = df.withColumnRenamed('time_norm' + current_counter_str, 'time_norm' + next_counter_str)
+    df = df.withColumnRenamed('actor' + current_counter_str, 'actor' + next_counter_str)
+    df = df.withColumnRenamed('city' + current_counter_str, 'city' + next_counter_str)
+    df = df.withColumnRenamed('country' + current_counter_str, 'country' + next_counter_str)
+
+    if step_counter == 1:
+      output_column_list.append('e_id' + current_counter_str)
+      output_column_list.append('time_norm' + current_counter_str)
+      output_column_list.append('actor' + current_counter_str)
+
+    output_column_list.append('e_id' + next_counter_str)
+    output_column_list.append('time_norm' + next_counter_str)
+    output_column_list.append('actor' + next_counter_str)
 
     if actorJoin:
 
-        df3 = df3.join(df2, (df3['actor' + current_counter_str] == df2['actor' + next_counter_str])
-                       & (df3['time_norm' + current_counter_str] > df2['time_norm' + next_counter_str])) \
-            .orderBy('time_norm' + next_counter_str)
+        df2 = df2.join(df, (df2['actor' + current_counter_str] == df['actor' + next_counter_str])
+                       & (df['time_norm' + next_counter_str] < df2['time_norm' + current_counter_str])) \
+        .orderBy('time_norm' + next_counter_str)
 
-        if counter == 1:
-            nodes_df = nodes_df.union(df3.select(df3['e_id' + current_counter_str].alias('Id'),
-                                      df3['actor' + current_counter_str].alias('Label'),
-                                      df3['city' + current_counter_str].alias('City'))).distinct()
+        if step_counter == 1:
+            nodes_df = nodes_df.union(df2.select(df2['e_id' + current_counter_str].alias('Id'),
+                                      (concat(df2['actor' + current_counter_str], lit(' - '),
+                                              df2['geo_name' + current_counter_str], lit(' - '),
+                                              df2['time_norm' + current_counter_str])).alias('Label'),
+                                  df2['city' + current_counter_str].alias('City')))
 
-        nodes_df = nodes_df.union(df3.select(df3['e_id' + next_counter_str].alias('Id'),
-                                             (concat(df3['actor' + next_counter_str], lit(' - '),
-                                                     df3['geo_name' + next_counter_str], lit(' - '),
-                                                     df3['time_norm' + next_counter_str])).alias('Label'),
-                                                     df3['city' + current_counter_str].alias('City'))).distinct()
+        if date_threshold > 0:
+          df2 = df2.withColumn('date_diff' + current_counter_str, datediff(df2['time_norm' + current_counter_str], df2['time_norm' + next_counter_str]))
+          df2 = df2.filter(df2['date_diff' + current_counter_str] < date_threshold)
+          output_column_list.append('date_diff' + current_counter_str)
 
-        edges_df = edges_df.union(df3.select(df3['e_id' + current_counter_str].alias('Source'),
-                                  df3['e_id' + next_counter_str].alias('Target'),
-                                  df3['actor' + current_counter_str].alias('Label'))).distinct()
+        #nodes_df = nodes_df.union(df2.select(df2['e_id' + next_counter_str].alias('Id'),
+        #                                     (concat(df2['actor' + next_counter_str], lit(' - '),
+         #                                            df2['geo_name' + next_counter_str], lit(' - '),
+         #                                            df2['time_norm' + next_counter_str])).alias('Label'),
+         #                          df2['city' + next_counter_str].alias('City'))).distinct()
+
+        #dges_df = edges_df.union(df2.select(df2['e_id' + current_counter_str].alias('Source'),
+         #                         df2['e_id' + next_counter_str].alias('Target'),
+        #                          df2['actor' + current_counter_str].alias('Label'))).distinct()
 
         actorJoin = False
 
     else:
-
-        df3 = df3.join(df2, (df3['time_norm' + current_counter_str] > df2['time_norm' + next_counter_str])
-          & (df3['city' + current_counter_str] == df2['city' + next_counter_str])) \
+        df2 = df2.join(df, (df['time_norm' + next_counter_str] < df2['time_norm' + current_counter_str])
+                       & (df['city' + next_counter_str] == df2['city' + current_counter_str])) \
             .orderBy('time_norm' + next_counter_str).cache()
-        # df3 = df3.withColumn('gps_diff' + current_counter_str,
-        #                      gps_diff_udf(col('loc' + current_counter_str), col('loc' + next_counter_str)))
-        # df3 = df3.filter((df3['gps_diff' + current_counter_str] < 300))
-                         # & (df3['time_norm' + next_counter_str] < df3['time_norm' + current_counter_str])
-                         # & (df3['actor' + current_counter_str] != df3['actor' + next_counter_str])
 
-        nodes_df = nodes_df.union(df3.select(df3['e_id' + next_counter_str].alias('Id'),
-                                             (concat(df3['actor' + next_counter_str], lit(' - '),
-                                                     df3['geo_name' + next_counter_str], lit(' - '),
-                                                     df3['time_norm' + next_counter_str])).alias('Label'),
-                                                     df3['city' + current_counter_str].alias('City'))).distinct()
+        if date_threshold > 0:
+          df2 = df2.withColumn('date_diff' + current_counter_str, datediff(df2['time_norm' + current_counter_str], df2['time_norm' + next_counter_str]))
+          df2 = df2.filter(df2['date_diff' + current_counter_str] < date_threshold)
+          output_column_list.append('date_diff' + current_counter_str)
 
-        edges_df = edges_df.union(df3.select(df3['e_id' + current_counter_str].alias('Source'),
-                                  df3['e_id' + next_counter_str].alias('Target'),
-                                  concat(lit('Location')).alias('Label'))).distinct()
+        #nodes_df = nodes_df.union(df2.select(df2['e_id' + next_counter_str].alias('Id'),
+         #                                    (concat(df2['actor' + next_counter_str], lit(' - '),
+         #                                            df2['geo_name' + next_counter_str], lit(' - '),
+        #                                             df2['time_norm' + next_counter_str])).alias('Label'),
+         #                         df2['city' + next_counter_str].alias('City'))).distinct()
 
-        df3.unpersist()
+        #edges_df = edges_df.union(df2.select(df2['e_id' + current_counter_str].alias('Source'),
+        #                          df2['e_id' + next_counter_str].alias('Target'),
+        #                          concat(lit('Location')).alias('Label'))).distinct()
 
+        df2.unpersist()
+
+        output_column_list.append('city' + current_counter_str)
         actorJoin = True
 
-    #output_column_list.append('e_id' + current_counter_str)
-    #output_column_list.append('geo_name' + current_counter_str)
-    #output_column_list.append('time_norm' + current_counter_str)
-    #output_column_list.append('actor' + current_counter_str)
+    step_counter += 1
+    search_depth -= 1
 
-    counter += 1
-    global_counter -= 1
+df2.repartition(1).select(output_column_list).write.format('com.databricks.spark.csv')\
+  .option('sep', ';').option('header', True).option("dateFormat", "yyyy-MM-dd") \
+  .save('/Users/olegeg/Desktop/Ilmenau/group_project/IlmenauGroupProject/PrecedingByActorAndCity')
 
-time_end = time.time()
-# df3.repartition(1).select(output_column_list).write.format('com.databricks.spark.csv')\
-# .option('sep', ';').option('header', True).option("dateFormat", "YYYY-MM-DD").save('/user/vako7385/PrecedingEventsByActor2_Remote1')
-
-#df3.repartition(1).select(output_column_list).write.format('com.databricks.spark.csv')\
-#    .option('sep', ';').option('header', True).save('PrecedingEventsByActor2')
-
-#nodes_df.registerTempTable('nodes')
-#nodes_df_formatted = sqlContext.sql('select Id, Label, ')
+print("Preceding Events By Actor execution time: ", (time.time() - start_time))
 
 # nodes_df.repartition(1).write.format('com.databricks.spark.csv') \
-#     .option('sep', ';').option('header', True).save('/user/vako7385/PrecedingEventsByActor2_Nodes')
+#    .option('sep', ';').option('header', True) \
+#    .save('/Users/olegeg/Desktop/Ilmenau/group_project/IlmenauGroupProject/PrecedingByActorAndCity_Nodes')
 
 # edges_df.repartition(1).write.format('com.databricks.spark.csv') \
-#     .option('sep', ';').option('header', True).save('/user/vako7385/PrecedingEventsByActor2_Edges')
-
-nodes_df.repartition(1).write.format('com.databricks.spark.csv') \
-   .option('sep', ';').option('header', True) \
-   .save('/Users/olegeg/Desktop/Ilmenau/group_project/IlmenauGroupProject/PrecedingByActorAndCity_Nodes')
-
-edges_df.repartition(1).write.format('com.databricks.spark.csv') \
-   .option('sep', ';').option('header', True) \
-   .save('/Users/olegeg/Desktop/Ilmenau/group_project/IlmenauGroupProject/PrecedingByActorAndCity_Edges')
-
-print "time of execution ", time_end - time_start, " seconds"
+#    .option('sep', ';').option('header', True) \
+#    .save('/Users/olegeg/Desktop/Ilmenau/group_project/IlmenauGroupProject/PrecedingByActorAndCity_Edges')
 
